@@ -1,0 +1,419 @@
+module,date,start_time,end_time,week_day,course,part,year
+2CW/IDP Introductory lecture[1]L Crisp(Lecture Theatre 1),10-10-2024,09:00,10:00,Thu,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[1]C (),10-10-2024,09:00,11:00,Thu,Engineering,IB,2
+2CW/Integrated Coursework: intro lecture[1]L McRobie(Lecture Theatre 2),10-10-2024,10:00,11:00,Thu,Engineering,IB,2
+2P7/Vector Calculus[1]L Pullan(Constance Tipper),10-10-2024,11:00,12:00,Thu,Engineering,IB,2
+2P3/Materials[1]L Kabla/McShane(Constance Tipper),10-10-2024,12:00,13:00,Thu,Engineering,IB,2
+2CW/,10-10-2024,14:00,15:30,Thu,Engineering,IB,2
+2P6/Linear Systems and Control[1]L Lestas(Constance Tipper),11-10-2024,09:00,10:00,Fri,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[1]L Davies Wykes(Constance Tipper),11-10-2024,10:00,11:00,Fri,Engineering,IB,2
+2P4/Thermofluid Mechanics (Thermo)[1]L Miller(Constance Tipper),11-10-2024,10:00,11:00,Fri,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[1]C (),11-10-2024,11:00,13:00,Fri,Engineering,IB,2
+2P5/Analysis of Circuits[1]L Durkan(Constance Tipper),11-10-2024,14:00,15:00,Fri,Engineering,IB,2
+2P3/Materials[1]L Kabla/McShane(Constance Tipper),14-10-2024,09:00,10:00,Mon,Engineering,IB,2
+2P5/Analysis of Circuits[1]L Durkan(Constance Tipper),14-10-2024,10:00,11:00,Mon,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[1]C (),14-10-2024,11:00,13:00,Mon,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[1]C (),15-10-2024,09:00,11:00,Tue,Engineering,IB,2
+2P6/Linear Systems and Control[1]L Lestas(Constance Tipper),15-10-2024,11:00,12:00,Tue,Engineering,IB,2
+2P7/Vector Calculus[1]L Pullan(Constance Tipper),15-10-2024,12:00,13:00,Tue,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[1]C (),16-10-2024,09:00,11:00,Wed,Engineering,IB,2
+2P6/Linear Systems and Control[1]L Lestas(Constance Tipper),16-10-2024,11:00,12:00,Wed,Engineering,IB,2
+2P4/Thermofluid Mechanics (Thermo)[1]L Miller(Constance Tipper),16-10-2024,12:00,13:00,Wed,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[1]L Davies Wykes(Constance Tipper),16-10-2024,12:00,13:00,Wed,Engineering,IB,2
+2CW/Mars Lander Feedback[1]L Gee(Constance Tipper),16-10-2024,14:00,15:00,Wed,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[2]C (),17-10-2024,09:00,11:00,Thu,Engineering,IB,2
+2P7/Vector Calculus[2]L Pullan(Constance Tipper),17-10-2024,11:00,12:00,Thu,Engineering,IB,2
+2P3/Materials[2]L Kabla/McShane(Constance Tipper),17-10-2024,12:00,13:00,Thu,Engineering,IB,2
+2P6/Linear Systems and Control[2]L Lestas(Constance Tipper),18-10-2024,09:00,10:00,Fri,Engineering,IB,2
+2P4/Thermofluid Mechanics (Thermo)[2]L Miller(Constance Tipper),18-10-2024,10:00,11:00,Fri,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[2]L Davies Wykes(Constance Tipper),18-10-2024,10:00,11:00,Fri,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[2]C (),18-10-2024,11:00,13:00,Fri,Engineering,IB,2
+2P5/Analysis of Circuits[2]L Durkan(Constance Tipper),18-10-2024,14:00,15:00,Fri,Engineering,IB,2
+2P3/Materials[2]L Kabla/McShane(Constance Tipper),21-10-2024,09:00,10:00,Mon,Engineering,IB,2
+2P5/Analysis of Circuits[2]L Durkan(Constance Tipper),21-10-2024,10:00,11:00,Mon,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[2]C (),21-10-2024,11:00,13:00,Mon,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[2]C (),22-10-2024,09:00,11:00,Tue,Engineering,IB,2
+2P6/Linear Systems and Control[2]L Lestas(Constance Tipper),22-10-2024,11:00,12:00,Tue,Engineering,IB,2
+2P7/Vector Calculus[2]L Pullan(Constance Tipper),22-10-2024,12:00,13:00,Tue,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[2]C (),23-10-2024,09:00,11:00,Wed,Engineering,IB,2
+2P6/Linear Systems and Control[2]L Lestas(Constance Tipper),23-10-2024,11:00,12:00,Wed,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[2]L Davies Wykes(Constance Tipper),23-10-2024,12:00,13:00,Wed,Engineering,IB,2
+2P4/Thermofluid Mechanics (Thermo)[2]L Miller(Constance Tipper),23-10-2024,12:00,13:00,Wed,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[3]C (),24-10-2024,09:00,11:00,Thu,Engineering,IB,2
+2P7/Vector Calculus[3]L Pullan(Constance Tipper),24-10-2024,11:00,12:00,Thu,Engineering,IB,2
+2P3/Materials[3]L Kabla/McShane(Constance Tipper),24-10-2024,12:00,13:00,Thu,Engineering,IB,2
+2P6/Linear Systems and Control[3]L Lestas(Constance Tipper),25-10-2024,09:00,10:00,Fri,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[3]L Davies Wykes(Constance Tipper),25-10-2024,10:00,11:00,Fri,Engineering,IB,2
+2P4/Thermofluid Mechanics (Thermo)[3]L Miller(Constance Tipper),25-10-2024,10:00,11:00,Fri,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[3]C (),25-10-2024,11:00,13:00,Fri,Engineering,IB,2
+2CW/Industrial Placements lecture[1]L Houghton(Constance Tipper),25-10-2024,13:00,14:00,Fri,Engineering,IB,2
+2P5/Analysis of Circuits[3]L Durkan(Constance Tipper),25-10-2024,14:00,15:00,Fri,Engineering,IB,2
+2P3/Materials[3]L Kabla/McShane(Constance Tipper),28-10-2024,09:00,10:00,Mon,Engineering,IB,2
+2P5/Analysis of Circuits[3]L Durkan(Constance Tipper),28-10-2024,10:00,11:00,Mon,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[3]C (),28-10-2024,11:00,13:00,Mon,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[3]C (),29-10-2024,09:00,11:00,Tue,Engineering,IB,2
+2P2/Structures[1]L Seffen(Constance Tipper),29-10-2024,11:00,12:00,Tue,Engineering,IB,2
+2P7/Vector Calculus[3]L Pullan(Constance Tipper),29-10-2024,12:00,13:00,Tue,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[3]C (),30-10-2024,09:00,11:00,Wed,Engineering,IB,2
+2P2/Structures[1]L Seffen(Constance Tipper),30-10-2024,11:00,12:00,Wed,Engineering,IB,2
+2P4/Thermofluid Mechanics (Thermo)[3]L Miller(Constance Tipper),30-10-2024,12:00,13:00,Wed,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[3]L Davies Wykes(Constance Tipper),30-10-2024,12:00,13:00,Wed,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[4]C (),31-10-2024,09:00,11:00,Thu,Engineering,IB,2
+2CX/Sustainable Engineering[1]L Borgomeo/Gonzalez Cabrera Honorio Serrenho/MacAskill(Constance Tipper),31-10-2024,11:00,12:00,Thu,Engineering,IB,2
+2P3/Materials[4]L Kabla/McShane(Constance Tipper),31-10-2024,12:00,13:00,Thu,Engineering,IB,2
+2P6/Linear Systems and Control[4]L Lestas(Constance Tipper),01-11-2024,09:00,10:00,Fri,Engineering,IB,2
+2P4/Thermofluid Mechanics (Thermo)[4]L Miller(Constance Tipper),01-11-2024,10:00,11:00,Fri,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[4]L Davies Wykes(Constance Tipper),01-11-2024,10:00,11:00,Fri,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[4]C (),01-11-2024,11:00,13:00,Fri,Engineering,IB,2
+2P5/Analysis of Circuits[4]L Durkan(Constance Tipper),01-11-2024,14:00,15:00,Fri,Engineering,IB,2
+2P3/Materials[4]L Kabla/McShane(Constance Tipper),04-11-2024,09:00,10:00,Mon,Engineering,IB,2
+2P5/Analysis of Circuits[4]L Durkan(Constance Tipper),04-11-2024,10:00,11:00,Mon,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[4]C (),04-11-2024,11:00,13:00,Mon,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[4]C (),05-11-2024,09:00,11:00,Tue,Engineering,IB,2
+2P2/Structures[2]L Seffen(Constance Tipper),05-11-2024,11:00,12:00,Tue,Engineering,IB,2
+2P7/Vector Calculus[4]L Pullan(Constance Tipper),05-11-2024,12:00,13:00,Tue,Engineering,IB,2
+2CW/Industrial Placements workshop[1]L Houghton(Lecture Theatre 1),05-11-2024,13:00,14:00,Tue,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[4]C (),06-11-2024,09:00,11:00,Wed,Engineering,IB,2
+2P2/Structures[2]L Seffen(Constance Tipper),06-11-2024,11:00,12:00,Wed,Engineering,IB,2
+2P4/Thermofluid Mechanics (Thermo)[4]L Miller(Constance Tipper),06-11-2024,12:00,13:00,Wed,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[4]L Davies Wykes(Constance Tipper),06-11-2024,12:00,13:00,Wed,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[5]C (),07-11-2024,09:00,11:00,Thu,Engineering,IB,2
+2CW/IDP Introductory lecture[1]L Crisp(Lecture Theatre 1),07-11-2024,09:00,10:00,Thu,Engineering,IB,2
+2CW/Integrated Coursework: intro lecture[1]L McRobie(Lecture Theatre 2),07-11-2024,10:00,11:00,Thu,Engineering,IB,2
+2CX/Sustainable Engineering[2]L Borgomeo/Gonzalez Cabrera Honorio Serrenho/MacAskill(Constance Tipper),07-11-2024,11:00,12:00,Thu,Engineering,IB,2
+2P3/Materials[5]L Kabla/McShane(Constance Tipper),07-11-2024,12:00,13:00,Thu,Engineering,IB,2
+2CW/,07-11-2024,14:00,15:30,Thu,Engineering,IB,2
+2P6/Linear Systems and Control[5]L Lestas(Constance Tipper),08-11-2024,09:00,10:00,Fri,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[5]L Davies Wykes(Constance Tipper),08-11-2024,10:00,11:00,Fri,Engineering,IB,2
+2P4/Thermofluid Mechanics (Thermo)[5]L Miller(Constance Tipper),08-11-2024,10:00,11:00,Fri,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[5]C (),08-11-2024,11:00,13:00,Fri,Engineering,IB,2
+2P3/Materials[5]L Kabla/McShane(Constance Tipper),11-11-2024,09:00,10:00,Mon,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[5]C (),11-11-2024,11:00,13:00,Mon,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[5]C (),12-11-2024,09:00,11:00,Tue,Engineering,IB,2
+2P2/Structures[3]L Seffen(Constance Tipper),12-11-2024,11:00,12:00,Tue,Engineering,IB,2
+2P7/Vector Calculus[5]L Pullan(Constance Tipper),12-11-2024,12:00,13:00,Tue,Engineering,IB,2
+2CW/Industrial Placements workshop[2]L Houghton(Lecture Theatre 1),12-11-2024,13:00,14:00,Tue,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[5]C (),13-11-2024,09:00,11:00,Wed,Engineering,IB,2
+2P2/Structures[3]L Seffen(Constance Tipper),13-11-2024,11:00,12:00,Wed,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[5]L Davies Wykes(Constance Tipper),13-11-2024,12:00,13:00,Wed,Engineering,IB,2
+2P4/Thermofluid Mechanics (Thermo)[5]L Miller(Constance Tipper),13-11-2024,12:00,13:00,Wed,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[6]C (),14-11-2024,09:00,11:00,Thu,Engineering,IB,2
+2CX/Sustainable Engineering[3]L Borgomeo/Gonzalez Cabrera Honorio Serrenho/MacAskill(Constance Tipper),14-11-2024,11:00,12:00,Thu,Engineering,IB,2
+2P3/Materials[6]L Kabla/McShane(Constance Tipper),14-11-2024,12:00,13:00,Thu,Engineering,IB,2
+2P6/Linear Systems and Control[6]L Lestas(Constance Tipper),15-11-2024,09:00,10:00,Fri,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[6]L Davies Wykes(Constance Tipper),15-11-2024,10:00,11:00,Fri,Engineering,IB,2
+2P4/Thermofluid Mechanics (Thermo)[6]L Miller(Constance Tipper),15-11-2024,10:00,11:00,Fri,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[6]C (),15-11-2024,11:00,13:00,Fri,Engineering,IB,2
+2P3/Materials[6]L Kabla/McShane(Constance Tipper),18-11-2024,09:00,10:00,Mon,Engineering,IB,2
+2P7/Vector Calculus[1]L Pullan(Constance Tipper),18-11-2024,10:00,11:00,Mon,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[6]C (),18-11-2024,11:00,13:00,Mon,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[6]C (),19-11-2024,09:00,11:00,Tue,Engineering,IB,2
+2P2/Structures[4]L Seffen(Constance Tipper),19-11-2024,11:00,12:00,Tue,Engineering,IB,2
+2P7/Vector Calculus[6]L Pullan(Constance Tipper),19-11-2024,12:00,13:00,Tue,Engineering,IB,2
+2CW/Industrial Placements workshop[3]L Houghton(Lecture Theatre 1),19-11-2024,13:00,14:00,Tue,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[6]C (),20-11-2024,09:00,11:00,Wed,Engineering,IB,2
+2P2/Structures[4]L Seffen(Constance Tipper),20-11-2024,11:00,12:00,Wed,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[6]L Davies Wykes(Constance Tipper),20-11-2024,12:00,13:00,Wed,Engineering,IB,2
+2P4/Thermofluid Mechanics (Thermo)[6]L Miller(Constance Tipper),20-11-2024,12:00,13:00,Wed,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[7]C (),21-11-2024,09:00,11:00,Thu,Engineering,IB,2
+2CX/Sustainable Engineering[4]L Borgomeo/Gonzalez Cabrera Honorio Serrenho/MacAskill(Constance Tipper),21-11-2024,11:00,12:00,Thu,Engineering,IB,2
+2P3/Materials[7]L Kabla/McShane(Constance Tipper),21-11-2024,12:00,13:00,Thu,Engineering,IB,2
+2P6/Linear Systems and Control[7]L Lestas(Constance Tipper),22-11-2024,09:00,10:00,Fri,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[7]L Davies Wykes(Constance Tipper),22-11-2024,10:00,11:00,Fri,Engineering,IB,2
+2P4/Thermofluid Mechanics (Thermo)[7]L Miller(Constance Tipper),22-11-2024,10:00,11:00,Fri,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[7]C (),22-11-2024,11:00,13:00,Fri,Engineering,IB,2
+2P3/Materials[7]L Kabla/McShane(Constance Tipper),25-11-2024,09:00,10:00,Mon,Engineering,IB,2
+2P7/Vector Calculus[2]L Pullan(Constance Tipper),25-11-2024,10:00,11:00,Mon,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[7]C (),25-11-2024,11:00,13:00,Mon,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[7]C (),26-11-2024,09:00,11:00,Tue,Engineering,IB,2
+2P2/Structures[5]L Seffen(Constance Tipper),26-11-2024,11:00,12:00,Tue,Engineering,IB,2
+2P7/Vector Calculus[7]L Pullan(Constance Tipper),26-11-2024,12:00,13:00,Tue,Engineering,IB,2
+2CW/Industrial Placements workshop[4]L Houghton(Lecture Theatre 1),26-11-2024,13:00,14:00,Tue,Engineering,IB,2
+2P6/Linear Systems and Control[1]L Lestas(Constance Tipper),26-11-2024,14:00,15:00,Tue,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[7]C (),27-11-2024,09:00,11:00,Wed,Engineering,IB,2
+2P2/Structures[5]L Seffen(Constance Tipper),27-11-2024,11:00,12:00,Wed,Engineering,IB,2
+2P4/Thermofluid Mechanics (Thermo)[7]L Miller(Constance Tipper),27-11-2024,12:00,13:00,Wed,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[7]L Davies Wykes(Constance Tipper),27-11-2024,12:00,13:00,Wed,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[8]C (),28-11-2024,09:00,11:00,Thu,Engineering,IB,2
+2CX/Sustainable Engineering[5]L Borgomeo/Gonzalez Cabrera Honorio Serrenho/MacAskill(Constance Tipper),28-11-2024,11:00,12:00,Thu,Engineering,IB,2
+2P3/Materials[8]L Kabla/McShane(Constance Tipper),28-11-2024,12:00,13:00,Thu,Engineering,IB,2
+2P6/Linear Systems and Control[8]L Lestas(Constance Tipper),29-11-2024,09:00,10:00,Fri,Engineering,IB,2
+2P4/Thermofluid Mechanics (Thermo)[8]L Miller(Constance Tipper),29-11-2024,10:00,11:00,Fri,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[8]L Davies Wykes(Constance Tipper),29-11-2024,10:00,11:00,Fri,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[8]C (),29-11-2024,11:00,13:00,Fri,Engineering,IB,2
+2P3/Materials[8]L Kabla/McShane(Constance Tipper),02-12-2024,09:00,10:00,Mon,Engineering,IB,2
+2P7/Vector Calculus[3]L Pullan(Constance Tipper),02-12-2024,10:00,11:00,Mon,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[8]C (),02-12-2024,11:00,13:00,Mon,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[8]C (),03-12-2024,09:00,11:00,Tue,Engineering,IB,2
+2P2/Structures[6]L Seffen(Constance Tipper),03-12-2024,11:00,12:00,Tue,Engineering,IB,2
+2P7/Vector Calculus[8]L Pullan(Constance Tipper),03-12-2024,12:00,13:00,Tue,Engineering,IB,2
+2P6/Linear Systems and Control[2]L Lestas(Constance Tipper),03-12-2024,14:00,15:00,Tue,Engineering,IB,2
+2CW/Lab/IDP/Computing (see rota)[8]C (),04-12-2024,09:00,11:00,Wed,Engineering,IB,2
+2P2/Structures[6]L Seffen(Constance Tipper),04-12-2024,11:00,12:00,Wed,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[8]L Davies Wykes(Constance Tipper),04-12-2024,12:00,13:00,Wed,Engineering,IB,2
+2P4/Thermofluid Mechanics (Thermo)[8]L Miller(Constance Tipper),04-12-2024,12:00,13:00,Wed,Engineering,IB,2
+2CW/IDP Introductory lecture[1]L Sapienza(Lecture Theatre 1),23-01-2025,09:00,10:00,Thu,Engineering,IB,2
+2CW/Lent Lab (see rota)[1]C (),23-01-2025,09:00,11:00,Thu,Engineering,IB,2
+2CW/Integrated Coursework: intro lecture[1]L Haigh/Talbot(Lecture Theatre 1),23-01-2025,10:00,11:00,Thu,Engineering,IB,2
+2P4/Thermofluid Mechanics (Heat transfer)[1]L Scott(Constance Tipper),23-01-2025,11:00,12:00,Thu,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[1]L Davies Wykes(Constance Tipper),23-01-2025,11:00,12:00,Thu,Engineering,IB,2
+2P1/Mechanical Engineering[1]L Hunt_HEM(Constance Tipper),23-01-2025,12:00,13:00,Thu,Engineering,IB,2
+2CW/,23-01-2025,14:00,15:30,Thu,Engineering,IB,2
+2P1/Mechanical Engineering[1]L Hunt_HEM(Constance Tipper),24-01-2025,09:00,10:00,Fri,Engineering,IB,2
+2P7/Probability[1]L Savin(Constance Tipper),24-01-2025,10:00,11:00,Fri,Engineering,IB,2
+2P6/Fourier Transforms/Signal and Data[1]L Mancini(Constance Tipper),24-01-2025,14:00,15:00,Fri,Engineering,IB,2
+2P2/Structures[1]L Lees(Constance Tipper),24-01-2025,15:00,16:00,Fri,Engineering,IB,2
+2P7/Probability[1]L Savin(Constance Tipper),27-01-2025,09:00,10:00,Mon,Engineering,IB,2
+2P5/Electrical Power[1]L Flack(Constance Tipper),27-01-2025,10:00,11:00,Mon,Engineering,IB,2
+2CW/Lent Lab (see rota)[1]C (),27-01-2025,11:00,13:00,Mon,Engineering,IB,2
+2P4/Thermofluid Mechanics (Heat transfer)[1]L Scott(Constance Tipper),27-01-2025,14:00,15:00,Mon,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[1]L Davies Wykes(Constance Tipper),27-01-2025,14:00,15:00,Mon,Engineering,IB,2
+2CW/Lent Lab (see rota)[1]C (),28-01-2025,09:00,11:00,Tue,Engineering,IB,2
+2P8C/Paper 8: The Engineer in Business (Compulsory)[1]L Coleridge/Lu/Pollitt(Constance Tipper),28-01-2025,11:00,12:00,Tue,Engineering,IB,2
+2P2/Structures[1]L Lees(Constance Tipper),28-01-2025,12:00,13:00,Tue,Engineering,IB,2
+2CW/Lent Lab (see rota)[1]C (),29-01-2025,09:00,11:00,Wed,Engineering,IB,2
+2P5/Electrical Power[1]L Flack(Constance Tipper),29-01-2025,11:00,12:00,Wed,Engineering,IB,2
+2P6/Fourier Transforms/Signal and Data[1]L Mancini(Constance Tipper),29-01-2025,14:00,15:00,Wed,Engineering,IB,2
+2CW/Lent Lab (see rota)[2]C (),30-01-2025,09:00,11:00,Thu,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[2]L Davies Wykes(Constance Tipper),30-01-2025,11:00,12:00,Thu,Engineering,IB,2
+2P4/Thermofluid Mechanics (Heat transfer)[2]L Scott(Constance Tipper),30-01-2025,11:00,12:00,Thu,Engineering,IB,2
+2P1/Mechanical Engineering[2]L Hunt_HEM(Constance Tipper),30-01-2025,12:00,13:00,Thu,Engineering,IB,2
+2P1/Mechanical Engineering[2]L Hunt_HEM(Constance Tipper),31-01-2025,09:00,10:00,Fri,Engineering,IB,2
+2P7/Probability[2]L Savin(Constance Tipper),31-01-2025,10:00,11:00,Fri,Engineering,IB,2
+2P6/Fourier Transforms/Signal and Data[2]L Mancini(Constance Tipper),31-01-2025,14:00,15:00,Fri,Engineering,IB,2
+2P2/Structures[2]L Lees(Constance Tipper),31-01-2025,15:00,16:00,Fri,Engineering,IB,2
+2P7/Probability[2]L Savin(Constance Tipper),03-02-2025,09:00,10:00,Mon,Engineering,IB,2
+2P5/Electrical Power[2]L Flack(Constance Tipper),03-02-2025,10:00,11:00,Mon,Engineering,IB,2
+2CW/Lent Lab (see rota)[2]C (),03-02-2025,11:00,13:00,Mon,Engineering,IB,2
+2P4/Thermofluid Mechanics (Heat transfer)[2]L Scott(Constance Tipper),03-02-2025,14:00,15:00,Mon,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[2]L Davies Wykes(Constance Tipper),03-02-2025,14:00,15:00,Mon,Engineering,IB,2
+2CW/Lent Lab (see rota)[2]C (),04-02-2025,09:00,11:00,Tue,Engineering,IB,2
+2P8C/Paper 8: The Engineer in Business (Compulsory)[2]L Coleridge/Lu/Pollitt(Constance Tipper),04-02-2025,11:00,12:00,Tue,Engineering,IB,2
+2P2/Structures[2]L Lees(Constance Tipper),04-02-2025,12:00,13:00,Tue,Engineering,IB,2
+2CW/Lent Lab (see rota)[2]C (),05-02-2025,09:00,11:00,Wed,Engineering,IB,2
+2P5/Electrical Power[2]L Flack(Constance Tipper),05-02-2025,11:00,12:00,Wed,Engineering,IB,2
+2P6/Fourier Transforms/Signal and Data[2]L Mancini(Constance Tipper),05-02-2025,14:00,15:00,Wed,Engineering,IB,2
+2CW/Lent Lab (see rota)[3]C (),06-02-2025,09:00,11:00,Thu,Engineering,IB,2
+2P4/Thermofluid Mechanics (Heat transfer)[3]L Scott(Constance Tipper),06-02-2025,11:00,12:00,Thu,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[3]L Davies Wykes(Constance Tipper),06-02-2025,11:00,12:00,Thu,Engineering,IB,2
+2P1/Mechanical Engineering[3]L Hunt_HEM(Constance Tipper),06-02-2025,12:00,13:00,Thu,Engineering,IB,2
+2P1/Mechanical Engineering[3]L Hunt_HEM(Constance Tipper),07-02-2025,09:00,10:00,Fri,Engineering,IB,2
+2P7/Probability[3]L Savin(Constance Tipper),07-02-2025,10:00,11:00,Fri,Engineering,IB,2
+2P6/Fourier Transforms/Signal and Data[3]L Mancini(Constance Tipper),07-02-2025,14:00,15:00,Fri,Engineering,IB,2
+2P2/Structures[3]L Lees(Constance Tipper),07-02-2025,15:00,16:00,Fri,Engineering,IB,2
+2P7/Probability[3]L Savin(Constance Tipper),10-02-2025,09:00,10:00,Mon,Engineering,IB,2
+2P5/Electrical Power[3]L Flack(Constance Tipper),10-02-2025,10:00,11:00,Mon,Engineering,IB,2
+2CW/Lent Lab (see rota)[3]C (),10-02-2025,11:00,13:00,Mon,Engineering,IB,2
+2P4/Thermofluid Mechanics (Heat transfer)[3]L Scott(Constance Tipper),10-02-2025,14:00,15:00,Mon,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[3]L Davies Wykes(Constance Tipper),10-02-2025,14:00,15:00,Mon,Engineering,IB,2
+2P2/Structures[1]L Lees(Constance Tipper),10-02-2025,15:00,16:00,Mon,Engineering,IB,2
+2CW/Lent Lab (see rota)[3]C (),11-02-2025,09:00,11:00,Tue,Engineering,IB,2
+2P8C/Paper 8: The Engineer in Business (Compulsory)[3]L Coleridge/Lu/Pollitt(Constance Tipper),11-02-2025,11:00,12:00,Tue,Engineering,IB,2
+2P2/Structures[3]L Lees(Constance Tipper),11-02-2025,12:00,13:00,Tue,Engineering,IB,2
+2CW/Lent Lab (see rota)[3]C (),12-02-2025,09:00,11:00,Wed,Engineering,IB,2
+2P5/Electrical Power[3]L Flack(Constance Tipper),12-02-2025,11:00,12:00,Wed,Engineering,IB,2
+2P6/Fourier Transforms/Signal and Data[3]L Mancini(Constance Tipper),12-02-2025,14:00,15:00,Wed,Engineering,IB,2
+2CW/Lent Lab (see rota)[4]C (),13-02-2025,09:00,11:00,Thu,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[4]L Davies Wykes(Constance Tipper),13-02-2025,11:00,12:00,Thu,Engineering,IB,2
+2P4/Thermofluid Mechanics (Heat transfer)[4]L Scott(Constance Tipper),13-02-2025,11:00,12:00,Thu,Engineering,IB,2
+2P1/Mechanical Engineering[4]L Hunt_HEM(Constance Tipper),13-02-2025,12:00,13:00,Thu,Engineering,IB,2
+2P1/Mechanical Engineering[4]L Hunt_HEM(Constance Tipper),14-02-2025,09:00,10:00,Fri,Engineering,IB,2
+2P7/Probability[4]L Savin(Constance Tipper),14-02-2025,10:00,11:00,Fri,Engineering,IB,2
+2P6/Fourier Transforms/Signal and Data[4]L Mancini(Constance Tipper),14-02-2025,14:00,15:00,Fri,Engineering,IB,2
+2P2/Structures[4]L Lees(Constance Tipper),14-02-2025,15:00,16:00,Fri,Engineering,IB,2
+2P5/Electrical Power[4]L Flack(Constance Tipper),17-02-2025,10:00,11:00,Mon,Engineering,IB,2
+2CW/Lent Lab (see rota)[4]C (),17-02-2025,11:00,13:00,Mon,Engineering,IB,2
+2P4/Thermofluid Mechanics (Heat transfer)[4]L Scott(Constance Tipper),17-02-2025,14:00,15:00,Mon,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[4]L Davies Wykes(Constance Tipper),17-02-2025,14:00,15:00,Mon,Engineering,IB,2
+2CW/Lent Lab (see rota)[4]C (),18-02-2025,09:00,11:00,Tue,Engineering,IB,2
+2P8C/Paper 8: The Engineer in Business (Compulsory)[4]L Coleridge/Lu/Pollitt(Constance Tipper),18-02-2025,11:00,12:00,Tue,Engineering,IB,2
+2CW/Lent Lab (see rota)[4]C (),19-02-2025,09:00,11:00,Wed,Engineering,IB,2
+2P5/Electrical Power[4]L Flack(Constance Tipper),19-02-2025,11:00,12:00,Wed,Engineering,IB,2
+2CW/IDP Introductory lecture[1]L Sapienza(Lecture Theatre 1),20-02-2025,09:00,10:00,Thu,Engineering,IB,2
+2CW/Lent Lab (see rota)[5]C (),20-02-2025,09:00,11:00,Thu,Engineering,IB,2
+2CW/Integrated Coursework: intro lecture[1]L Haigh/Talbot(Lecture Theatre 1),20-02-2025,10:00,11:00,Thu,Engineering,IB,2
+2P4/Thermofluid Mechanics (Heat transfer)[5]L Scott(Constance Tipper),20-02-2025,11:00,12:00,Thu,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[5]L Davies Wykes(Constance Tipper),20-02-2025,11:00,12:00,Thu,Engineering,IB,2
+2P1/Mechanical Engineering[1]L Cicirello(Constance Tipper),20-02-2025,12:00,13:00,Thu,Engineering,IB,2
+2CW/,20-02-2025,14:00,15:30,Thu,Engineering,IB,2
+2P1/Mechanical Engineering[1]L Cicirello(Constance Tipper),21-02-2025,09:00,10:00,Fri,Engineering,IB,2
+2P7/Linear Algebra[1]L Jarrett(Constance Tipper),21-02-2025,10:00,11:00,Fri,Engineering,IB,2
+2P6/Communications[1]L Venkataramanan(Constance Tipper),21-02-2025,14:00,15:00,Fri,Engineering,IB,2
+2P5/Electromagnetic Fields and Waves[1]L Flewitt(Constance Tipper),24-02-2025,10:00,11:00,Mon,Engineering,IB,2
+2CW/Lent Lab (see rota)[5]C (),24-02-2025,11:00,13:00,Mon,Engineering,IB,2
+2P4/Thermofluid Mechanics (Heat transfer)[5]L Scott(Constance Tipper),24-02-2025,14:00,15:00,Mon,Engineering,IB,2
+2P4/Thermofluid Mechanics (Fluids)[5]L Davies Wykes(Constance Tipper),24-02-2025,14:00,15:00,Mon,Engineering,IB,2
+2CW/Lent Lab (see rota)[5]C (),25-02-2025,09:00,11:00,Tue,Engineering,IB,2
+2P8C/Paper 8: The Engineer in Business (Compulsory)[5]L Coleridge/Lu/Pollitt(Constance Tipper),25-02-2025,11:00,12:00,Tue,Engineering,IB,2
+2P7/Linear Algebra[1]L Jarrett(Constance Tipper),25-02-2025,12:00,13:00,Tue,Engineering,IB,2
+2CW/Part II Option Talk[1]L (),25-02-2025,14:00,15:00,Tue,Engineering,IB,2
+2CW/Part II Option Talk[1]L (),25-02-2025,15:00,16:00,Tue,Engineering,IB,2
+2CW/Lent Lab (see rota)[5]C (),26-02-2025,09:00,11:00,Wed,Engineering,IB,2
+2P5/Electromagnetic Fields and Waves[1]L Flewitt(Constance Tipper),26-02-2025,11:00,12:00,Wed,Engineering,IB,2
+2CW/Lent Lab (see rota)[6]C (),27-02-2025,09:00,11:00,Thu,Engineering,IB,2
+2P1/Mechanical Engineering[2]L Cicirello(Constance Tipper),27-02-2025,12:00,13:00,Thu,Engineering,IB,2
+2P1/Mechanical Engineering[2]L Cicirello(Constance Tipper),28-02-2025,09:00,10:00,Fri,Engineering,IB,2
+2P7/Linear Algebra[2]L Jarrett(Constance Tipper),28-02-2025,10:00,11:00,Fri,Engineering,IB,2
+2P6/Communications[2]L Venkataramanan(Constance Tipper),28-02-2025,14:00,15:00,Fri,Engineering,IB,2
+2CW/Data Science Coursework[1]L Cantwell(Constance Tipper),28-02-2025,15:00,16:00,Fri,Engineering,IB,2
+2P6/Communications[1]L Venkataramanan(Constance Tipper),03-03-2025,09:00,10:00,Mon,Engineering,IB,2
+2P5/Electromagnetic Fields and Waves[2]L Flewitt(Constance Tipper),03-03-2025,10:00,11:00,Mon,Engineering,IB,2
+2CW/Lent Lab (see rota)[6]C (),03-03-2025,11:00,13:00,Mon,Engineering,IB,2
+2CW/Lent Lab (see rota)[6]C (),04-03-2025,09:00,11:00,Tue,Engineering,IB,2
+2P8C/Paper 8: The Engineer in Business (Compulsory)[6]L Coleridge/Lu/Pollitt(Constance Tipper),04-03-2025,11:00,12:00,Tue,Engineering,IB,2
+2P7/Linear Algebra[2]L Jarrett(Constance Tipper),04-03-2025,12:00,13:00,Tue,Engineering,IB,2
+2CW/Lent Lab (see rota)[6]C (),05-03-2025,09:00,11:00,Wed,Engineering,IB,2
+2P5/Electromagnetic Fields and Waves[2]L Flewitt(Constance Tipper),05-03-2025,11:00,12:00,Wed,Engineering,IB,2
+2CW/Lent Lab (see rota)[7]C (),06-03-2025,09:00,11:00,Thu,Engineering,IB,2
+2P1/Mechanical Engineering[3]L Cicirello(Constance Tipper),06-03-2025,12:00,13:00,Thu,Engineering,IB,2
+2P1/Mechanical Engineering[3]L Cicirello(Constance Tipper),07-03-2025,09:00,10:00,Fri,Engineering,IB,2
+2P7/Linear Algebra[3]L Jarrett(Constance Tipper),07-03-2025,10:00,11:00,Fri,Engineering,IB,2
+2P6/Communications[3]L Venkataramanan(Constance Tipper),07-03-2025,14:00,15:00,Fri,Engineering,IB,2
+2P6/Communications[2]L Venkataramanan(Constance Tipper),10-03-2025,09:00,10:00,Mon,Engineering,IB,2
+2P5/Electromagnetic Fields and Waves[3]L Flewitt(Constance Tipper),10-03-2025,10:00,11:00,Mon,Engineering,IB,2
+2CW/Lent Lab (see rota)[7]C (),10-03-2025,11:00,13:00,Mon,Engineering,IB,2
+2CW/Lent Lab (see rota)[7]C (),11-03-2025,09:00,11:00,Tue,Engineering,IB,2
+2P8C/Paper 8: The Engineer in Business (Compulsory)[7]L Coleridge/Lu/Pollitt(Constance Tipper),11-03-2025,11:00,12:00,Tue,Engineering,IB,2
+2P7/Linear Algebra[3]L Jarrett(Constance Tipper),11-03-2025,12:00,13:00,Tue,Engineering,IB,2
+2CW/Lent Lab (see rota)[7]C (),12-03-2025,09:00,11:00,Wed,Engineering,IB,2
+2P5/Electromagnetic Fields and Waves[3]L Flewitt(Constance Tipper),12-03-2025,11:00,12:00,Wed,Engineering,IB,2
+2CW/Lent Lab (see rota)[8]C (),13-03-2025,09:00,11:00,Thu,Engineering,IB,2
+2P1/Mechanical Engineering[4]L Cicirello(Constance Tipper),13-03-2025,12:00,13:00,Thu,Engineering,IB,2
+2P1/Mechanical Engineering[4]L Cicirello(Constance Tipper),14-03-2025,09:00,10:00,Fri,Engineering,IB,2
+2P7/Linear Algebra[4]L Jarrett(Constance Tipper),14-03-2025,10:00,11:00,Fri,Engineering,IB,2
+2P6/Communications[4]L Venkataramanan(Constance Tipper),14-03-2025,14:00,15:00,Fri,Engineering,IB,2
+2P6/Communications[3]L Venkataramanan(Constance Tipper),17-03-2025,09:00,10:00,Mon,Engineering,IB,2
+2P5/Electromagnetic Fields and Waves[4]L Flewitt(Constance Tipper),17-03-2025,10:00,11:00,Mon,Engineering,IB,2
+2CW/Lent Lab (see rota)[8]C (),17-03-2025,11:00,13:00,Mon,Engineering,IB,2
+2CW/Lent Lab (see rota)[8]C (),18-03-2025,09:00,11:00,Tue,Engineering,IB,2
+2P8C/Paper 8: The Engineer in Business (Compulsory)[8]L Coleridge/Lu/Pollitt(Constance Tipper),18-03-2025,11:00,12:00,Tue,Engineering,IB,2
+2P7/Linear Algebra[4]L Jarrett(Constance Tipper),18-03-2025,12:00,13:00,Tue,Engineering,IB,2
+2CW/Lent Lab (see rota)[8]C (),19-03-2025,09:00,11:00,Wed,Engineering,IB,2
+2P5/Electromagnetic Fields and Waves[4]L Flewitt(Constance Tipper),19-03-2025,11:00,12:00,Wed,Engineering,IB,2
+2P8/Bioengineering Elective[1]L Hennequin/Huang/Lengyel/Treece(Lecture Room 4),01-05-2025,09:00,10:00,Thu,Engineering,IB,2
+2P8/Electrical Elective[1]L Durkan/Flewitt(Lecture Room 4),01-05-2025,10:00,11:00,Thu,Engineering,IB,2
+"2P8/Mechanical Elective: Mechanics, Materials and Design[1]L Flack/Hunt_HEM/Mandre/Sutcliffe(Constance Tipper)",01-05-2025,11:00,12:00,Thu,Engineering,IB,2
+"2P8/Information Elective: Autonomous Driving: Perception, Learning and Action[1]L Cipolla/OLeary/Turner_RE(Constance Tipper)",01-05-2025,12:00,13:00,Thu,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[1]L Hambleton/McRobie(Constance Tipper),01-05-2025,14:00,15:00,Thu,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[1]L Selvakumaran(Constance Tipper),01-05-2025,14:00,15:00,Thu,Engineering,IB,2
+"2P8/MM Elective: Manufacturing, management, and design: bringing technology innovations to market[1]L Minshall/Mortara/Tietze/Waller(Constance Tipper)",01-05-2025,15:00,16:00,Thu,Engineering,IB,2
+"2P8/Information Elective: Autonomous Driving: Perception, Learning and Action[1]L Cipolla/OLeary/Turner_RE(Constance Tipper)",02-05-2025,09:00,10:00,Fri,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[1]L Selvakumaran(Constance Tipper),02-05-2025,10:00,11:00,Fri,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[1]L Hambleton/McRobie(Constance Tipper),02-05-2025,10:00,11:00,Fri,Engineering,IB,2
+2P8/Bioengineering Elective[1]L Hennequin/Huang/Lengyel/Treece(Lecture Room 4),02-05-2025,11:00,12:00,Fri,Engineering,IB,2
+"2P8/Mechanical Elective: Mechanics, Materials and Design[1]L Cullen/Flack/Hunt_HEM/Mandre/Sutcliffe(Constance Tipper)",02-05-2025,14:00,15:00,Fri,Engineering,IB,2
+"2P8/MM Elective: Manufacturing, management, and design: bringing technology innovations to market[1]L Minshall/Mortara/Tietze/Waller(Constance Tipper)",02-05-2025,15:00,16:00,Fri,Engineering,IB,2
+2P8/Aerothermal Elective: Design of a Jet Engine[1]L Clark/Wheeler(Constance Tipper),02-05-2025,16:00,17:00,Fri,Engineering,IB,2
+2P8/Aerothermal Elective: Design of a Jet Engine[1]L Clark/Wheeler(Constance Tipper),05-05-2025,09:00,10:00,Mon,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[1]L Hambleton/McRobie(Constance Tipper),05-05-2025,10:00,11:00,Mon,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[1]L Selvakumaran(Constance Tipper),05-05-2025,10:00,11:00,Mon,Engineering,IB,2
+2P8/Electrical Elective[1]L Durkan/Flewitt(Lecture Room 4),05-05-2025,11:00,12:00,Mon,Engineering,IB,2
+2P8/Bioengineering Elective[1]L Hennequin/Huang/Lengyel/Treece(Lecture Room 4),05-05-2025,12:00,13:00,Mon,Engineering,IB,2
+"2P8/Information Elective: Autonomous Driving: Perception, Learning and Action[1]L Cipolla/OLeary/Turner_RE(Constance Tipper)",05-05-2025,14:00,15:00,Mon,Engineering,IB,2
+2P8/Bioengineering Elective[1]L Hennequin/Huang/Lengyel/Treece(Lecture Room 4),06-05-2025,09:00,10:00,Tue,Engineering,IB,2
+2P8/Electrical Elective[1]L Durkan/Flewitt(Lecture Room 4),06-05-2025,10:00,11:00,Tue,Engineering,IB,2
+"2P8/Mechanical Elective: Mechanics, Materials and Design[1]L Flack/Hunt_HEM/Mandre/Sutcliffe(Constance Tipper)",06-05-2025,11:00,12:00,Tue,Engineering,IB,2
+2P8/Aerothermal Elective: Design of a Jet Engine[1]L Clark/Wheeler(Constance Tipper),06-05-2025,12:00,13:00,Tue,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[1]L Selvakumaran(Constance Tipper),06-05-2025,14:00,15:00,Tue,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[1]L Hambleton/McRobie(Constance Tipper),06-05-2025,14:00,15:00,Tue,Engineering,IB,2
+"2P8/MM Elective: Manufacturing, management, and design: bringing technology innovations to market[1]L Minshall/Mortara/Tietze/Waller(Constance Tipper)",06-05-2025,15:00,16:00,Tue,Engineering,IB,2
+2P8/Electrical Elective[1]L Durkan/Flewitt(Lecture Room 4),07-05-2025,10:00,11:00,Wed,Engineering,IB,2
+"2P8/Mechanical Elective: Mechanics, Materials and Design[1]L Flack/Hunt_HEM/Mandre/Sutcliffe(Constance Tipper)",07-05-2025,11:00,12:00,Wed,Engineering,IB,2
+"2P8/Information Elective: Autonomous Driving: Perception, Learning and Action[1]L Cipolla/OLeary/Turner_RE(Constance Tipper)",07-05-2025,14:00,15:00,Wed,Engineering,IB,2
+2P8/Aerothermal Elective: Design of a Jet Engine[1]L Clark/Wheeler(Constance Tipper),07-05-2025,15:00,16:00,Wed,Engineering,IB,2
+2P8/Bioengineering Elective[2]L Hennequin/Huang/Lengyel/Treece(Lecture Room 4),08-05-2025,09:00,10:00,Thu,Engineering,IB,2
+2P8/Electrical Elective[2]L Durkan/Flewitt(Lecture Room 4),08-05-2025,10:00,11:00,Thu,Engineering,IB,2
+"2P8/Mechanical Elective: Mechanics, Materials and Design[2]L Flack/Hunt_HEM/Mandre/Sutcliffe(Constance Tipper)",08-05-2025,11:00,12:00,Thu,Engineering,IB,2
+"2P8/Information Elective: Autonomous Driving: Perception, Learning and Action[2]L Cipolla/OLeary/Turner_RE(Constance Tipper)",08-05-2025,12:00,13:00,Thu,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[2]L Hambleton/McRobie(Constance Tipper),08-05-2025,14:00,15:00,Thu,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[2]L Selvakumaran(Constance Tipper),08-05-2025,14:00,15:00,Thu,Engineering,IB,2
+"2P8/MM Elective: Manufacturing, management, and design: bringing technology innovations to market[2]L Minshall/Mortara/Tietze/Waller(Constance Tipper)",08-05-2025,15:00,16:00,Thu,Engineering,IB,2
+"2P8/Information Elective: Autonomous Driving: Perception, Learning and Action[2]L Cipolla/OLeary/Turner_RE(Constance Tipper)",09-05-2025,09:00,10:00,Fri,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[2]L Selvakumaran(Constance Tipper),09-05-2025,10:00,11:00,Fri,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[2]L Hambleton/McRobie(Constance Tipper),09-05-2025,10:00,11:00,Fri,Engineering,IB,2
+2P8/Bioengineering Elective[2]L Hennequin/Huang/Lengyel/Treece(Lecture Room 4),09-05-2025,11:00,12:00,Fri,Engineering,IB,2
+"2P8/Mechanical Elective: Mechanics, Materials and Design[2]L Cullen/Flack/Hunt_HEM/Mandre/Sutcliffe(Constance Tipper)",09-05-2025,14:00,15:00,Fri,Engineering,IB,2
+"2P8/MM Elective: Manufacturing, management, and design: bringing technology innovations to market[2]L Minshall/Mortara/Tietze/Waller(Constance Tipper)",09-05-2025,15:00,16:00,Fri,Engineering,IB,2
+2P8/Aerothermal Elective: Design of a Jet Engine[2]L Clark/Wheeler(Constance Tipper),09-05-2025,16:00,17:00,Fri,Engineering,IB,2
+2P8/Aerothermal Elective: Design of a Jet Engine[2]L Clark/Wheeler(Constance Tipper),12-05-2025,09:00,10:00,Mon,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[2]L Selvakumaran(Constance Tipper),12-05-2025,10:00,11:00,Mon,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[2]L Hambleton/McRobie(Constance Tipper),12-05-2025,10:00,11:00,Mon,Engineering,IB,2
+2P8/Electrical Elective[2]L Durkan/Flewitt(Lecture Room 4),12-05-2025,11:00,12:00,Mon,Engineering,IB,2
+2P8/Bioengineering Elective[2]L Hennequin/Huang/Lengyel/Treece(Lecture Room 4),12-05-2025,12:00,13:00,Mon,Engineering,IB,2
+"2P8/Information Elective: Autonomous Driving: Perception, Learning and Action[2]L Cipolla/OLeary/Turner_RE(Constance Tipper)",12-05-2025,14:00,15:00,Mon,Engineering,IB,2
+"2P8/MM Elective: Manufacturing, management, and design: bringing technology innovations to market[1]L Minshall/Mortara/Tietze/Waller(Constance Tipper)",12-05-2025,15:00,16:00,Mon,Engineering,IB,2
+2P8/Bioengineering Elective[2]L Hennequin/Huang/Lengyel/Treece(Lecture Room 4),13-05-2025,09:00,10:00,Tue,Engineering,IB,2
+2P8/Electrical Elective[2]L Durkan/Flewitt(Lecture Room 4),13-05-2025,10:00,11:00,Tue,Engineering,IB,2
+"2P8/Mechanical Elective: Mechanics, Materials and Design[2]L Flack/Hunt_HEM/Mandre/Sutcliffe(Constance Tipper)",13-05-2025,11:00,12:00,Tue,Engineering,IB,2
+2P8/Aerothermal Elective: Design of a Jet Engine[2]L Clark/Wheeler(Constance Tipper),13-05-2025,12:00,13:00,Tue,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[2]L Hambleton/McRobie(Constance Tipper),13-05-2025,14:00,15:00,Tue,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[2]L Selvakumaran(Constance Tipper),13-05-2025,14:00,15:00,Tue,Engineering,IB,2
+"2P8/MM Elective: Manufacturing, management, and design: bringing technology innovations to market[2]L Minshall/Mortara/Tietze/Waller(Constance Tipper)",13-05-2025,15:00,16:00,Tue,Engineering,IB,2
+2P8/Electrical Elective[2]L Durkan/Flewitt(Lecture Room 4),14-05-2025,10:00,11:00,Wed,Engineering,IB,2
+"2P8/Mechanical Elective: Mechanics, Materials and Design[2]L Flack/Hunt_HEM/Mandre/Sutcliffe(Constance Tipper)",14-05-2025,11:00,12:00,Wed,Engineering,IB,2
+"2P8/Information Elective: Autonomous Driving: Perception, Learning and Action[2]L Cipolla/OLeary/Turner_RE(Constance Tipper)",14-05-2025,14:00,15:00,Wed,Engineering,IB,2
+2P8/Aerothermal Elective: Design of a Jet Engine[2]L Clark/Wheeler(Constance Tipper),14-05-2025,15:00,16:00,Wed,Engineering,IB,2
+2P8/Bioengineering Elective[3]L Hennequin/Huang/Lengyel/Treece(Lecture Room 4),15-05-2025,09:00,10:00,Thu,Engineering,IB,2
+2P8/Electrical Elective[3]L Durkan/Flewitt(Lecture Room 4),15-05-2025,10:00,11:00,Thu,Engineering,IB,2
+"2P8/Mechanical Elective: Mechanics, Materials and Design[3]L Flack/Hunt_HEM/Mandre/Sutcliffe(Constance Tipper)",15-05-2025,11:00,12:00,Thu,Engineering,IB,2
+"2P8/Information Elective: Autonomous Driving: Perception, Learning and Action[3]L Cipolla/OLeary/Turner_RE(Constance Tipper)",15-05-2025,12:00,13:00,Thu,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[3]L Hambleton/McRobie(Constance Tipper),15-05-2025,14:00,15:00,Thu,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[3]L Selvakumaran(Constance Tipper),15-05-2025,14:00,15:00,Thu,Engineering,IB,2
+"2P8/MM Elective: Manufacturing, management, and design: bringing technology innovations to market[3]L Minshall/Mortara/Tietze/Waller(Constance Tipper)",15-05-2025,15:00,16:00,Thu,Engineering,IB,2
+"2P8/Information Elective: Autonomous Driving: Perception, Learning and Action[3]L Cipolla/OLeary/Turner_RE(Constance Tipper)",16-05-2025,09:00,10:00,Fri,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[1]L Selvakumaran(Lecture Room 4),16-05-2025,10:00,11:00,Fri,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[3]L Hambleton/McRobie(Constance Tipper),16-05-2025,10:00,11:00,Fri,Engineering,IB,2
+2P8/Bioengineering Elective[3]L Hennequin/Huang/Lengyel/Treece(Lecture Room 4),16-05-2025,11:00,12:00,Fri,Engineering,IB,2
+"2P8/Mechanical Elective: Mechanics, Materials and Design[3]L Cullen/Flack/Hunt_HEM/Mandre/Sutcliffe(Constance Tipper)",16-05-2025,14:00,15:00,Fri,Engineering,IB,2
+"2P8/MM Elective: Manufacturing, management, and design: bringing technology innovations to market[3]L Minshall/Mortara/Tietze/Waller(Constance Tipper)",16-05-2025,15:00,16:00,Fri,Engineering,IB,2
+2P8/Aerothermal Elective: Design of a Jet Engine[3]L Clark/Wheeler(Constance Tipper),16-05-2025,16:00,17:00,Fri,Engineering,IB,2
+2P8/Aerothermal Elective: Design of a Jet Engine[3]L Clark/Wheeler(Constance Tipper),19-05-2025,09:00,10:00,Mon,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[1]L Selvakumaran(Lecture Room 4),19-05-2025,10:00,11:00,Mon,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[3]L Hambleton/McRobie(Constance Tipper),19-05-2025,10:00,11:00,Mon,Engineering,IB,2
+2P8/Electrical Elective[3]L Durkan/Flewitt(Lecture Room 4),19-05-2025,11:00,12:00,Mon,Engineering,IB,2
+2P8/Bioengineering Elective[3]L Hennequin/Huang/Lengyel/Treece(Lecture Room 4),19-05-2025,12:00,13:00,Mon,Engineering,IB,2
+"2P8/Information Elective: Autonomous Driving: Perception, Learning and Action[3]L Cipolla/OLeary/Turner_RE(Constance Tipper)",19-05-2025,14:00,15:00,Mon,Engineering,IB,2
+"2P8/MM Elective: Manufacturing, management, and design: bringing technology innovations to market[2]L Minshall/Mortara/Tietze/Waller(Constance Tipper)",19-05-2025,15:00,16:00,Mon,Engineering,IB,2
+2P8/Bioengineering Elective[3]L Hennequin/Huang/Lengyel/Treece(Lecture Room 4),20-05-2025,09:00,10:00,Tue,Engineering,IB,2
+2P8/Electrical Elective[3]L Durkan/Flewitt(Lecture Room 4),20-05-2025,10:00,11:00,Tue,Engineering,IB,2
+"2P8/Mechanical Elective: Mechanics, Materials and Design[3]L Flack/Hunt_HEM/Mandre/Sutcliffe(Constance Tipper)",20-05-2025,11:00,12:00,Tue,Engineering,IB,2
+2P8/Aerothermal Elective: Design of a Jet Engine[3]L Clark/Wheeler(Constance Tipper),20-05-2025,12:00,13:00,Tue,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[3]L Hambleton/McRobie(Constance Tipper),20-05-2025,14:00,15:00,Tue,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[1]L Selvakumaran(Lecture Room 4),20-05-2025,14:00,15:00,Tue,Engineering,IB,2
+"2P8/MM Elective: Manufacturing, management, and design: bringing technology innovations to market[3]L Minshall/Mortara/Tietze/Waller(Constance Tipper)",20-05-2025,15:00,16:00,Tue,Engineering,IB,2
+2P8/Electrical Elective[3]L Durkan/Flewitt(Lecture Room 4),21-05-2025,10:00,11:00,Wed,Engineering,IB,2
+"2P8/Mechanical Elective: Mechanics, Materials and Design[3]L Flack/Hunt_HEM/Mandre/Sutcliffe(Constance Tipper)",21-05-2025,11:00,12:00,Wed,Engineering,IB,2
+"2P8/Information Elective: Autonomous Driving: Perception, Learning and Action[3]L Cipolla/OLeary/Turner_RE(Constance Tipper)",21-05-2025,14:00,15:00,Wed,Engineering,IB,2
+2P8/Aerothermal Elective: Design of a Jet Engine[3]L Clark/Wheeler(Constance Tipper),21-05-2025,15:00,16:00,Wed,Engineering,IB,2
+2P8/Bioengineering Elective[4]L Hennequin/Huang/Lengyel/Treece(Lecture Room 4),22-05-2025,09:00,10:00,Thu,Engineering,IB,2
+2P8/Electrical Elective[4]L Durkan/Flewitt(Lecture Room 4),22-05-2025,10:00,11:00,Thu,Engineering,IB,2
+"2P8/Mechanical Elective: Mechanics, Materials and Design[4]L Flack/Hunt_HEM/Mandre/Sutcliffe(Constance Tipper)",22-05-2025,11:00,12:00,Thu,Engineering,IB,2
+"2P8/Information Elective: Autonomous Driving: Perception, Learning and Action[4]L Cipolla/OLeary/Turner_RE(Constance Tipper)",22-05-2025,12:00,13:00,Thu,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[1]L Selvakumaran(Lecture Room 4),22-05-2025,14:00,15:00,Thu,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[4]L Hambleton/McRobie(Constance Tipper),22-05-2025,14:00,15:00,Thu,Engineering,IB,2
+"2P8/MM Elective: Manufacturing, management, and design: bringing technology innovations to market[4]L Minshall/Mortara/Tietze/Waller(Constance Tipper)",22-05-2025,15:00,16:00,Thu,Engineering,IB,2
+"2P8/Information Elective: Autonomous Driving: Perception, Learning and Action[4]L Cipolla/OLeary/Turner_RE(Constance Tipper)",23-05-2025,09:00,10:00,Fri,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[2]L Selvakumaran(Lecture Room 4),23-05-2025,10:00,11:00,Fri,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[4]L Hambleton/McRobie(Constance Tipper),23-05-2025,10:00,11:00,Fri,Engineering,IB,2
+2P8/Bioengineering Elective[4]L Hennequin/Huang/Lengyel/Treece(Lecture Room 4),23-05-2025,11:00,12:00,Fri,Engineering,IB,2
+"2P8/Mechanical Elective: Mechanics, Materials and Design[4]L Cullen/Flack/Hunt_HEM/Mandre/Sutcliffe(Constance Tipper)",23-05-2025,14:00,15:00,Fri,Engineering,IB,2
+"2P8/MM Elective: Manufacturing, management, and design: bringing technology innovations to market[4]L Minshall/Mortara/Tietze/Waller(Constance Tipper)",23-05-2025,15:00,16:00,Fri,Engineering,IB,2
+2P8/Aerothermal Elective: Design of a Jet Engine[4]L Clark/Wheeler(Constance Tipper),23-05-2025,16:00,17:00,Fri,Engineering,IB,2
+2P8/Aerothermal Elective: Design of a Jet Engine[4]L Clark/Wheeler(Constance Tipper),26-05-2025,09:00,10:00,Mon,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[2]L Selvakumaran(Lecture Room 4),26-05-2025,10:00,11:00,Mon,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[4]L Hambleton/McRobie(Constance Tipper),26-05-2025,10:00,11:00,Mon,Engineering,IB,2
+2P8/Electrical Elective[4]L Durkan/Flewitt(Lecture Room 4),26-05-2025,11:00,12:00,Mon,Engineering,IB,2
+2P8/Bioengineering Elective[4]L Hennequin/Huang/Lengyel/Treece(Lecture Room 4),26-05-2025,12:00,13:00,Mon,Engineering,IB,2
+"2P8/Information Elective: Autonomous Driving: Perception, Learning and Action[4]L Cipolla/OLeary/Turner_RE(Constance Tipper)",26-05-2025,14:00,15:00,Mon,Engineering,IB,2
+"2P8/MM Elective: Manufacturing, management, and design: bringing technology innovations to market[3]L Minshall/Mortara/Tietze/Waller(Constance Tipper)",26-05-2025,15:00,16:00,Mon,Engineering,IB,2
+2P8/Bioengineering Elective[4]L Hennequin/Huang/Lengyel/Treece(Lecture Room 4),27-05-2025,09:00,10:00,Tue,Engineering,IB,2
+2P8/Electrical Elective[4]L Durkan/Flewitt(Lecture Room 4),27-05-2025,10:00,11:00,Tue,Engineering,IB,2
+"2P8/Mechanical Elective: Mechanics, Materials and Design[4]L Flack/Hunt_HEM/Mandre/Sutcliffe(Constance Tipper)",27-05-2025,11:00,12:00,Tue,Engineering,IB,2
+2P8/Aerothermal Elective: Design of a Jet Engine[4]L Clark/Wheeler(Constance Tipper),27-05-2025,12:00,13:00,Tue,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[2]L Selvakumaran(Lecture Room 4),27-05-2025,14:00,15:00,Tue,Engineering,IB,2
+2P8/Civil and Structural Engineering Elective: Design and Construction of an Underground Space[4]L Hambleton/McRobie(Constance Tipper),27-05-2025,14:00,15:00,Tue,Engineering,IB,2
+"2P8/MM Elective: Manufacturing, management, and design: bringing technology innovations to market[4]L Minshall/Mortara/Tietze/Waller(Constance Tipper)",27-05-2025,15:00,16:00,Tue,Engineering,IB,2
+2P8/Electrical Elective[4]L Durkan/Flewitt(Lecture Room 4),28-05-2025,10:00,11:00,Wed,Engineering,IB,2
+"2P8/Mechanical Elective: Mechanics, Materials and Design[4]L Flack/Hunt_HEM/Mandre/Sutcliffe(Constance Tipper)",28-05-2025,11:00,12:00,Wed,Engineering,IB,2
+"2P8/Information Elective: Autonomous Driving: Perception, Learning and Action[4]L Cipolla/OLeary/Turner_RE(Constance Tipper)",28-05-2025,14:00,15:00,Wed,Engineering,IB,2
+2P8/Aerothermal Elective: Design of a Jet Engine[4]L Clark/Wheeler(Constance Tipper),28-05-2025,15:00,16:00,Wed,Engineering,IB,2

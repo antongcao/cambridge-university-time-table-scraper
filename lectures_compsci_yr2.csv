@@ -1,0 +1,255 @@
+course,module,date,week_day,start_time,end_time,part,year
+Compsci,Concurrent and Distributed Systems,10-10-2024,Thu,9:00,10:00,IB,2
+Compsci,Further Graphics,10-10-2024,Thu,10:00,12:00,IB,2
+Compsci,Data Science,11-10-2024,Fri,11:00,12:00,IB,2
+Compsci,Programming in C and C++,11-10-2024,Fri,12:00,13:00,IB,2
+Compsci,ECAD and Architecture,11-10-2024,Fri,14:00,16:00,IB,2
+Compsci,Introduction to Computer Architecture,14-10-2024,Mon,10:00,11:00,IB,2
+Compsci,Data Science,14-10-2024,Mon,11:00,12:00,IB,2
+Compsci,Programming in C and C++,14-10-2024,Mon,12:00,13:00,IB,2
+Compsci,Concurrent and Distributed Systems,15-10-2024,Tue,9:00,10:00,IB,2
+Compsci,ECAD and Architecture,15-10-2024,Tue,14:00,16:00,IB,2
+Compsci,Introduction to Computer Architecture,16-10-2024,Wed,10:00,11:00,IB,2
+Compsci,Data Science,16-10-2024,Wed,11:00,12:00,IB,2
+Compsci,Programming in C and C++,16-10-2024,Wed,12:00,13:00,IB,2
+Compsci,Concurrent and Distributed Systems,17-10-2024,Thu,9:00,10:00,IB,2
+Compsci,Further Graphics,17-10-2024,Thu,10:00,12:00,IB,2
+Compsci,Introduction to Computer Architecture,18-10-2024,Fri,10:00,11:00,IB,2
+Compsci,Data Science,18-10-2024,Fri,11:00,12:00,IB,2
+Compsci,Programming in C and C++,18-10-2024,Fri,12:00,13:00,IB,2
+Compsci,ECAD and Architecture,18-10-2024,Fri,14:00,16:00,IB,2
+Compsci,Introduction to Computer Architecture,21-10-2024,Mon,10:00,11:00,IB,2
+Compsci,Data Science,21-10-2024,Mon,11:00,12:00,IB,2
+Compsci,Programming in C and C++,21-10-2024,Mon,12:00,13:00,IB,2
+Compsci,Concurrent and Distributed Systems,22-10-2024,Tue,9:00,10:00,IB,2
+Compsci,ECAD and Architecture,22-10-2024,Tue,14:00,16:00,IB,2
+Compsci,Introduction to Computer Architecture,23-10-2024,Wed,10:00,11:00,IB,2
+Compsci,Data Science,23-10-2024,Wed,11:00,12:00,IB,2
+Compsci,Programming in C and C++,23-10-2024,Wed,12:00,13:00,IB,2
+Compsci,Concurrent and Distributed Systems,24-10-2024,Thu,9:00,10:00,IB,2
+Compsci,Further Graphics,24-10-2024,Thu,10:00,12:00,IB,2
+Compsci,Introduction to Computer Architecture,25-10-2024,Fri,10:00,11:00,IB,2
+Compsci,Data Science,25-10-2024,Fri,11:00,12:00,IB,2
+Compsci,Programming in C and C++,25-10-2024,Fri,12:00,13:00,IB,2
+Compsci,ECAD and Architecture,25-10-2024,Fri,14:00,16:00,IB,2
+Compsci,Introduction to Computer Architecture,28-10-2024,Mon,10:00,11:00,IB,2
+Compsci,Data Science,28-10-2024,Mon,11:00,12:00,IB,2
+Compsci,Programming in C and C++,28-10-2024,Mon,12:00,13:00,IB,2
+Compsci,Concurrent and Distributed Systems,29-10-2024,Tue,9:00,10:00,IB,2
+Compsci,ECAD and Architecture,29-10-2024,Tue,14:00,16:00,IB,2
+Compsci,Introduction to Computer Architecture,30-10-2024,Wed,10:00,11:00,IB,2
+Compsci,Data Science,30-10-2024,Wed,11:00,12:00,IB,2
+Compsci,Programming in C and C++,30-10-2024,Wed,12:00,13:00,IB,2
+Compsci,Concurrent and Distributed Systems,31-10-2024,Thu,9:00,10:00,IB,2
+Compsci,Further Graphics,31-10-2024,Thu,10:00,12:00,IB,2
+Compsci,Introduction to Computer Architecture,01-11-2024,Fri,10:00,11:00,IB,2
+Compsci,Data Science,01-11-2024,Fri,11:00,12:00,IB,2
+Compsci,Programming in C and C++,01-11-2024,Fri,12:00,13:00,IB,2
+Compsci,ECAD and Architecture,01-11-2024,Fri,14:00,16:00,IB,2
+Compsci,Introduction to Computer Architecture,04-11-2024,Mon,10:00,11:00,IB,2
+Compsci,Data Science,04-11-2024,Mon,11:00,12:00,IB,2
+Compsci,Programming in C and C++,04-11-2024,Mon,12:00,13:00,IB,2
+Compsci,Concurrent and Distributed Systems,05-11-2024,Tue,9:00,10:00,IB,2
+Compsci,ECAD and Architecture,05-11-2024,Tue,14:00,16:00,IB,2
+Compsci,Introduction to Computer Architecture,06-11-2024,Wed,10:00,11:00,IB,2
+Compsci,Data Science,06-11-2024,Wed,11:00,12:00,IB,2
+Compsci,Programming in C and C++,06-11-2024,Wed,12:00,13:00,IB,2
+Compsci,Concurrent and Distributed Systems,07-11-2024,Thu,9:00,10:00,IB,2
+Compsci,Economics Law and Ethics,07-11-2024,Thu,10:00,11:00,IB,2
+Compsci,Introduction to Computer Architecture,08-11-2024,Fri,10:00,11:00,IB,2
+Compsci,Semantics of Programming Languages,08-11-2024,Fri,12:00,13:00,IB,2
+Compsci,ECAD and Architecture,08-11-2024,Fri,14:00,16:00,IB,2
+Compsci,Part IB Group Project Briefing Lecture,11-11-2024,Mon,10:00,11:00,IB,2
+Compsci,Part IB group project lecture,11-11-2024,Mon,10:00,11:00,IB,2
+Compsci,Data Science,11-11-2024,Mon,11:00,12:00,IB,2
+Compsci,Semantics in Programming Languages,11-11-2024,Mon,12:00,13:00,IB,2
+Compsci,Concurrent and Distributed Systems,12-11-2024,Tue,9:00,10:00,IB,2
+Compsci,Economics Law and Ethics,12-11-2024,Tue,10:00,11:00,IB,2
+Compsci,ECAD and Architecture,12-11-2024,Tue,14:00,16:00,IB,2
+Compsci,Introduction to Computer Architecture,13-11-2024,Wed,10:00,11:00,IB,2
+Compsci,Data Science,13-11-2024,Wed,11:00,12:00,IB,2
+Compsci,Semantics in Programming Languages,13-11-2024,Wed,12:00,13:00,IB,2
+Compsci,Concurrent and Distributed Systems,14-11-2024,Thu,9:00,10:00,IB,2
+Compsci,Economics Law and Ethics,14-11-2024,Thu,10:00,11:00,IB,2
+Compsci,Introduction to Computer Architecture,15-11-2024,Fri,10:00,11:00,IB,2
+Compsci,Semantics of Programming Languages,15-11-2024,Fri,12:00,13:00,IB,2
+Compsci,ECAD and Architecture,15-11-2024,Fri,14:00,16:00,IB,2
+Compsci,Unix Tools,18-11-2024,Mon,9:00,10:00,IB,2
+Compsci,Introduction to Computer Architecture,18-11-2024,Mon,10:00,11:00,IB,2
+Compsci,Data Science,18-11-2024,Mon,11:00,12:00,IB,2
+Compsci,Semantics in Programming Languages,18-11-2024,Mon,12:00,13:00,IB,2
+Compsci,Concurrent and Distributed Systems,19-11-2024,Tue,9:00,10:00,IB,2
+Compsci,Economics Law and Ethics,19-11-2024,Tue,10:00,11:00,IB,2
+Compsci,ECAD and Architecture,19-11-2024,Tue,14:00,16:00,IB,2
+Compsci,Unix Tools,20-11-2024,Wed,9:00,10:00,IB,2
+Compsci,Introduction to Computer Architecture,20-11-2024,Wed,10:00,11:00,IB,2
+Compsci,Data Science,20-11-2024,Wed,11:00,12:00,IB,2
+Compsci,Semantics in Programming Languages,20-11-2024,Wed,12:00,13:00,IB,2
+Compsci,Concurrent and Distributed Systems,21-11-2024,Thu,9:00,10:00,IB,2
+Compsci,Economics Law and Ethics,21-11-2024,Thu,10:00,11:00,IB,2
+Compsci,Unix Tools,22-11-2024,Fri,9:00,10:00,IB,2
+Compsci,Semantics of Programming Languages,22-11-2024,Fri,12:00,13:00,IB,2
+Compsci,ECAD and Architecture,22-11-2024,Fri,14:00,16:00,IB,2
+Compsci,Unix Tools,25-11-2024,Mon,9:00,10:00,IB,2
+Compsci,Semantics of Programming Languages,25-11-2024,Mon,12:00,13:00,IB,2
+Compsci,Concurrent and Distributed Systems,26-11-2024,Tue,9:00,10:00,IB,2
+Compsci,Economics Law and Ethics,26-11-2024,Tue,10:00,11:00,IB,2
+Compsci,ECAD and Architecture,26-11-2024,Tue,14:00,16:00,IB,2
+Compsci,Unix Tools,27-11-2024,Wed,9:00,10:00,IB,2
+Compsci,Semantics of Programming Languages,27-11-2024,Wed,12:00,13:00,IB,2
+Compsci,Concurrent and Distributed Systems,28-11-2024,Thu,9:00,10:00,IB,2
+Compsci,Economics Law and Ethics,28-11-2024,Thu,10:00,11:00,IB,2
+Compsci,Unix Tools,29-11-2024,Fri,9:00,10:00,IB,2
+Compsci,Semantics of Programming Languages,29-11-2024,Fri,12:00,13:00,IB,2
+Compsci,ECAD and Architecture,29-11-2024,Fri,14:00,16:00,IB,2
+Compsci,Unix Tools,02-12-2024,Mon,9:00,10:00,IB,2
+Compsci,Semantics of Programming Languages,02-12-2024,Mon,12:00,13:00,IB,2
+Compsci,Concurrent and Distributed Systems,03-12-2024,Tue,9:00,10:00,IB,2
+Compsci,Economics Law and Ethics,03-12-2024,Tue,10:00,11:00,IB,2
+Compsci,ECAD and Architecture,03-12-2024,Tue,14:00,16:00,IB,2
+Compsci,Unix Tools,04-12-2024,Wed,9:00,10:00,IB,2
+Compsci,Semantics of Programming Languages,04-12-2024,Wed,12:00,13:00,IB,2
+Compsci,Further Human-computer Interaction,23-01-2025,Thu,10:00,11:00,IB,2
+Compsci,Part IB Group Project Kick-off meeting,23-01-2025,Thu,11:00,12:00,IB,2
+Compsci,Part IB group project kick off lecture,23-01-2025,Thu,11:00,12:00,IB,2
+Compsci,Compiler Construction,24-01-2025,Fri,10:00,11:00,IB,2
+Compsci,Computer Networking,24-01-2025,Fri,11:00,12:00,IB,2
+Compsci,Logic and Proof,24-01-2025,Fri,12:00,13:00,IB,2
+Compsci,Compiler Construction,27-01-2025,Mon,10:00,11:00,IB,2
+Compsci,Computer Networking,27-01-2025,Mon,11:00,12:00,IB,2
+Compsci,Logic and Proof,27-01-2025,Mon,12:00,13:00,IB,2
+Compsci,Computation Theory,28-01-2025,Tue,9:00,10:00,IB,2
+Compsci,Further Human-computer Interaction,28-01-2025,Tue,10:00,11:00,IB,2
+Compsci,Group Project Work,28-01-2025,Tue,11:00,13:00,IB,2
+Compsci,Compiler Construction,29-01-2025,Wed,10:00,11:00,IB,2
+Compsci,Computer Networking,29-01-2025,Wed,11:00,12:00,IB,2
+Compsci,Logic and Proof,29-01-2025,Wed,12:00,13:00,IB,2
+Compsci,Computation Theory,30-01-2025,Thu,9:00,10:00,IB,2
+Compsci,Further Human-computer Interaction,30-01-2025,Thu,10:00,11:00,IB,2
+Compsci,Group Project Work,30-01-2025,Thu,11:00,13:00,IB,2
+Compsci,Compiler Construction,31-01-2025,Fri,10:00,11:00,IB,2
+Compsci,Computer Networking,31-01-2025,Fri,11:00,12:00,IB,2
+Compsci,Logic and Proof,31-01-2025,Fri,12:00,13:00,IB,2
+Compsci,Compiler Construction,03-02-2025,Mon,10:00,11:00,IB,2
+Compsci,Computer Networking,03-02-2025,Mon,11:00,12:00,IB,2
+Compsci,Logic and Proof,03-02-2025,Mon,12:00,13:00,IB,2
+Compsci,Computation Theory,04-02-2025,Tue,9:00,10:00,IB,2
+Compsci,Further Human-computer Interaction,04-02-2025,Tue,10:00,11:00,IB,2
+Compsci,Group Project Work,04-02-2025,Tue,11:00,13:00,IB,2
+Compsci,Compiler Construction,05-02-2025,Wed,10:00,11:00,IB,2
+Compsci,Computer Networking,05-02-2025,Wed,11:00,12:00,IB,2
+Compsci,Logic and Proof,05-02-2025,Wed,12:00,13:00,IB,2
+Compsci,Computation Theory,06-02-2025,Thu,9:00,10:00,IB,2
+Compsci,Further Human-computer Interaction,06-02-2025,Thu,10:00,11:00,IB,2
+Compsci,Group Project Work,06-02-2025,Thu,11:00,13:00,IB,2
+Compsci,Compiler Construction,07-02-2025,Fri,10:00,11:00,IB,2
+Compsci,Computer Networking,07-02-2025,Fri,11:00,12:00,IB,2
+Compsci,Logic and Proof,07-02-2025,Fri,12:00,13:00,IB,2
+Compsci,Compiler Construction,10-02-2025,Mon,10:00,11:00,IB,2
+Compsci,Computer Networking,10-02-2025,Mon,11:00,12:00,IB,2
+Compsci,Computation Theory,11-02-2025,Tue,9:00,10:00,IB,2
+Compsci,Further Human-computer Interaction,11-02-2025,Tue,10:00,11:00,IB,2
+Compsci,Group Project Work,11-02-2025,Tue,11:00,13:00,IB,2
+Compsci,Compiler Construction,12-02-2025,Wed,10:00,11:00,IB,2
+Compsci,Computer Networking,12-02-2025,Wed,11:00,12:00,IB,2
+Compsci,Computation Theory,13-02-2025,Thu,9:00,10:00,IB,2
+Compsci,Further Human-computer Interaction,13-02-2025,Thu,10:00,11:00,IB,2
+Compsci,Group Project Work,13-02-2025,Thu,11:00,13:00,IB,2
+Compsci,Compiler Construction,14-02-2025,Fri,10:00,11:00,IB,2
+Compsci,Computer Networking,14-02-2025,Fri,11:00,12:00,IB,2
+Compsci,Compiler Construction,17-02-2025,Mon,10:00,11:00,IB,2
+Compsci,Computer Networking,17-02-2025,Mon,11:00,12:00,IB,2
+Compsci,Computation Theory,18-02-2025,Tue,9:00,10:00,IB,2
+Compsci,Further Human-computer Interaction,18-02-2025,Tue,10:00,11:00,IB,2
+Compsci,Group Project Work,18-02-2025,Tue,11:00,13:00,IB,2
+Compsci,Compiler Construction,19-02-2025,Wed,10:00,11:00,IB,2
+Compsci,Computer Networking,19-02-2025,Wed,11:00,12:00,IB,2
+Compsci,Computation Theory,20-02-2025,Thu,9:00,10:00,IB,2
+Compsci,Group Project Work,20-02-2025,Thu,11:00,13:00,IB,2
+Compsci,Technology Libraries - Presentation Skills (Computer Science Part IB Students),20-02-2025,Thu,14:00,15:00,IB,2
+Compsci,Compiler Construction,21-02-2025,Fri,10:00,11:00,IB,2
+Compsci,Computer Networking,21-02-2025,Fri,11:00,12:00,IB,2
+Compsci,Compiler Construction,24-02-2025,Mon,10:00,11:00,IB,2
+Compsci,Computer Networking,24-02-2025,Mon,11:00,12:00,IB,2
+Compsci,Computation Theory,25-02-2025,Tue,9:00,10:00,IB,2
+Compsci,Group Project Work,25-02-2025,Tue,11:00,13:00,IB,2
+Compsci,Compiler Construction,26-02-2025,Wed,10:00,11:00,IB,2
+Compsci,Computer Networking,26-02-2025,Wed,11:00,12:00,IB,2
+Compsci,Computation Theory,27-02-2025,Thu,9:00,10:00,IB,2
+Compsci,Group Project Work,27-02-2025,Thu,11:00,13:00,IB,2
+Compsci,Compiler Construction,28-02-2025,Fri,10:00,11:00,IB,2
+Compsci,Computer Networking,28-02-2025,Fri,11:00,12:00,IB,2
+Compsci,Prolog,03-03-2025,Mon,10:00,11:00,IB,2
+Compsci,Computer Networking,03-03-2025,Mon,11:00,12:00,IB,2
+Compsci,Computation Theory,04-03-2025,Tue,9:00,10:00,IB,2
+Compsci,Group Project Work,04-03-2025,Tue,11:00,13:00,IB,2
+Compsci,Prolog,05-03-2025,Wed,10:00,11:00,IB,2
+Compsci,Computer Networking,05-03-2025,Wed,11:00,12:00,IB,2
+Compsci,Computation Theory,06-03-2025,Thu,9:00,10:00,IB,2
+Compsci,Group Project Work,06-03-2025,Thu,11:00,13:00,IB,2
+Compsci,Prolog,07-03-2025,Fri,10:00,11:00,IB,2
+Compsci,Computer Networking,07-03-2025,Fri,11:00,12:00,IB,2
+Compsci,Logic and Proof,07-03-2025,Fri,12:00,13:00,IB,2
+Compsci,Prolog,10-03-2025,Mon,10:00,11:00,IB,2
+Compsci,Computer Networking,10-03-2025,Mon,11:00,12:00,IB,2
+Compsci,Logic and Proof,10-03-2025,Mon,12:00,13:00,IB,2
+Compsci,Group Project Work,11-03-2025,Tue,11:00,13:00,IB,2
+Compsci,Prolog,12-03-2025,Wed,10:00,11:00,IB,2
+Compsci,Computer Networking,12-03-2025,Wed,11:00,12:00,IB,2
+Compsci,Logic and Proof,12-03-2025,Wed,12:00,13:00,IB,2
+Compsci,Prolog,14-03-2025,Fri,10:00,11:00,IB,2
+Compsci,Logic and Proof,14-03-2025,Fri,12:00,13:00,IB,2
+Compsci,Prolog,17-03-2025,Mon,10:00,11:00,IB,2
+Compsci,Logic and Proof,17-03-2025,Mon,12:00,13:00,IB,2
+Compsci,Prolog,19-03-2025,Wed,10:00,11:00,IB,2
+Compsci,Part IB Group Project Results and Prizes (Exact time and format TBC),19-03-2025,Wed,12:00,16:00,IB,2
+Compsci,Part IB Group Project Deadline,19-03-2025,Wed,16:45,17:00,IB,2
+Compsci,Formal Models of Language,01-05-2025,Thu,12:00,13:00,IB,2
+Compsci,Cybersecurity,02-05-2025,Fri,10:00,11:00,IB,2
+Compsci,Complexity Theory,02-05-2025,Fri,11:00,12:00,IB,2
+Compsci,Artificial Intelligence,02-05-2025,Fri,12:00,13:00,IB,2
+Compsci,Cybersecurity,05-05-2025,Mon,10:00,11:00,IB,2
+Compsci,Complexity Theory,05-05-2025,Mon,11:00,12:00,IB,2
+Compsci,Artificial Intelligence,05-05-2025,Mon,12:00,13:00,IB,2
+Compsci,Formal Models of Language,06-05-2025,Tue,12:00,13:00,IB,2
+Compsci,Cybersecurity,07-05-2025,Wed,10:00,11:00,IB,2
+Compsci,Complexity Theory,07-05-2025,Wed,11:00,12:00,IB,2
+Compsci,Artificial Intelligence,07-05-2025,Wed,12:00,13:00,IB,2
+Compsci,Cybersecurity Practical Helpdesk Sessions,07-05-2025,Wed,14:00,16:00,IB,2
+Compsci,Formal Models of Language,08-05-2025,Thu,12:00,13:00,IB,2
+Compsci,Cybersecurity,09-05-2025,Fri,10:00,11:00,IB,2
+Compsci,Complexity Theory,09-05-2025,Fri,11:00,12:00,IB,2
+Compsci,Artificial Intelligence,09-05-2025,Fri,12:00,13:00,IB,2
+Compsci,Cybersecurity Practical Helpdesk Sessions,09-05-2025,Fri,14:00,16:00,IB,2
+Compsci,Cybersecurity,12-05-2025,Mon,10:00,11:00,IB,2
+Compsci,Complexity Theory,12-05-2025,Mon,11:00,12:00,IB,2
+Compsci,Artificial Intelligence,12-05-2025,Mon,12:00,13:00,IB,2
+Compsci,Formal Models of Language,13-05-2025,Tue,12:00,13:00,IB,2
+Compsci,Cybersecurity,14-05-2025,Wed,10:00,11:00,IB,2
+Compsci,Complexity Theory,14-05-2025,Wed,11:00,12:00,IB,2
+Compsci,Artificial Intelligence,14-05-2025,Wed,12:00,13:00,IB,2
+Compsci,Formal Models of Language,15-05-2025,Thu,12:00,13:00,IB,2
+Compsci,Cybersecurity,16-05-2025,Fri,10:00,11:00,IB,2
+Compsci,Complexity Theory,16-05-2025,Fri,11:00,12:00,IB,2
+Compsci,Artificial Intelligence,16-05-2025,Fri,12:00,13:00,IB,2
+Compsci,Cybersecurity,19-05-2025,Mon,10:00,11:00,IB,2
+Compsci,Complexity Theory,19-05-2025,Mon,11:00,12:00,IB,2
+Compsci,Artificial Intelligence,19-05-2025,Mon,12:00,13:00,IB,2
+Compsci,Formal Models of Language,20-05-2025,Tue,12:00,13:00,IB,2
+Compsci,Cybersecurity,21-05-2025,Wed,10:00,11:00,IB,2
+Compsci,Complexity Theory,21-05-2025,Wed,11:00,12:00,IB,2
+Compsci,Artificial Intelligence,21-05-2025,Wed,12:00,13:00,IB,2
+Compsci,Cybersecurity Practical Helpdesk Sessions,21-05-2025,Wed,14:00,16:00,IB,2
+Compsci,Formal Models of Language,22-05-2025,Thu,12:00,13:00,IB,2
+Compsci,Cybersecurity,23-05-2025,Fri,10:00,11:00,IB,2
+Compsci,Complexity Theory,23-05-2025,Fri,11:00,12:00,IB,2
+Compsci,Artificial Intelligence,23-05-2025,Fri,12:00,13:00,IB,2
+Compsci,Cybersecurity,26-05-2025,Mon,10:00,11:00,IB,2
+Compsci,Complexity Theory,26-05-2025,Mon,11:00,12:00,IB,2
+Compsci,Artificial Intelligence,26-05-2025,Mon,12:00,13:00,IB,2
+Compsci,Formal Models of Language,27-05-2025,Tue,12:00,13:00,IB,2
+Compsci,Cybersecurity,28-05-2025,Wed,10:00,11:00,IB,2
+Compsci,Complexity Theory,28-05-2025,Wed,11:00,12:00,IB,2
+Compsci,Artificial Intelligence,28-05-2025,Wed,12:00,13:00,IB,2
+Compsci,Part II Project briefing with the Director of Undergraduate Teaching,29-05-2025,Thu,14:00,15:00,IB,2
+Compsci,Cybersecurity Practical Helpdesk Sessions,30-05-2025,Fri,14:00,16:00,IB,2

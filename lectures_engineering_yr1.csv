@@ -1,0 +1,411 @@
+module,date,start_time,end_time,week_day,course,part,year
+1P3/Physical Principles of Electronics[1]L Wilkinson(Constance Tipper),10-10-2024,09:00,10:00,Thu,Engineering,IA,1
+1PX/Dimensional Analysis[1]L Mandre(Constance Tipper),10-10-2024,10:00,11:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[1]L (Lecture Room 3A),10-10-2024,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[1]C (),10-10-2024,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[1]C (),10-10-2024,14:00,17:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[1]L (Lecture Room 3A),11-10-2024,09:00,11:00,Fri,Engineering,IA,1
+1CW/Lab/Computing (see rota)[1]C (),11-10-2024,09:00,11:00,Fri,Engineering,IA,1
+1CW/Drawing:Computer Aided Design[1]C Roebuck(Constance Tipper),11-10-2024,11:00,12:00,Fri,Engineering,IA,1
+1P4/Mathematical Methods[1]L Savory(Constance Tipper),11-10-2024,12:00,13:00,Fri,Engineering,IA,1
+1CW/Lab/Computing (see rota)[1]C (),11-10-2024,14:00,17:00,Fri,Engineering,IA,1
+1CW/Structural Design (see lab rota)[1]L (Lecture Room 3A),14-10-2024,09:00,11:00,Mon,Engineering,IA,1
+1CW/Lab/Computing (see rota)[1]C (),14-10-2024,09:00,11:00,Mon,Engineering,IA,1
+1P1/Mechanics[1]L Butlin/Talbot(Constance Tipper),14-10-2024,11:00,12:00,Mon,Engineering,IA,1
+1P4/Mathematical Methods[1]L Savory(Constance Tipper),14-10-2024,12:00,13:00,Mon,Engineering,IA,1
+1CW/Integrated Electrical Project intro lecture[1]L Wilkinson(Constance Tipper),14-10-2024,13:00,14:00,Mon,Engineering,IA,1
+1CW/Lab/Computing (see rota)[1]C (),14-10-2024,14:00,17:00,Mon,Engineering,IA,1
+1PX/Engineer in Society[1]L Minshall(Constance Tipper),15-10-2024,09:00,10:00,Tue,Engineering,IA,1
+1P1/Mechanics[1]L Butlin/Talbot(Constance Tipper),15-10-2024,10:00,11:00,Tue,Engineering,IA,1
+1CW/Structural Design (see lab rota)[1]L (Lecture Room 3A),15-10-2024,11:00,13:00,Tue,Engineering,IA,1
+1CW/Lab/Computing (see rota)[1]C (),15-10-2024,11:00,13:00,Tue,Engineering,IA,1
+1P4/Computing[1]L Mancini(Constance Tipper),15-10-2024,13:00,14:00,Tue,Engineering,IA,1
+1CW/Lab/Computing (see rota)[1]C (),15-10-2024,14:00,17:00,Tue,Engineering,IA,1
+1P3/Physical Principles of Electronics[1]L Wilkinson(Constance Tipper),16-10-2024,09:00,10:00,Wed,Engineering,IA,1
+1P2/Structures[1]L Allwood(Constance Tipper),16-10-2024,10:00,11:00,Wed,Engineering,IA,1
+1P3/Physical Principles of Electronics[2]L Wilkinson(Constance Tipper),17-10-2024,09:00,10:00,Thu,Engineering,IA,1
+1PX/Dimensional Analysis[2]L Mandre(Constance Tipper),17-10-2024,10:00,11:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[2]L (Lecture Room 3A),17-10-2024,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[2]C (),17-10-2024,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[2]C (),17-10-2024,14:00,17:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[2]L (Lecture Room 3A),18-10-2024,09:00,11:00,Fri,Engineering,IA,1
+1CW/Lab/Computing (see rota)[2]C (),18-10-2024,09:00,11:00,Fri,Engineering,IA,1
+1P2/Structures[1]L Allwood(Constance Tipper),18-10-2024,11:00,12:00,Fri,Engineering,IA,1
+1P4/Mathematical Methods[2]L Savory(Constance Tipper),18-10-2024,12:00,13:00,Fri,Engineering,IA,1
+1CW/Lab/Computing (see rota)[2]C (),18-10-2024,14:00,17:00,Fri,Engineering,IA,1
+1CW/Structural Design (see lab rota)[2]L (Lecture Room 3A),21-10-2024,09:00,11:00,Mon,Engineering,IA,1
+1CW/Lab/Computing (see rota)[2]C (),21-10-2024,09:00,11:00,Mon,Engineering,IA,1
+1P1/Mechanics[2]L Butlin/Talbot(Constance Tipper),21-10-2024,11:00,12:00,Mon,Engineering,IA,1
+1P4/Mathematical Methods[2]L Savory(Constance Tipper),21-10-2024,12:00,13:00,Mon,Engineering,IA,1
+1CW/Lab/Computing (see rota)[2]C (),21-10-2024,14:00,17:00,Mon,Engineering,IA,1
+1PX/Engineer in Society[2]L Minshall(Constance Tipper),22-10-2024,09:00,10:00,Tue,Engineering,IA,1
+1P1/Mechanics[2]L Butlin/Talbot(Constance Tipper),22-10-2024,10:00,11:00,Tue,Engineering,IA,1
+1CW/Lab/Computing (see rota)[2]C (),22-10-2024,11:00,13:00,Tue,Engineering,IA,1
+1CW/Structural Design (see lab rota)[2]L (Lecture Room 3A),22-10-2024,11:00,13:00,Tue,Engineering,IA,1
+1CW/Lab/Computing (see rota)[2]C (),22-10-2024,14:00,17:00,Tue,Engineering,IA,1
+1P3/Physical Principles of Electronics[2]L Wilkinson(Constance Tipper),23-10-2024,09:00,10:00,Wed,Engineering,IA,1
+1P2/Structures[2]L Allwood(Constance Tipper),23-10-2024,10:00,11:00,Wed,Engineering,IA,1
+1P3/Physical Principles of Electronics[3]L Wilkinson(Constance Tipper),24-10-2024,09:00,10:00,Thu,Engineering,IA,1
+1PX/Dimensional Analysis[3]L Mandre(Constance Tipper),24-10-2024,10:00,11:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[3]L (Lecture Room 3A),24-10-2024,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[3]C (),24-10-2024,11:00,13:00,Thu,Engineering,IA,1
+1CW/Industrial Placements lecture[1]L Houghton(Constance Tipper),24-10-2024,13:00,14:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[3]C (),24-10-2024,14:00,17:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[3]C (),25-10-2024,09:00,11:00,Fri,Engineering,IA,1
+1CW/Structural Design (see lab rota)[3]L (Lecture Room 3A),25-10-2024,09:00,11:00,Fri,Engineering,IA,1
+1P2/Structures[2]L Allwood(Constance Tipper),25-10-2024,11:00,12:00,Fri,Engineering,IA,1
+1P4/Mathematical Methods[3]L Savory(Constance Tipper),25-10-2024,12:00,13:00,Fri,Engineering,IA,1
+1CW/Lab/Computing (see rota)[3]C (),25-10-2024,14:00,17:00,Fri,Engineering,IA,1
+1CW/Structural Design (see lab rota)[3]L (Lecture Room 3A),28-10-2024,09:00,11:00,Mon,Engineering,IA,1
+1CW/Lab/Computing (see rota)[3]C (),28-10-2024,09:00,11:00,Mon,Engineering,IA,1
+1P1/Mechanics[3]L Butlin/Talbot(Constance Tipper),28-10-2024,11:00,12:00,Mon,Engineering,IA,1
+1P4/Mathematical Methods[3]L Savory(Constance Tipper),28-10-2024,12:00,13:00,Mon,Engineering,IA,1
+1CW/Lab/Computing (see rota)[3]C (),28-10-2024,14:00,17:00,Mon,Engineering,IA,1
+1PX/Engineer in Society[3]L Minshall(Constance Tipper),29-10-2024,09:00,10:00,Tue,Engineering,IA,1
+1P1/Mechanics[3]L Butlin/Talbot(Constance Tipper),29-10-2024,10:00,11:00,Tue,Engineering,IA,1
+1CW/Lab/Computing (see rota)[3]C (),29-10-2024,11:00,13:00,Tue,Engineering,IA,1
+1CW/Structural Design (see lab rota)[3]L (Lecture Room 3A),29-10-2024,11:00,13:00,Tue,Engineering,IA,1
+1CW/Lab/Computing (see rota)[3]C (),29-10-2024,14:00,17:00,Tue,Engineering,IA,1
+1P3/Physical Principles of Electronics[3]L Wilkinson(Constance Tipper),30-10-2024,09:00,10:00,Wed,Engineering,IA,1
+1P2/Structures[3]L Allwood(Constance Tipper),30-10-2024,10:00,11:00,Wed,Engineering,IA,1
+1P3/Analysis of Circuits[1]L Wilkinson(Constance Tipper),31-10-2024,09:00,10:00,Thu,Engineering,IA,1
+1PX/Dimensional Analysis[4]L Mandre(Constance Tipper),31-10-2024,10:00,11:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[4]L (Lecture Room 3A),31-10-2024,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[4]C (),31-10-2024,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[4]C (),31-10-2024,14:00,17:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[4]L (Lecture Room 3A),01-11-2024,09:00,11:00,Fri,Engineering,IA,1
+1CW/Lab/Computing (see rota)[4]C (),01-11-2024,09:00,11:00,Fri,Engineering,IA,1
+1P2/Structures[3]L Allwood(Constance Tipper),01-11-2024,11:00,12:00,Fri,Engineering,IA,1
+1P4/Mathematical Methods[4]L Savory(Constance Tipper),01-11-2024,12:00,13:00,Fri,Engineering,IA,1
+1CW/Lab/Computing (see rota)[4]C (),01-11-2024,14:00,17:00,Fri,Engineering,IA,1
+1CW/Structural Design (see lab rota)[4]L (Lecture Room 3A),04-11-2024,09:00,11:00,Mon,Engineering,IA,1
+1CW/Lab/Computing (see rota)[4]C (),04-11-2024,09:00,11:00,Mon,Engineering,IA,1
+1P1/Mechanics[4]L Butlin/Talbot(Constance Tipper),04-11-2024,11:00,12:00,Mon,Engineering,IA,1
+1P4/Mathematical Methods[4]L Savory(Constance Tipper),04-11-2024,12:00,13:00,Mon,Engineering,IA,1
+1CW/Lab/Computing (see rota)[4]C (),04-11-2024,14:00,17:00,Mon,Engineering,IA,1
+1PX/Engineer in Society[4]L Minshall(Constance Tipper),05-11-2024,09:00,10:00,Tue,Engineering,IA,1
+1P1/Mechanics[4]L Butlin/Talbot(Constance Tipper),05-11-2024,10:00,11:00,Tue,Engineering,IA,1
+1CW/Structural Design (see lab rota)[4]L (Lecture Room 3A),05-11-2024,11:00,13:00,Tue,Engineering,IA,1
+1CW/Lab/Computing (see rota)[4]C (),05-11-2024,11:00,13:00,Tue,Engineering,IA,1
+1CW/Industrial Placements workshop[1]L Houghton(Lecture Theatre 1),05-11-2024,13:00,14:00,Tue,Engineering,IA,1
+1CW/Lab/Computing (see rota)[4]C (),05-11-2024,14:00,17:00,Tue,Engineering,IA,1
+1P3/Analysis of Circuits[1]L Wilkinson(Constance Tipper),06-11-2024,09:00,10:00,Wed,Engineering,IA,1
+1P2/Structures[4]L Allwood(Constance Tipper),06-11-2024,10:00,11:00,Wed,Engineering,IA,1
+1P3/Analysis of Circuits[2]L Wilkinson(Constance Tipper),07-11-2024,09:00,10:00,Thu,Engineering,IA,1
+1PX/Engineering Applications[1]L Long_PJG(Constance Tipper),07-11-2024,10:00,11:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[5]L (Lecture Room 3A),07-11-2024,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[5]C (),07-11-2024,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[5]C (),07-11-2024,14:00,17:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[5]C (),08-11-2024,09:00,11:00,Fri,Engineering,IA,1
+1CW/Structural Design (see lab rota)[5]L (Lecture Room 3A),08-11-2024,09:00,11:00,Fri,Engineering,IA,1
+1P2/Structures[4]L Allwood(Constance Tipper),08-11-2024,11:00,12:00,Fri,Engineering,IA,1
+1P4/Mathematical Methods[1]L Lasenby(Constance Tipper),08-11-2024,12:00,13:00,Fri,Engineering,IA,1
+1CW/Lab/Computing (see rota)[5]C (),08-11-2024,14:00,17:00,Fri,Engineering,IA,1
+1CW/Structural Design (see lab rota)[5]L (Lecture Room 3A),11-11-2024,09:00,11:00,Mon,Engineering,IA,1
+1CW/Lab/Computing (see rota)[5]C (),11-11-2024,09:00,11:00,Mon,Engineering,IA,1
+1P1/Mechanics[5]L Butlin/Talbot(Constance Tipper),11-11-2024,11:00,12:00,Mon,Engineering,IA,1
+1P4/Mathematical Methods[1]L Lasenby(Constance Tipper),11-11-2024,12:00,13:00,Mon,Engineering,IA,1
+1CW/Lab/Computing (see rota)[5]C (),11-11-2024,14:00,17:00,Mon,Engineering,IA,1
+1PX/Engineer in Society[5]L Minshall(Constance Tipper),12-11-2024,09:00,10:00,Tue,Engineering,IA,1
+1P1/Mechanics[5]L Butlin/Talbot(Constance Tipper),12-11-2024,10:00,11:00,Tue,Engineering,IA,1
+1CW/Lab/Computing (see rota)[5]C (),12-11-2024,11:00,13:00,Tue,Engineering,IA,1
+1CW/Structural Design (see lab rota)[5]L (Lecture Room 3A),12-11-2024,11:00,13:00,Tue,Engineering,IA,1
+1CW/Industrial Placements workshop[2]L Houghton(Lecture Theatre 1),12-11-2024,13:00,14:00,Tue,Engineering,IA,1
+1CW/Lab/Computing (see rota)[5]C (),12-11-2024,14:00,17:00,Tue,Engineering,IA,1
+1P3/Analysis of Circuits[2]L Wilkinson(Constance Tipper),13-11-2024,09:00,10:00,Wed,Engineering,IA,1
+1P2/Structures[5]L Allwood(Constance Tipper),13-11-2024,10:00,11:00,Wed,Engineering,IA,1
+1P3/Analysis of Circuits[3]L Wilkinson(Constance Tipper),14-11-2024,09:00,10:00,Thu,Engineering,IA,1
+1PX/Engineering Applications[2]L Long_PJG(Constance Tipper),14-11-2024,10:00,11:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[6]L (Lecture Room 3A),14-11-2024,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[6]C (),14-11-2024,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[6]C (),14-11-2024,14:00,17:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[6]L (Lecture Room 3A),15-11-2024,09:00,11:00,Fri,Engineering,IA,1
+1CW/Lab/Computing (see rota)[6]C (),15-11-2024,09:00,11:00,Fri,Engineering,IA,1
+1P2/Structures[5]L Allwood(Constance Tipper),15-11-2024,11:00,12:00,Fri,Engineering,IA,1
+1P4/Mathematical Methods[2]L Lasenby(Constance Tipper),15-11-2024,12:00,13:00,Fri,Engineering,IA,1
+1CW/Lab/Computing (see rota)[6]C (),15-11-2024,14:00,17:00,Fri,Engineering,IA,1
+1CW/Lab/Computing (see rota)[6]C (),18-11-2024,09:00,11:00,Mon,Engineering,IA,1
+1CW/Structural Design (see lab rota)[6]L (Lecture Room 3A),18-11-2024,09:00,11:00,Mon,Engineering,IA,1
+1P1/Mechanics[6]L Butlin/Talbot(Constance Tipper),18-11-2024,11:00,12:00,Mon,Engineering,IA,1
+1P4/Mathematical Methods[2]L Lasenby(Constance Tipper),18-11-2024,12:00,13:00,Mon,Engineering,IA,1
+1CW/Lab/Computing (see rota)[6]C (),18-11-2024,14:00,17:00,Mon,Engineering,IA,1
+1PX/Engineer in Society[6]L Minshall(Constance Tipper),19-11-2024,09:00,10:00,Tue,Engineering,IA,1
+1P1/Mechanics[6]L Butlin/Talbot(Constance Tipper),19-11-2024,10:00,11:00,Tue,Engineering,IA,1
+1CW/Lab/Computing (see rota)[6]C (),19-11-2024,11:00,13:00,Tue,Engineering,IA,1
+1CW/Structural Design (see lab rota)[6]L (Lecture Room 3A),19-11-2024,11:00,13:00,Tue,Engineering,IA,1
+1CW/Industrial Placements workshop[3]L Houghton(Lecture Theatre 1),19-11-2024,13:00,14:00,Tue,Engineering,IA,1
+1CW/Lab/Computing (see rota)[6]C (),19-11-2024,14:00,17:00,Tue,Engineering,IA,1
+1P3/Analysis of Circuits[3]L Wilkinson(Constance Tipper),20-11-2024,09:00,10:00,Wed,Engineering,IA,1
+1P2/Structures[6]L Allwood(Constance Tipper),20-11-2024,10:00,11:00,Wed,Engineering,IA,1
+1P3/Analysis of Circuits[4]L Wilkinson(Constance Tipper),21-11-2024,09:00,10:00,Thu,Engineering,IA,1
+1PX/Engineering Applications[3]L Long_PJG(Constance Tipper),21-11-2024,10:00,11:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[7]C (),21-11-2024,11:00,13:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[7]L (Lecture Room 3A),21-11-2024,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[7]C (),21-11-2024,14:00,17:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[7]L (Lecture Room 3A),22-11-2024,09:00,11:00,Fri,Engineering,IA,1
+1CW/Lab/Computing (see rota)[7]C (),22-11-2024,09:00,11:00,Fri,Engineering,IA,1
+1P2/Structures[6]L Allwood(Constance Tipper),22-11-2024,11:00,12:00,Fri,Engineering,IA,1
+1P4/Mathematical Methods[3]L Lasenby(Constance Tipper),22-11-2024,12:00,13:00,Fri,Engineering,IA,1
+1CW/Lab/Computing (see rota)[7]C (),22-11-2024,14:00,17:00,Fri,Engineering,IA,1
+1CW/Lab/Computing (see rota)[7]C (),25-11-2024,09:00,11:00,Mon,Engineering,IA,1
+1CW/Structural Design (see lab rota)[7]L (Lecture Room 3A),25-11-2024,09:00,11:00,Mon,Engineering,IA,1
+1P1/Mechanics[7]L Butlin/Talbot(Constance Tipper),25-11-2024,11:00,12:00,Mon,Engineering,IA,1
+1P4/Mathematical Methods[3]L Lasenby(Constance Tipper),25-11-2024,12:00,13:00,Mon,Engineering,IA,1
+1CW/Lab/Computing (see rota)[7]C (),25-11-2024,14:00,17:00,Mon,Engineering,IA,1
+1PX/Engineer in Society[7]L Minshall(Constance Tipper),26-11-2024,09:00,10:00,Tue,Engineering,IA,1
+1P1/Mechanics[7]L Butlin/Talbot(Constance Tipper),26-11-2024,10:00,11:00,Tue,Engineering,IA,1
+1CW/Structural Design (see lab rota)[7]L (Lecture Room 3A),26-11-2024,11:00,13:00,Tue,Engineering,IA,1
+1CW/Lab/Computing (see rota)[7]C (),26-11-2024,11:00,13:00,Tue,Engineering,IA,1
+1CW/Industrial Placements workshop[4]L Houghton(Lecture Theatre 1),26-11-2024,13:00,14:00,Tue,Engineering,IA,1
+1CW/Lab/Computing (see rota)[7]C (),26-11-2024,14:00,17:00,Tue,Engineering,IA,1
+1P3/Analysis of Circuits[4]L Wilkinson(Constance Tipper),27-11-2024,09:00,10:00,Wed,Engineering,IA,1
+1P3/Analysis of Circuits[5]L Wilkinson(Constance Tipper),28-11-2024,09:00,10:00,Thu,Engineering,IA,1
+1PX/Engineering Applications[4]L Long_PJG(Constance Tipper),28-11-2024,10:00,11:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[8]L (Lecture Room 3A),28-11-2024,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[8]C (),28-11-2024,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[8]C (),28-11-2024,14:00,17:00,Thu,Engineering,IA,1
+1CW/Lab/Computing (see rota)[8]C (),29-11-2024,09:00,11:00,Fri,Engineering,IA,1
+1CW/Structural Design (see lab rota)[8]L (Lecture Room 3A),29-11-2024,09:00,11:00,Fri,Engineering,IA,1
+1P4/Mathematical Methods[4]L Lasenby(Constance Tipper),29-11-2024,12:00,13:00,Fri,Engineering,IA,1
+1CW/Lab/Computing (see rota)[8]C (),29-11-2024,14:00,17:00,Fri,Engineering,IA,1
+1CW/Lab/Computing (see rota)[8]C (),02-12-2024,09:00,11:00,Mon,Engineering,IA,1
+1CW/Structural Design (see lab rota)[8]L (Lecture Room 3A),02-12-2024,09:00,11:00,Mon,Engineering,IA,1
+1P1/Mechanics[8]L Butlin/Talbot(Constance Tipper),02-12-2024,11:00,12:00,Mon,Engineering,IA,1
+1P4/Mathematical Methods[4]L Lasenby(Constance Tipper),02-12-2024,12:00,13:00,Mon,Engineering,IA,1
+1CW/Lab/Computing (see rota)[8]C (),02-12-2024,14:00,17:00,Mon,Engineering,IA,1
+1PX/Engineer in Society[8]L Minshall(Constance Tipper),03-12-2024,09:00,10:00,Tue,Engineering,IA,1
+1P1/Mechanics[8]L Butlin/Talbot(Constance Tipper),03-12-2024,10:00,11:00,Tue,Engineering,IA,1
+1CW/Lab/Computing (see rota)[8]C (),03-12-2024,11:00,13:00,Tue,Engineering,IA,1
+1CW/Structural Design (see lab rota)[8]L (Lecture Room 3A),03-12-2024,11:00,13:00,Tue,Engineering,IA,1
+1CW/Lab/Computing (see rota)[8]C (),03-12-2024,14:00,17:00,Tue,Engineering,IA,1
+1P3/Analysis of Circuits[5]L Wilkinson(Constance Tipper),04-12-2024,09:00,10:00,Wed,Engineering,IA,1
+1P4/Computing[1]L Mancini(Constance Tipper),23-01-2025,09:00,09:50,Thu,Engineering,IA,1
+1CW/Lent Lab briefing[1]C Scott(Constance Tipper),23-01-2025,09:50,10:10,Thu,Engineering,IA,1
+1P2/Materials[1]L Markaki/Seita(Constance Tipper),23-01-2025,10:10,11:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[1]L (Lecture Room 3A),23-01-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[1]C (),23-01-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[1]C (),23-01-2025,14:00,17:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[1]C (),24-01-2025,09:00,11:00,Fri,Engineering,IA,1
+1P2/Structures[1]L McRobie(Constance Tipper),24-01-2025,11:00,12:00,Fri,Engineering,IA,1
+1P3/Analysis of Circuits (AC Power)[1]L Goetz(Constance Tipper),24-01-2025,12:00,13:00,Fri,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[1]C (),24-01-2025,14:00,17:00,Fri,Engineering,IA,1
+1CW/Structural Design (see lab rota)[1]L (Lecture Room 3A),27-01-2025,09:00,11:00,Mon,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[1]C (),27-01-2025,09:00,11:00,Mon,Engineering,IA,1
+1P3/Analysis of Circuits[1]L Wilkinson(Constance Tipper),27-01-2025,11:00,12:00,Mon,Engineering,IA,1
+1P1/Thermofluid Mechanics[1]L Atkins/Longley(Constance Tipper),27-01-2025,12:00,13:00,Mon,Engineering,IA,1
+1CW/Engineering Drawing[1]L Crilly(Constance Tipper),27-01-2025,13:00,13:30,Mon,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[1]C (),27-01-2025,14:00,17:00,Mon,Engineering,IA,1
+1PX/IA Design Challenge[1]L Crilly(Constance Tipper),28-01-2025,09:00,10:00,Tue,Engineering,IA,1
+1P3/Analysis of Circuits (AC Power)[1]L Goetz(Constance Tipper),28-01-2025,10:00,11:00,Tue,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[1]C (),28-01-2025,11:00,13:00,Tue,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[1]C (),28-01-2025,14:00,17:00,Tue,Engineering,IA,1
+1CW/Structural Design (see lab rota)[1]L (Lecture Room 3A),28-01-2025,14:00,16:00,Tue,Engineering,IA,1
+1P3/Analysis of Circuits[1]L Wilkinson(Constance Tipper),29-01-2025,09:00,10:00,Wed,Engineering,IA,1
+1P1/Thermofluid Mechanics[1]L Atkins/Longley(Constance Tipper),29-01-2025,10:00,11:00,Wed,Engineering,IA,1
+1PX/IA Design Challenge[1]L Crilly(Constance Tipper),29-01-2025,12:00,13:00,Wed,Engineering,IA,1
+1P2/Structures[1]L McRobie(Constance Tipper),30-01-2025,09:00,10:00,Thu,Engineering,IA,1
+1P2/Materials[1]L Markaki/Seita(Constance Tipper),30-01-2025,10:00,11:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[2]L (Lecture Room 3A),30-01-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[2]C (),30-01-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[2]C (),30-01-2025,14:00,17:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[1]L (Lecture Room 3A),30-01-2025,14:00,16:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[2]C (),31-01-2025,09:00,11:00,Fri,Engineering,IA,1
+1P2/Structures[2]L McRobie(Constance Tipper),31-01-2025,11:00,12:00,Fri,Engineering,IA,1
+1P3/Analysis of Circuits (AC Power)[2]L Goetz(Constance Tipper),31-01-2025,12:00,13:00,Fri,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[2]C (),31-01-2025,14:00,17:00,Fri,Engineering,IA,1
+1CW/Structural Design (see lab rota)[2]L (Lecture Room 3A),03-02-2025,09:00,11:00,Mon,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[2]C (),03-02-2025,09:00,11:00,Mon,Engineering,IA,1
+1P3/Analysis of Circuits[2]L Wilkinson(Constance Tipper),03-02-2025,11:00,12:00,Mon,Engineering,IA,1
+1P1/Thermofluid Mechanics[2]L Atkins/Longley(Constance Tipper),03-02-2025,12:00,13:00,Mon,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[2]C (),03-02-2025,14:00,17:00,Mon,Engineering,IA,1
+1CW/Structural Design (see lab rota)[1]L (Lecture Room 3A),03-02-2025,14:00,16:00,Mon,Engineering,IA,1
+1PX/IA Design Challenge[2]L Crilly(Constance Tipper),04-02-2025,09:00,10:00,Tue,Engineering,IA,1
+1P3/Analysis of Circuits (AC Power)[2]L Goetz(Constance Tipper),04-02-2025,10:00,11:00,Tue,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[2]C (),04-02-2025,11:00,13:00,Tue,Engineering,IA,1
+1CW/Structural Design (see lab rota)[2]L (Lecture Room 3A),04-02-2025,14:00,16:00,Tue,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[2]C (),04-02-2025,14:00,17:00,Tue,Engineering,IA,1
+1P3/Analysis of Circuits[2]L Wilkinson(Constance Tipper),05-02-2025,09:00,10:00,Wed,Engineering,IA,1
+1P1/Thermofluid Mechanics[2]L Atkins/Longley(Constance Tipper),05-02-2025,10:00,11:00,Wed,Engineering,IA,1
+1PX/IA Design Challenge[2]L Crilly(Constance Tipper),05-02-2025,12:00,13:00,Wed,Engineering,IA,1
+1P2/Structures[2]L McRobie(Constance Tipper),06-02-2025,09:00,10:00,Thu,Engineering,IA,1
+1P2/Materials[2]L Markaki/Seita(Constance Tipper),06-02-2025,10:00,11:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[3]L (Lecture Room 3A),06-02-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[3]C (),06-02-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[3]C (),06-02-2025,14:00,17:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[1]L (Lecture Room 3A),07-02-2025,09:00,11:00,Fri,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[3]C (),07-02-2025,09:00,11:00,Fri,Engineering,IA,1
+1P2/Structures[3]L McRobie(Constance Tipper),07-02-2025,11:00,12:00,Fri,Engineering,IA,1
+1P3/Electromagnetics[1]L Joyce(Constance Tipper),07-02-2025,12:00,13:00,Fri,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[3]C (),07-02-2025,14:00,17:00,Fri,Engineering,IA,1
+1CW/Structural Design (see lab rota)[3]L (Lecture Room 3A),10-02-2025,09:00,11:00,Mon,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[3]C (),10-02-2025,09:00,11:00,Mon,Engineering,IA,1
+1PX/Engineering Applications[1]L Long_PJG(Constance Tipper),10-02-2025,11:00,12:00,Mon,Engineering,IA,1
+1P1/Thermofluid Mechanics[3]L Atkins/Longley(Constance Tipper),10-02-2025,12:00,13:00,Mon,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[3]C (),10-02-2025,14:00,17:00,Mon,Engineering,IA,1
+1P4/Mathematical Methods[1]L Ahmadian(Constance Tipper),11-02-2025,09:00,10:00,Tue,Engineering,IA,1
+1P3/Electromagnetics[1]L Joyce(Constance Tipper),11-02-2025,10:00,11:00,Tue,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[3]C (),11-02-2025,11:00,13:00,Tue,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[3]C (),11-02-2025,14:00,17:00,Tue,Engineering,IA,1
+1CW/Structural Design (see lab rota)[3]L (Lecture Room 3A),11-02-2025,14:00,16:00,Tue,Engineering,IA,1
+1P2/Materials[1]L Seita(Constance Tipper),12-02-2025,09:00,10:00,Wed,Engineering,IA,1
+1P1/Thermofluid Mechanics[3]L Atkins/Longley(Constance Tipper),12-02-2025,10:00,11:00,Wed,Engineering,IA,1
+1P4/Mathematical Methods[1]L Ahmadian(Constance Tipper),12-02-2025,12:00,13:00,Wed,Engineering,IA,1
+1P2/Structures[3]L McRobie(Constance Tipper),13-02-2025,09:00,10:00,Thu,Engineering,IA,1
+1P2/Materials[3]L Markaki/Seita(Constance Tipper),13-02-2025,10:00,11:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[4]L (Lecture Room 3A),13-02-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[4]C (),13-02-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[4]C (),13-02-2025,14:00,17:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[4]C (),14-02-2025,09:00,11:00,Fri,Engineering,IA,1
+1CW/Structural Design (see lab rota)[2]L (Lecture Room 3A),14-02-2025,09:00,11:00,Fri,Engineering,IA,1
+1P2/Structures[4]L McRobie(Constance Tipper),14-02-2025,11:00,12:00,Fri,Engineering,IA,1
+1P3/Electromagnetics[2]L Joyce(Constance Tipper),14-02-2025,12:00,13:00,Fri,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[4]C (),14-02-2025,14:00,17:00,Fri,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[4]C (),17-02-2025,09:00,11:00,Mon,Engineering,IA,1
+1CW/Structural Design (see lab rota)[4]L (Lecture Room 3A),17-02-2025,09:00,11:00,Mon,Engineering,IA,1
+1PX/Engineering Applications[2]L Long_PJG(Constance Tipper),17-02-2025,11:00,12:00,Mon,Engineering,IA,1
+1P1/Thermofluid Mechanics[4]L Atkins/Longley(Constance Tipper),17-02-2025,12:00,13:00,Mon,Engineering,IA,1
+1CW/Engineering Drawing[1]L Crilly(Constance Tipper),17-02-2025,13:00,13:30,Mon,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[4]C (),17-02-2025,14:00,17:00,Mon,Engineering,IA,1
+1P4/Mathematical Methods[2]L Ahmadian(Constance Tipper),18-02-2025,09:00,10:00,Tue,Engineering,IA,1
+1P3/Electromagnetics[2]L Joyce(Constance Tipper),18-02-2025,10:00,11:00,Tue,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[4]C (),18-02-2025,11:00,13:00,Tue,Engineering,IA,1
+1CW/Structural Design (see lab rota)[1]L (Lecture Room 3A),18-02-2025,11:00,13:00,Tue,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[4]C (),18-02-2025,14:00,17:00,Tue,Engineering,IA,1
+1P2/Materials[2]L Seita(Constance Tipper),19-02-2025,09:00,10:00,Wed,Engineering,IA,1
+1P1/Thermofluid Mechanics[4]L Atkins/Longley(Constance Tipper),19-02-2025,10:00,11:00,Wed,Engineering,IA,1
+1P4/Mathematical Methods[2]L Ahmadian(Constance Tipper),19-02-2025,12:00,13:00,Wed,Engineering,IA,1
+1P2/Structures[4]L McRobie(Constance Tipper),20-02-2025,09:00,10:00,Thu,Engineering,IA,1
+1P2/Materials[4]L Markaki/Seita(Constance Tipper),20-02-2025,10:00,11:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[5]L (Lecture Room 3A),20-02-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[5]C (),20-02-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[5]C (),20-02-2025,14:00,17:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[5]C (),21-02-2025,09:00,11:00,Fri,Engineering,IA,1
+1CW/Structural Design (see lab rota)[3]L (Lecture Room 3A),21-02-2025,09:00,11:00,Fri,Engineering,IA,1
+1P2/Structures[5]L McRobie(Constance Tipper),21-02-2025,11:00,12:00,Fri,Engineering,IA,1
+1P3/Electromagnetics[3]L Joyce(Constance Tipper),21-02-2025,12:00,13:00,Fri,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[5]C (),21-02-2025,14:00,17:00,Fri,Engineering,IA,1
+1CW/Structural Design (see lab rota)[5]L (Lecture Room 3A),24-02-2025,09:00,11:00,Mon,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[5]C (),24-02-2025,09:00,11:00,Mon,Engineering,IA,1
+1PX/Engineering Applications[3]L Long_PJG(Constance Tipper),24-02-2025,11:00,12:00,Mon,Engineering,IA,1
+1P1/Thermofluid Mechanics[5]L Atkins/Longley(Constance Tipper),24-02-2025,12:00,13:00,Mon,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[5]C (),24-02-2025,14:00,17:00,Mon,Engineering,IA,1
+1P4/Mathematical Methods[3]L Ahmadian(Constance Tipper),25-02-2025,09:00,10:00,Tue,Engineering,IA,1
+1P3/Electromagnetics[3]L Joyce(Constance Tipper),25-02-2025,10:00,11:00,Tue,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[5]C (),25-02-2025,11:00,13:00,Tue,Engineering,IA,1
+1CW/Structural Design (see lab rota)[2]L (Lecture Room 3A),25-02-2025,11:00,13:00,Tue,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[5]C (),25-02-2025,14:00,17:00,Tue,Engineering,IA,1
+1P2/Materials[3]L Seita(Constance Tipper),26-02-2025,09:00,10:00,Wed,Engineering,IA,1
+1P1/Thermofluid Mechanics[5]L Atkins/Longley(Constance Tipper),26-02-2025,10:00,11:00,Wed,Engineering,IA,1
+1P4/Mathematical Methods[3]L Ahmadian(Constance Tipper),26-02-2025,12:00,13:00,Wed,Engineering,IA,1
+1P1/Mechanical Vibrations[1]L Talbot(Constance Tipper),27-02-2025,09:00,10:00,Thu,Engineering,IA,1
+1P2/Materials[5]L Markaki/Seita(Constance Tipper),27-02-2025,10:00,11:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[6]L (Lecture Room 3A),27-02-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[6]C (),27-02-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[6]C (),27-02-2025,14:00,17:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[6]C (),28-02-2025,09:00,11:00,Fri,Engineering,IA,1
+1P2/Structures[6]L McRobie(Constance Tipper),28-02-2025,11:00,12:00,Fri,Engineering,IA,1
+1P3/Digital Circuits and Information Processing[1]L Hasan(Constance Tipper),28-02-2025,12:00,13:00,Fri,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[6]C (),28-02-2025,14:00,17:00,Fri,Engineering,IA,1
+1CW/Structural Design (see lab rota)[6]L (Lecture Room 3A),03-03-2025,09:00,11:00,Mon,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[6]C (),03-03-2025,09:00,11:00,Mon,Engineering,IA,1
+1PX/Engineering Applications[4]L Long_PJG(Constance Tipper),03-03-2025,11:00,12:00,Mon,Engineering,IA,1
+1P1/Thermofluid Mechanics[6]L Atkins/Longley(Constance Tipper),03-03-2025,12:00,13:00,Mon,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[6]C (),03-03-2025,14:00,17:00,Mon,Engineering,IA,1
+1P4/Mathematical Methods[4]L Ahmadian(Constance Tipper),04-03-2025,09:00,10:00,Tue,Engineering,IA,1
+1P3/Digital Circuits and Information Processing[1]L Hasan(Constance Tipper),04-03-2025,10:00,11:00,Tue,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[6]C (),04-03-2025,11:00,13:00,Tue,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[6]C (),04-03-2025,14:00,17:00,Tue,Engineering,IA,1
+1P1/Mechanical Vibrations[1]L Talbot(Constance Tipper),05-03-2025,09:00,10:00,Wed,Engineering,IA,1
+1P1/Thermofluid Mechanics[6]L Atkins/Longley(Constance Tipper),05-03-2025,10:00,11:00,Wed,Engineering,IA,1
+1P4/Mathematical Methods[4]L Ahmadian(Constance Tipper),05-03-2025,12:00,13:00,Wed,Engineering,IA,1
+1P1/Mechanical Vibrations[2]L Talbot(Constance Tipper),06-03-2025,09:00,10:00,Thu,Engineering,IA,1
+1P2/Materials[6]L Markaki/Seita(Constance Tipper),06-03-2025,10:00,11:00,Thu,Engineering,IA,1
+1CW/Structural Design (see lab rota)[7]L (Lecture Room 3A),06-03-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[7]C (),06-03-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[7]C (),06-03-2025,14:00,17:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[7]C (),07-03-2025,09:00,11:00,Fri,Engineering,IA,1
+1P2/Structures[7]L McRobie(Constance Tipper),07-03-2025,11:00,12:00,Fri,Engineering,IA,1
+1P3/Digital Circuits and Information Processing[2]L Hasan(Constance Tipper),07-03-2025,12:00,13:00,Fri,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[7]C (),07-03-2025,14:00,17:00,Fri,Engineering,IA,1
+1CW/Structural Design (see lab rota)[7]L (Lecture Room 3A),10-03-2025,09:00,11:00,Mon,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[7]C (),10-03-2025,09:00,11:00,Mon,Engineering,IA,1
+1P2/Materials[1]L Markaki(Constance Tipper),10-03-2025,11:00,12:00,Mon,Engineering,IA,1
+1P1/Thermofluid Mechanics[7]L Atkins/Longley(Constance Tipper),10-03-2025,12:00,13:00,Mon,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[7]C (),10-03-2025,14:00,17:00,Mon,Engineering,IA,1
+1P4/Mathematical Methods[5]L Ahmadian(Constance Tipper),11-03-2025,09:00,10:00,Tue,Engineering,IA,1
+1P3/Digital Circuits and Information Processing[2]L Hasan(Constance Tipper),11-03-2025,10:00,11:00,Tue,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[7]C (),11-03-2025,11:00,13:00,Tue,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[7]C (),11-03-2025,14:00,17:00,Tue,Engineering,IA,1
+1P1/Mechanical Vibrations[2]L Talbot(Constance Tipper),12-03-2025,09:00,10:00,Wed,Engineering,IA,1
+1P1/Thermofluid Mechanics[7]L Atkins/Longley(Constance Tipper),12-03-2025,10:00,11:00,Wed,Engineering,IA,1
+1PX/IA Design Challenge[1]L Crilly(Constance Tipper),12-03-2025,12:00,13:00,Wed,Engineering,IA,1
+1P1/Mechanical Vibrations[3]L Talbot(Constance Tipper),13-03-2025,09:00,10:00,Thu,Engineering,IA,1
+1P2/Materials[7]L Markaki/Seita(Constance Tipper),13-03-2025,10:00,11:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[8]C (),13-03-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[8]C (),13-03-2025,14:00,17:00,Thu,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[8]C (),14-03-2025,09:00,11:00,Fri,Engineering,IA,1
+1P2/Structures[8]L McRobie(Constance Tipper),14-03-2025,11:00,12:00,Fri,Engineering,IA,1
+1P3/Digital Circuits and Information Processing[3]L Hasan(Constance Tipper),14-03-2025,12:00,13:00,Fri,Engineering,IA,1
+1CW/Lent Lab/Engineering Drawing (see rota)[8]C (),14-03-2025,14:00,17:00,Fri,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[8]C (),17-03-2025,09:00,11:00,Mon,Engineering,IA,1
+1P2/Materials[2]L Markaki(Constance Tipper),17-03-2025,11:00,12:00,Mon,Engineering,IA,1
+1P1/Thermofluid Mechanics[8]L Atkins/Longley(Constance Tipper),17-03-2025,12:00,13:00,Mon,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[8]C (),17-03-2025,14:00,17:00,Mon,Engineering,IA,1
+1PX/IA Design Challenge[1]L Crilly(Constance Tipper),18-03-2025,09:00,10:00,Tue,Engineering,IA,1
+1P3/Digital Circuits and Information Processing[3]L Hasan(Constance Tipper),18-03-2025,10:00,11:00,Tue,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[8]C (),18-03-2025,11:00,13:00,Tue,Engineering,IA,1
+1CW/Lent Lab/Computing (see rota)[8]C (),18-03-2025,14:00,17:00,Tue,Engineering,IA,1
+1P1/Mechanical Vibrations[3]L Talbot(Constance Tipper),19-03-2025,09:00,10:00,Wed,Engineering,IA,1
+1P1/Thermofluid Mechanics[8]L Atkins/Longley(Constance Tipper),19-03-2025,10:00,11:00,Wed,Engineering,IA,1
+1PX/IA Design Challenge[2]L Crilly(Constance Tipper),19-03-2025,12:00,13:00,Wed,Engineering,IA,1
+1P3/Digital Circuits and Information Processing[1]L Hasan(Constance Tipper),01-05-2025,09:00,10:00,Thu,Engineering,IA,1
+1P1/Thermofluid Mechanics[1]L Longley(Constance Tipper),01-05-2025,10:00,11:00,Thu,Engineering,IA,1
+1CW/Easter Lab (see rota)[1]C (),01-05-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Easter Lab (see rota)[1]C (),02-05-2025,09:00,11:00,Fri,Engineering,IA,1
+1P2/Materials[1]L Cullen(Constance Tipper),02-05-2025,11:00,12:00,Fri,Engineering,IA,1
+1P3/Digital Circuits and Information Processing[1]L Hasan(Constance Tipper),02-05-2025,12:00,13:00,Fri,Engineering,IA,1
+1CW/Easter Lab (see rota)[1]C (),05-05-2025,09:00,11:00,Mon,Engineering,IA,1
+1P1/Mechanical Vibrations[1]L Talbot(Constance Tipper),05-05-2025,11:00,12:00,Mon,Engineering,IA,1
+1P4/Mathematical Methods[1]L Longley(Constance Tipper),05-05-2025,12:00,13:00,Mon,Engineering,IA,1
+1P1/Thermofluid Mechanics[1]L Longley(Constance Tipper),06-05-2025,09:00,10:00,Tue,Engineering,IA,1
+1P3/Digital Circuits and Information Processing[1]L Hasan(Constance Tipper),06-05-2025,10:00,11:00,Tue,Engineering,IA,1
+1CW/Easter Lab (see rota)[1]C (),06-05-2025,11:00,13:00,Tue,Engineering,IA,1
+1P1/Mechanical Vibrations[1]L Talbot(Constance Tipper),07-05-2025,09:00,10:00,Wed,Engineering,IA,1
+1P4/Mathematical Methods[1]L Longley(Constance Tipper),07-05-2025,10:00,11:00,Wed,Engineering,IA,1
+1P2/Materials[1]L Cullen(Constance Tipper),07-05-2025,12:00,13:00,Wed,Engineering,IA,1
+1P3/Digital Circuits and Information Processing[2]L Hasan(Constance Tipper),08-05-2025,09:00,10:00,Thu,Engineering,IA,1
+1P1/Thermofluid Mechanics[2]L Longley(Constance Tipper),08-05-2025,10:00,11:00,Thu,Engineering,IA,1
+1CW/Easter Lab (see rota)[2]C (),08-05-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Easter Lab (see rota)[2]C (),09-05-2025,09:00,11:00,Fri,Engineering,IA,1
+1P2/Materials[2]L Cullen(Constance Tipper),09-05-2025,11:00,12:00,Fri,Engineering,IA,1
+1P3/Digital Circuits and Information Processing[2]L Hasan(Constance Tipper),09-05-2025,12:00,13:00,Fri,Engineering,IA,1
+1CW/Easter Lab (see rota)[2]C (),12-05-2025,09:00,11:00,Mon,Engineering,IA,1
+1P1/Mechanical Vibrations[2]L Talbot(Constance Tipper),12-05-2025,11:00,12:00,Mon,Engineering,IA,1
+1P4/Mathematical Methods[2]L Longley(Constance Tipper),12-05-2025,12:00,13:00,Mon,Engineering,IA,1
+1P1/Thermofluid Mechanics[2]L Longley(Constance Tipper),13-05-2025,09:00,10:00,Tue,Engineering,IA,1
+1P3/Digital Circuits and Information Processing[2]L Hasan(Constance Tipper),13-05-2025,10:00,11:00,Tue,Engineering,IA,1
+1CW/Easter Lab (see rota)[2]C (),13-05-2025,11:00,13:00,Tue,Engineering,IA,1
+1P1/Mechanical Vibrations[2]L Talbot(Constance Tipper),14-05-2025,09:00,10:00,Wed,Engineering,IA,1
+1P4/Mathematical Methods[2]L Longley(Constance Tipper),14-05-2025,10:00,11:00,Wed,Engineering,IA,1
+1P2/Materials[2]L Cullen(Constance Tipper),14-05-2025,12:00,13:00,Wed,Engineering,IA,1
+1P3/Digital Circuits and Information Processing[3]L Hasan(Constance Tipper),15-05-2025,09:00,10:00,Thu,Engineering,IA,1
+1P1/Thermofluid Mechanics[3]L Longley(Constance Tipper),15-05-2025,10:00,11:00,Thu,Engineering,IA,1
+1CW/Easter Lab (see rota)[3]C (),15-05-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Easter Lab (see rota)[3]C (),16-05-2025,09:00,11:00,Fri,Engineering,IA,1
+1P3/Digital Circuits and Information Processing[3]L Hasan(Constance Tipper),16-05-2025,12:00,13:00,Fri,Engineering,IA,1
+1CW/Easter Lab (see rota)[3]C (),19-05-2025,09:00,11:00,Mon,Engineering,IA,1
+1P1/Mechanical Vibrations[3]L Talbot(Constance Tipper),19-05-2025,11:00,12:00,Mon,Engineering,IA,1
+1P4/Mathematical Methods[3]L Longley(Constance Tipper),19-05-2025,12:00,13:00,Mon,Engineering,IA,1
+1P1/Thermofluid Mechanics[3]L Longley(Constance Tipper),20-05-2025,09:00,10:00,Tue,Engineering,IA,1
+1CW/Easter Lab (see rota)[3]C (),20-05-2025,11:00,13:00,Tue,Engineering,IA,1
+1P1/Mechanical Vibrations[3]L Talbot(Constance Tipper),21-05-2025,09:00,10:00,Wed,Engineering,IA,1
+1P4/Mathematical Methods[3]L Longley(Constance Tipper),21-05-2025,10:00,11:00,Wed,Engineering,IA,1
+1P3/Digital Circuits and Information Processing[4]L Hasan(Constance Tipper),22-05-2025,09:00,10:00,Thu,Engineering,IA,1
+1P1/Thermofluid Mechanics[4]L Longley(Constance Tipper),22-05-2025,10:00,11:00,Thu,Engineering,IA,1
+1CW/Easter Lab (see rota)[4]C (),22-05-2025,11:00,13:00,Thu,Engineering,IA,1
+1CW/Easter Lab (see rota)[4]C (),23-05-2025,09:00,11:00,Fri,Engineering,IA,1
+1P3/Digital Circuits and Information Processing[4]L Hasan(Constance Tipper),23-05-2025,12:00,13:00,Fri,Engineering,IA,1
+1P1/Mechanical Vibrations[4]L Talbot(Constance Tipper),26-05-2025,11:00,12:00,Mon,Engineering,IA,1
+1P4/Mathematical Methods[4]L Longley(Constance Tipper),26-05-2025,12:00,13:00,Mon,Engineering,IA,1
+1P1/Thermofluid Mechanics[4]L Longley(Constance Tipper),27-05-2025,09:00,10:00,Tue,Engineering,IA,1
+1P1/Mechanical Vibrations[4]L Talbot(Constance Tipper),28-05-2025,09:00,10:00,Wed,Engineering,IA,1

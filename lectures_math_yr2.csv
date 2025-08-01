@@ -1,0 +1,278 @@
+course,module,date,week_day,start_time,end_time,part,year
+Math,Markov Chains,10-10-2024,Thu,10:00,11:00,IB,2
+Math,Linear Algebra,10-10-2024,Thu,11:00,12:00,IB,2
+Math,Quantum Mechanics,10-10-2024,Thu,12:00,13:00,IB,2
+Math,Analysis and Topology,11-10-2024,Fri,10:00,11:00,IB,2
+Math,Methods,11-10-2024,Fri,11:00,12:00,IB,2
+Math,Linear Algebra,12-10-2024,Sat,11:00,12:00,IB,2
+Math,Analysis and Topology,14-10-2024,Mon,10:00,11:00,IB,2
+Math,Methods,14-10-2024,Mon,11:00,12:00,IB,2
+Math,Markov Chains,15-10-2024,Tue,10:00,11:00,IB,2
+Math,Linear Algebra,15-10-2024,Tue,11:00,12:00,IB,2
+Math,Quantum Mechanics,15-10-2024,Tue,12:00,13:00,IB,2
+Math,Analysis and Topology,16-10-2024,Wed,10:00,11:00,IB,2
+Math,Methods,16-10-2024,Wed,11:00,12:00,IB,2
+Math,Markov Chains,17-10-2024,Thu,10:00,11:00,IB,2
+Math,Linear Algebra,17-10-2024,Thu,11:00,12:00,IB,2
+Math,Quantum Mechanics,17-10-2024,Thu,12:00,13:00,IB,2
+Math,Analysis and Topology,18-10-2024,Fri,10:00,11:00,IB,2
+Math,Methods,18-10-2024,Fri,11:00,12:00,IB,2
+Math,Linear Algebra,19-10-2024,Sat,11:00,12:00,IB,2
+Math,Analysis and Topology,21-10-2024,Mon,10:00,11:00,IB,2
+Math,Methods,21-10-2024,Mon,11:00,12:00,IB,2
+Math,Markov Chains,22-10-2024,Tue,10:00,11:00,IB,2
+Math,Linear Algebra,22-10-2024,Tue,11:00,12:00,IB,2
+Math,Quantum Mechanics,22-10-2024,Tue,12:00,13:00,IB,2
+Math,Analysis and Topology,23-10-2024,Wed,10:00,11:00,IB,2
+Math,Methods,23-10-2024,Wed,11:00,12:00,IB,2
+Math,Markov Chains,24-10-2024,Thu,10:00,11:00,IB,2
+Math,Linear Algebra,24-10-2024,Thu,11:00,12:00,IB,2
+Math,Quantum Mechanics,24-10-2024,Thu,12:00,13:00,IB,2
+Math,Analysis and Topology,25-10-2024,Fri,10:00,11:00,IB,2
+Math,Methods,25-10-2024,Fri,11:00,12:00,IB,2
+Math,Linear Algebra,26-10-2024,Sat,11:00,12:00,IB,2
+Math,Analysis and Topology,28-10-2024,Mon,10:00,11:00,IB,2
+Math,Methods,28-10-2024,Mon,11:00,12:00,IB,2
+Math,Markov Chains,29-10-2024,Tue,10:00,11:00,IB,2
+Math,Linear Algebra,29-10-2024,Tue,11:00,12:00,IB,2
+Math,Quantum Mechanics,29-10-2024,Tue,12:00,13:00,IB,2
+Math,Analysis and Topology,30-10-2024,Wed,10:00,11:00,IB,2
+Math,Methods,30-10-2024,Wed,11:00,12:00,IB,2
+Math,Markov Chains,31-10-2024,Thu,10:00,11:00,IB,2
+Math,Linear Algebra,31-10-2024,Thu,11:00,12:00,IB,2
+Math,Quantum Mechanics,31-10-2024,Thu,12:00,13:00,IB,2
+Math,Analysis and Topology,01-11-2024,Fri,10:00,11:00,IB,2
+Math,Methods,01-11-2024,Fri,11:00,12:00,IB,2
+Math,Linear Algebra,02-11-2024,Sat,11:00,12:00,IB,2
+Math,Analysis and Topology,04-11-2024,Mon,10:00,11:00,IB,2
+Math,Methods,04-11-2024,Mon,11:00,12:00,IB,2
+Math,Markov Chains,05-11-2024,Tue,10:00,11:00,IB,2
+Math,Linear Algebra,05-11-2024,Tue,11:00,12:00,IB,2
+Math,Quantum Mechanics,05-11-2024,Tue,12:00,13:00,IB,2
+Math,Analysis and Topology,06-11-2024,Wed,10:00,11:00,IB,2
+Math,Methods,06-11-2024,Wed,11:00,12:00,IB,2
+Math,Markov Chains,07-11-2024,Thu,10:00,11:00,IB,2
+Math,Linear Algebra,07-11-2024,Thu,11:00,12:00,IB,2
+Math,Quantum Mechanics,07-11-2024,Thu,12:00,13:00,IB,2
+Math,Analysis and Topology,08-11-2024,Fri,10:00,11:00,IB,2
+Math,Methods,08-11-2024,Fri,11:00,12:00,IB,2
+Math,Linear Algebra,09-11-2024,Sat,11:00,12:00,IB,2
+Math,Analysis and Topology,11-11-2024,Mon,10:00,11:00,IB,2
+Math,Methods,11-11-2024,Mon,11:00,12:00,IB,2
+Math,Markov Chains,12-11-2024,Tue,10:00,11:00,IB,2
+Math,Linear Algebra,12-11-2024,Tue,11:00,12:00,IB,2
+Math,Quantum Mechanics,12-11-2024,Tue,12:00,13:00,IB,2
+Math,Analysis and Topology,13-11-2024,Wed,10:00,11:00,IB,2
+Math,Methods,13-11-2024,Wed,11:00,12:00,IB,2
+Math,Markov Chains,14-11-2024,Thu,10:00,11:00,IB,2
+Math,Linear Algebra,14-11-2024,Thu,11:00,12:00,IB,2
+Math,Quantum Mechanics,14-11-2024,Thu,12:00,13:00,IB,2
+Math,Analysis and Topology,15-11-2024,Fri,10:00,11:00,IB,2
+Math,Methods,15-11-2024,Fri,11:00,12:00,IB,2
+Math,Linear Algebra,16-11-2024,Sat,11:00,12:00,IB,2
+Math,Analysis and Topology,18-11-2024,Mon,10:00,11:00,IB,2
+Math,Methods,18-11-2024,Mon,11:00,12:00,IB,2
+Math,Markov Chains,19-11-2024,Tue,10:00,11:00,IB,2
+Math,Linear Algebra,19-11-2024,Tue,11:00,12:00,IB,2
+Math,Quantum Mechanics,19-11-2024,Tue,12:00,13:00,IB,2
+Math,Analysis and Topology,20-11-2024,Wed,10:00,11:00,IB,2
+Math,Methods,20-11-2024,Wed,11:00,12:00,IB,2
+Math,Markov Chains,21-11-2024,Thu,10:00,11:00,IB,2
+Math,Linear Algebra,21-11-2024,Thu,11:00,12:00,IB,2
+Math,Quantum Mechanics,21-11-2024,Thu,12:00,13:00,IB,2
+Math,Analysis and Topology,22-11-2024,Fri,10:00,11:00,IB,2
+Math,Methods,22-11-2024,Fri,11:00,12:00,IB,2
+Math,Linear Algebra,23-11-2024,Sat,11:00,12:00,IB,2
+Math,Analysis and Topology,25-11-2024,Mon,10:00,11:00,IB,2
+Math,Methods,25-11-2024,Mon,11:00,12:00,IB,2
+Math,Markov Chains,26-11-2024,Tue,10:00,11:00,IB,2
+Math,Linear Algebra,26-11-2024,Tue,11:00,12:00,IB,2
+Math,Quantum Mechanics,26-11-2024,Tue,12:00,13:00,IB,2
+Math,Analysis and Topology,27-11-2024,Wed,10:00,11:00,IB,2
+Math,Methods,27-11-2024,Wed,11:00,12:00,IB,2
+Math,Markov Chains,28-11-2024,Thu,10:00,11:00,IB,2
+Math,Linear Algebra,28-11-2024,Thu,11:00,12:00,IB,2
+Math,Quantum Mechanics,28-11-2024,Thu,12:00,13:00,IB,2
+Math,Analysis and Topology,29-11-2024,Fri,10:00,11:00,IB,2
+Math,Methods,29-11-2024,Fri,11:00,12:00,IB,2
+Math,Linear Algebra,30-11-2024,Sat,11:00,12:00,IB,2
+Math,Analysis and Topology,02-12-2024,Mon,10:00,11:00,IB,2
+Math,Methods,02-12-2024,Mon,11:00,12:00,IB,2
+Math,Markov Chains,03-12-2024,Tue,10:00,11:00,IB,2
+Math,Linear Algebra,03-12-2024,Tue,11:00,12:00,IB,2
+Math,Quantum Mechanics,03-12-2024,Tue,12:00,13:00,IB,2
+Math,Analysis and Topology,04-12-2024,Wed,10:00,11:00,IB,2
+Math,Methods,04-12-2024,Wed,11:00,12:00,IB,2
+Math,"Groups, Rings and Modules",23-01-2025,Thu,9:00,10:00,IB,2
+Math,Geometry,23-01-2025,Thu,10:00,11:00,IB,2
+Math,Fluid Dynamics,23-01-2025,Thu,11:00,12:00,IB,2
+Math,Complex Methods,23-01-2025,Thu,12:00,13:00,IB,2
+Math,Statistics,24-01-2025,Fri,11:00,12:00,IB,2
+Math,"Groups, Rings and Modules",25-01-2025,Sat,9:00,10:00,IB,2
+Math,Geometry,25-01-2025,Sat,10:00,11:00,IB,2
+Math,Electromagnetism,25-01-2025,Sat,11:00,12:00,IB,2
+Math,Numerical Analysis,25-01-2025,Sat,12:00,13:00,IB,2
+Math,Numerical Analysis,27-01-2025,Mon,10:00,11:00,IB,2
+Math,Fluid Dynamics,27-01-2025,Mon,11:00,12:00,IB,2
+Math,"Groups, Rings and Modules",28-01-2025,Tue,9:00,10:00,IB,2
+Math,Geometry,28-01-2025,Tue,10:00,11:00,IB,2
+Math,Electromagnetism,28-01-2025,Tue,11:00,12:00,IB,2
+Math,Complex Methods,28-01-2025,Tue,12:00,13:00,IB,2
+Math,Complex Analysis,29-01-2025,Wed,10:00,11:00,IB,2
+Math,Statistics,29-01-2025,Wed,11:00,12:00,IB,2
+Math,"Groups, Rings and Modules",30-01-2025,Thu,9:00,10:00,IB,2
+Math,Geometry,30-01-2025,Thu,10:00,11:00,IB,2
+Math,Fluid Dynamics,30-01-2025,Thu,11:00,12:00,IB,2
+Math,Complex Methods,30-01-2025,Thu,12:00,13:00,IB,2
+Math,Complex Analysis,31-01-2025,Fri,10:00,11:00,IB,2
+Math,Statistics,31-01-2025,Fri,11:00,12:00,IB,2
+Math,"Groups, Rings and Modules",01-02-2025,Sat,9:00,10:00,IB,2
+Math,Geometry,01-02-2025,Sat,10:00,11:00,IB,2
+Math,Electromagnetism,01-02-2025,Sat,11:00,12:00,IB,2
+Math,Numerical Analysis,01-02-2025,Sat,12:00,13:00,IB,2
+Math,Numerical Analysis,03-02-2025,Mon,10:00,11:00,IB,2
+Math,Fluid Dynamics,03-02-2025,Mon,11:00,12:00,IB,2
+Math,"Groups, Rings and Modules",04-02-2025,Tue,9:00,10:00,IB,2
+Math,Geometry,04-02-2025,Tue,10:00,11:00,IB,2
+Math,Electromagnetism,04-02-2025,Tue,11:00,12:00,IB,2
+Math,Complex Methods,04-02-2025,Tue,12:00,13:00,IB,2
+Math,CMP Seminars,04-02-2025,Tue,13:30,15:00,IB,2
+Math,Complex Analysis,05-02-2025,Wed,10:00,11:00,IB,2
+Math,Statistics,05-02-2025,Wed,11:00,12:00,IB,2
+Math,CMP Seminars,05-02-2025,Wed,13:30,15:00,IB,2
+Math,"Groups, Rings and Modules",06-02-2025,Thu,9:00,10:00,IB,2
+Math,Geometry,06-02-2025,Thu,10:00,11:00,IB,2
+Math,Fluid Dynamics,06-02-2025,Thu,11:00,12:00,IB,2
+Math,Complex Methods,06-02-2025,Thu,12:00,13:00,IB,2
+Math,Complex Analysis,07-02-2025,Fri,10:00,11:00,IB,2
+Math,Statistics,07-02-2025,Fri,11:00,12:00,IB,2
+Math,"Groups, Rings and Modules",08-02-2025,Sat,9:00,10:00,IB,2
+Math,Geometry,08-02-2025,Sat,10:00,11:00,IB,2
+Math,Electromagnetism,08-02-2025,Sat,11:00,12:00,IB,2
+Math,Numerical Analysis,08-02-2025,Sat,12:00,13:00,IB,2
+Math,Numerical Analysis,10-02-2025,Mon,10:00,11:00,IB,2
+Math,Fluid Dynamics,10-02-2025,Mon,11:00,12:00,IB,2
+Math,"Groups, Rings and Modules",11-02-2025,Tue,9:00,10:00,IB,2
+Math,Geometry,11-02-2025,Tue,10:00,11:00,IB,2
+Math,Electromagnetism,11-02-2025,Tue,11:00,12:00,IB,2
+Math,Complex Methods,11-02-2025,Tue,12:00,13:00,IB,2
+Math,CMP Seminars,11-02-2025,Tue,13:30,15:00,IB,2
+Math,Complex Analysis,12-02-2025,Wed,10:00,11:00,IB,2
+Math,Statistics,12-02-2025,Wed,11:00,12:00,IB,2
+Math,CMP Seminars,12-02-2025,Wed,13:30,15:00,IB,2
+Math,"Groups, Rings and Modules",13-02-2025,Thu,9:00,10:00,IB,2
+Math,Geometry,13-02-2025,Thu,10:00,11:00,IB,2
+Math,Fluid Dynamics,13-02-2025,Thu,11:00,12:00,IB,2
+Math,Complex Methods,13-02-2025,Thu,12:00,13:00,IB,2
+Math,Complex Analysis,14-02-2025,Fri,10:00,11:00,IB,2
+Math,Statistics,14-02-2025,Fri,11:00,12:00,IB,2
+Math,"Groups, Rings and Modules",15-02-2025,Sat,9:00,10:00,IB,2
+Math,Geometry,15-02-2025,Sat,10:00,11:00,IB,2
+Math,Electromagnetism,15-02-2025,Sat,11:00,12:00,IB,2
+Math,Numerical Analysis,15-02-2025,Sat,12:00,13:00,IB,2
+Math,Numerical Analysis,17-02-2025,Mon,10:00,11:00,IB,2
+Math,Fluid Dynamics,17-02-2025,Mon,11:00,12:00,IB,2
+Math,"Groups, Rings and Modules",18-02-2025,Tue,9:00,10:00,IB,2
+Math,Geometry,18-02-2025,Tue,10:00,11:00,IB,2
+Math,Electromagnetism,18-02-2025,Tue,11:00,12:00,IB,2
+Math,Complex Methods,18-02-2025,Tue,12:00,13:00,IB,2
+Math,CMP Seminars,18-02-2025,Tue,13:30,15:00,IB,2
+Math,Complex Analysis,19-02-2025,Wed,10:00,11:00,IB,2
+Math,Statistics,19-02-2025,Wed,11:00,12:00,IB,2
+Math,CMP Seminars,19-02-2025,Wed,13:30,15:00,IB,2
+Math,"Groups, Rings and Modules",20-02-2025,Thu,9:00,10:00,IB,2
+Math,Geometry,20-02-2025,Thu,10:00,11:00,IB,2
+Math,Fluid Dynamics,20-02-2025,Thu,11:00,12:00,IB,2
+Math,Complex Methods,20-02-2025,Thu,12:00,13:00,IB,2
+Math,Complex Analysis,21-02-2025,Fri,10:00,11:00,IB,2
+Math,Statistics,21-02-2025,Fri,11:00,12:00,IB,2
+Math,Geometry,22-02-2025,Sat,10:00,11:00,IB,2
+Math,Electromagnetism,22-02-2025,Sat,11:00,12:00,IB,2
+Math,Numerical Analysis,22-02-2025,Sat,12:00,13:00,IB,2
+Math,Numerical Analysis,24-02-2025,Mon,10:00,11:00,IB,2
+Math,Fluid Dynamics,24-02-2025,Mon,11:00,12:00,IB,2
+Math,"Groups, Rings and Modules",25-02-2025,Tue,9:00,10:00,IB,2
+Math,Geometry,25-02-2025,Tue,10:00,11:00,IB,2
+Math,Electromagnetism,25-02-2025,Tue,11:00,12:00,IB,2
+Math,Complex Methods,25-02-2025,Tue,12:00,13:00,IB,2
+Math,CMP Seminars,25-02-2025,Tue,13:30,15:00,IB,2
+Math,Complex Analysis,26-02-2025,Wed,10:00,11:00,IB,2
+Math,Statistics,26-02-2025,Wed,11:00,12:00,IB,2
+Math,CMP Seminars,26-02-2025,Wed,13:30,15:00,IB,2
+Math,"Groups, Rings and Modules",27-02-2025,Thu,9:00,10:00,IB,2
+Math,Geometry,27-02-2025,Thu,10:00,11:00,IB,2
+Math,Fluid Dynamics,27-02-2025,Thu,11:00,12:00,IB,2
+Math,Complex Methods,27-02-2025,Thu,12:00,13:00,IB,2
+Math,Complex Analysis,28-02-2025,Fri,10:00,11:00,IB,2
+Math,Statistics,28-02-2025,Fri,11:00,12:00,IB,2
+Math,"Groups, Rings and Modules",01-03-2025,Sat,9:00,10:00,IB,2
+Math,Geometry,01-03-2025,Sat,10:00,11:00,IB,2
+Math,Electromagnetism,01-03-2025,Sat,11:00,12:00,IB,2
+Math,Numerical Analysis,01-03-2025,Sat,12:00,13:00,IB,2
+Math,Numerical Analysis,03-03-2025,Mon,10:00,11:00,IB,2
+Math,Fluid Dynamics,03-03-2025,Mon,11:00,12:00,IB,2
+Math,"Groups, Rings and Modules",04-03-2025,Tue,9:00,10:00,IB,2
+Math,Geometry,04-03-2025,Tue,10:00,11:00,IB,2
+Math,Electromagnetism,04-03-2025,Tue,11:00,12:00,IB,2
+Math,Complex Methods,04-03-2025,Tue,12:00,13:00,IB,2
+Math,Complex Analysis,05-03-2025,Wed,10:00,11:00,IB,2
+Math,Statistics,05-03-2025,Wed,11:00,12:00,IB,2
+Math,"Groups, Rings and Modules",06-03-2025,Thu,9:00,10:00,IB,2
+Math,Geometry,06-03-2025,Thu,10:00,11:00,IB,2
+Math,Fluid Dynamics,06-03-2025,Thu,11:00,12:00,IB,2
+Math,Complex Methods,06-03-2025,Thu,12:00,13:00,IB,2
+Math,Complex Analysis,07-03-2025,Fri,10:00,11:00,IB,2
+Math,Statistics,07-03-2025,Fri,11:00,12:00,IB,2
+Math,"Groups, Rings and Modules",08-03-2025,Sat,9:00,10:00,IB,2
+Math,Geometry,08-03-2025,Sat,10:00,11:00,IB,2
+Math,Electromagnetism,08-03-2025,Sat,11:00,12:00,IB,2
+Math,Numerical Analysis,08-03-2025,Sat,12:00,13:00,IB,2
+Math,Numerical Analysis,10-03-2025,Mon,10:00,11:00,IB,2
+Math,Fluid Dynamics,10-03-2025,Mon,11:00,12:00,IB,2
+Math,"Groups, Rings and Modules",11-03-2025,Tue,9:00,10:00,IB,2
+Math,Geometry,11-03-2025,Tue,10:00,11:00,IB,2
+Math,Electromagnetism,11-03-2025,Tue,11:00,12:00,IB,2
+Math,Complex Methods,11-03-2025,Tue,12:00,13:00,IB,2
+Math,Complex Analysis,12-03-2025,Wed,10:00,11:00,IB,2
+Math,Statistics,12-03-2025,Wed,11:00,12:00,IB,2
+Math,"Groups, Rings and Modules",13-03-2025,Thu,9:00,10:00,IB,2
+Math,Geometry,13-03-2025,Thu,10:00,11:00,IB,2
+Math,Fluid Dynamics,13-03-2025,Thu,11:00,12:00,IB,2
+Math,Complex Methods,13-03-2025,Thu,12:00,13:00,IB,2
+Math,Complex Analysis,14-03-2025,Fri,10:00,11:00,IB,2
+Math,"Groups, Rings and Modules",15-03-2025,Sat,9:00,10:00,IB,2
+Math,Geometry,15-03-2025,Sat,10:00,11:00,IB,2
+Math,Electromagnetism,15-03-2025,Sat,11:00,12:00,IB,2
+Math,Numerical Analysis,15-03-2025,Sat,12:00,13:00,IB,2
+Math,Numerical Analysis,17-03-2025,Mon,10:00,11:00,IB,2
+Math,Fluid Dynamics,17-03-2025,Mon,11:00,12:00,IB,2
+Math,"Groups, Rings and Modules",18-03-2025,Tue,9:00,10:00,IB,2
+Math,Geometry,18-03-2025,Tue,10:00,11:00,IB,2
+Math,Electromagnetism,18-03-2025,Tue,11:00,12:00,IB,2
+Math,Complex Methods,18-03-2025,Tue,12:00,13:00,IB,2
+Math,Complex Analysis,19-03-2025,Wed,10:00,11:00,IB,2
+Math,Statistics,19-03-2025,Wed,11:00,12:00,IB,2
+Math,Optimisation,02-05-2025,Fri,10:00,11:00,IB,2
+Math,Variational Principles,02-05-2025,Fri,11:00,12:00,IB,2
+Math,Optimisation,07-05-2025,Wed,10:00,11:00,IB,2
+Math,Optimisation,09-05-2025,Fri,10:00,11:00,IB,2
+Math,Variational Principles,09-05-2025,Fri,11:00,12:00,IB,2
+Math,Optimisation,12-05-2025,Mon,10:00,11:00,IB,2
+Math,Variational Principles,12-05-2025,Mon,11:00,12:00,IB,2
+Math,Variational Principles,13-05-2025,Tue,11:00,12:00,IB,2
+Math,Optimisation,14-05-2025,Wed,10:00,11:00,IB,2
+Math,Variational Principles,14-05-2025,Wed,11:00,12:00,IB,2
+Math,Optimisation,16-05-2025,Fri,10:00,11:00,IB,2
+Math,Variational Principles,16-05-2025,Fri,11:00,12:00,IB,2
+Math,Optimisation,19-05-2025,Mon,10:00,11:00,IB,2
+Math,Variational Principles,19-05-2025,Mon,11:00,12:00,IB,2
+Math,Variational Principles,20-05-2025,Tue,11:00,12:00,IB,2
+Math,Optimisation,21-05-2025,Wed,10:00,11:00,IB,2
+Math,Variational Principles,21-05-2025,Wed,11:00,12:00,IB,2
+Math,Optimisation,22-05-2025,Thu,10:00,11:00,IB,2
+Math,Optimisation,23-05-2025,Fri,10:00,11:00,IB,2
+Math,Variational Principles,23-05-2025,Fri,11:00,12:00,IB,2
+Math,Optimisation,26-05-2025,Mon,10:00,11:00,IB,2
+Math,Variational Principles,26-05-2025,Mon,11:00,12:00,IB,2
+Math,Optimisation,27-05-2025,Tue,10:00,11:00,IB,2
+Math,Variational Principles,27-05-2025,Tue,11:00,12:00,IB,2

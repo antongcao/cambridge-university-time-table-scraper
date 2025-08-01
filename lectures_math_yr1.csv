@@ -1,0 +1,234 @@
+course,module,date,week_day,start_time,end_time,part,year
+Math,Numbers and Sets,10-10-2024,Thu,10:00,11:00,IA,1
+Math,Differential Equations,10-10-2024,Thu,11:00,12:00,IA,1
+Math,Introduction to Mechanics,10-10-2024,Thu,12:00,13:00,IA,1
+Math,Vectors and Matrices,11-10-2024,Fri,10:00,11:00,IA,1
+Math,Groups,11-10-2024,Fri,11:00,12:00,IA,1
+Math,Numbers and Sets,12-10-2024,Sat,10:00,11:00,IA,1
+Math,Differential Equations,12-10-2024,Sat,11:00,12:00,IA,1
+Math,Vectors and Matrices,14-10-2024,Mon,10:00,11:00,IA,1
+Math,Groups,14-10-2024,Mon,11:00,12:00,IA,1
+Math,Numbers and Sets,15-10-2024,Tue,10:00,11:00,IA,1
+Math,Differential Equations,15-10-2024,Tue,11:00,12:00,IA,1
+Math,Introduction to Mechanics,15-10-2024,Tue,12:00,13:00,IA,1
+Math,Vectors and Matrices,16-10-2024,Wed,10:00,11:00,IA,1
+Math,Groups,16-10-2024,Wed,11:00,12:00,IA,1
+Math,Numbers and Sets,17-10-2024,Thu,10:00,11:00,IA,1
+Math,Differential Equations,17-10-2024,Thu,11:00,12:00,IA,1
+Math,Introduction to Mechanics,17-10-2024,Thu,12:00,13:00,IA,1
+Math,Vectors and Matrices,18-10-2024,Fri,10:00,11:00,IA,1
+Math,Groups,18-10-2024,Fri,11:00,12:00,IA,1
+Math,Numbers and Sets,19-10-2024,Sat,10:00,11:00,IA,1
+Math,Differential Equations,19-10-2024,Sat,11:00,12:00,IA,1
+Math,Vectors and Matrices,21-10-2024,Mon,10:00,11:00,IA,1
+Math,Groups,21-10-2024,Mon,11:00,12:00,IA,1
+Math,Numbers and Sets,22-10-2024,Tue,10:00,11:00,IA,1
+Math,Differential Equations,22-10-2024,Tue,11:00,12:00,IA,1
+Math,Introduction to Mechanics,22-10-2024,Tue,12:00,13:00,IA,1
+Math,Vectors and Matrices,23-10-2024,Wed,10:00,11:00,IA,1
+Math,Groups,23-10-2024,Wed,11:00,12:00,IA,1
+Math,Numbers and Sets,24-10-2024,Thu,10:00,11:00,IA,1
+Math,Differential Equations,24-10-2024,Thu,11:00,12:00,IA,1
+Math,Introduction to Mechanics,24-10-2024,Thu,12:00,13:00,IA,1
+Math,Vectors and Matrices,25-10-2024,Fri,10:00,11:00,IA,1
+Math,Groups,25-10-2024,Fri,11:00,12:00,IA,1
+Math,Numbers and Sets,26-10-2024,Sat,10:00,11:00,IA,1
+Math,Differential Equations,26-10-2024,Sat,11:00,12:00,IA,1
+Math,Vectors and Matrices,28-10-2024,Mon,10:00,11:00,IA,1
+Math,Groups,28-10-2024,Mon,11:00,12:00,IA,1
+Math,Numbers and Sets,29-10-2024,Tue,10:00,11:00,IA,1
+Math,Differential Equations,29-10-2024,Tue,11:00,12:00,IA,1
+Math,Introduction to Mechanics,29-10-2024,Tue,12:00,13:00,IA,1
+Math,Vectors and Matrices,30-10-2024,Wed,10:00,11:00,IA,1
+Math,Groups,30-10-2024,Wed,11:00,12:00,IA,1
+Math,Numbers and Sets,31-10-2024,Thu,10:00,11:00,IA,1
+Math,Differential Equations,31-10-2024,Thu,11:00,12:00,IA,1
+Math,Introduction to Mechanics,31-10-2024,Thu,12:00,13:00,IA,1
+Math,Vectors and Matrices,01-11-2024,Fri,10:00,11:00,IA,1
+Math,Groups,01-11-2024,Fri,11:00,12:00,IA,1
+Math,Numbers and Sets,02-11-2024,Sat,10:00,11:00,IA,1
+Math,Differential Equations,02-11-2024,Sat,11:00,12:00,IA,1
+Math,Vectors and Matrices,04-11-2024,Mon,10:00,11:00,IA,1
+Math,Groups,04-11-2024,Mon,11:00,12:00,IA,1
+Math,Numbers and Sets,05-11-2024,Tue,10:00,11:00,IA,1
+Math,Differential Equations,05-11-2024,Tue,11:00,12:00,IA,1
+Math,Introduction to Mechanics,05-11-2024,Tue,12:00,13:00,IA,1
+Math,Vectors and Matrices,06-11-2024,Wed,10:00,11:00,IA,1
+Math,Groups,06-11-2024,Wed,11:00,12:00,IA,1
+Math,Numbers and Sets,07-11-2024,Thu,10:00,11:00,IA,1
+Math,Differential Equations,07-11-2024,Thu,11:00,12:00,IA,1
+Math,Introduction to Mechanics,07-11-2024,Thu,12:00,13:00,IA,1
+Math,Vectors and Matrices,08-11-2024,Fri,10:00,11:00,IA,1
+Math,Groups,08-11-2024,Fri,11:00,12:00,IA,1
+Math,Numbers and Sets,09-11-2024,Sat,10:00,11:00,IA,1
+Math,Differential Equations,09-11-2024,Sat,11:00,12:00,IA,1
+Math,Vectors and Matrices,11-11-2024,Mon,10:00,11:00,IA,1
+Math,Groups,11-11-2024,Mon,11:00,12:00,IA,1
+Math,Numbers and Sets,12-11-2024,Tue,10:00,11:00,IA,1
+Math,Differential Equations,12-11-2024,Tue,11:00,12:00,IA,1
+Math,Introduction to Mechanics,12-11-2024,Tue,12:00,13:00,IA,1
+Math,Vectors and Matrices,13-11-2024,Wed,10:00,11:00,IA,1
+Math,Groups,13-11-2024,Wed,11:00,12:00,IA,1
+Math,Numbers and Sets,14-11-2024,Thu,10:00,11:00,IA,1
+Math,Differential Equations,14-11-2024,Thu,11:00,12:00,IA,1
+Math,Vectors and Matrices,15-11-2024,Fri,10:00,11:00,IA,1
+Math,Groups,15-11-2024,Fri,11:00,12:00,IA,1
+Math,Numbers and Sets,16-11-2024,Sat,10:00,11:00,IA,1
+Math,Differential Equations,16-11-2024,Sat,11:00,12:00,IA,1
+Math,Vectors and Matrices,18-11-2024,Mon,10:00,11:00,IA,1
+Math,Groups,18-11-2024,Mon,11:00,12:00,IA,1
+Math,Numbers and Sets,19-11-2024,Tue,10:00,11:00,IA,1
+Math,Differential Equations,19-11-2024,Tue,11:00,12:00,IA,1
+Math,Vectors and Matrices,20-11-2024,Wed,10:00,11:00,IA,1
+Math,Groups,20-11-2024,Wed,11:00,12:00,IA,1
+Math,Numbers and Sets,21-11-2024,Thu,10:00,11:00,IA,1
+Math,Differential Equations,21-11-2024,Thu,11:00,12:00,IA,1
+Math,Vectors and Matrices,22-11-2024,Fri,10:00,11:00,IA,1
+Math,Groups,22-11-2024,Fri,11:00,12:00,IA,1
+Math,Numbers and Sets,23-11-2024,Sat,10:00,11:00,IA,1
+Math,Differential Equations,23-11-2024,Sat,11:00,12:00,IA,1
+Math,Vectors and Matrices,25-11-2024,Mon,10:00,11:00,IA,1
+Math,Groups,25-11-2024,Mon,11:00,12:00,IA,1
+Math,Numbers and Sets,26-11-2024,Tue,10:00,11:00,IA,1
+Math,Differential Equations,26-11-2024,Tue,11:00,12:00,IA,1
+Math,Vectors and Matrices,27-11-2024,Wed,10:00,11:00,IA,1
+Math,Groups,27-11-2024,Wed,11:00,12:00,IA,1
+Math,Numbers and Sets,28-11-2024,Thu,10:00,11:00,IA,1
+Math,Vectors and Matrices,29-11-2024,Fri,10:00,11:00,IA,1
+Math,Groups,29-11-2024,Fri,11:00,12:00,IA,1
+Math,Differential Equations,30-11-2024,Sat,11:00,12:00,IA,1
+Math,Vectors and Matrices,02-12-2024,Mon,10:00,11:00,IA,1
+Math,Groups,02-12-2024,Mon,11:00,12:00,IA,1
+Math,Numbers and Sets,03-12-2024,Tue,10:00,11:00,IA,1
+Math,Differential Equations,03-12-2024,Tue,11:00,12:00,IA,1
+Math,Vectors and Matrices,04-12-2024,Wed,10:00,11:00,IA,1
+Math,Groups,04-12-2024,Wed,11:00,12:00,IA,1
+Math,Dynamics and Relativity,23-01-2025,Thu,10:00,11:00,IA,1
+Math,Analysis I,23-01-2025,Thu,11:00,12:00,IA,1
+Math,Probability,24-01-2025,Fri,10:00,11:00,IA,1
+Math,Vector Calculus,24-01-2025,Fri,11:00,12:00,IA,1
+Math,Dynamics and Relativity,25-01-2025,Sat,10:00,11:00,IA,1
+Math,Analysis I,25-01-2025,Sat,11:00,12:00,IA,1
+Math,Probability,27-01-2025,Mon,10:00,11:00,IA,1
+Math,Vector Calculus,27-01-2025,Mon,11:00,12:00,IA,1
+Math,Dynamics and Relativity,28-01-2025,Tue,10:00,11:00,IA,1
+Math,Analysis I,28-01-2025,Tue,11:00,12:00,IA,1
+Math,Probability,29-01-2025,Wed,10:00,11:00,IA,1
+Math,Vector Calculus,29-01-2025,Wed,11:00,12:00,IA,1
+Math,Dynamics and Relativity,30-01-2025,Thu,10:00,11:00,IA,1
+Math,Analysis I,30-01-2025,Thu,11:00,12:00,IA,1
+Math,Probability,31-01-2025,Fri,10:00,11:00,IA,1
+Math,Vector Calculus,31-01-2025,Fri,11:00,12:00,IA,1
+Math,Dynamics and Relativity,01-02-2025,Sat,10:00,11:00,IA,1
+Math,Analysis I,01-02-2025,Sat,11:00,12:00,IA,1
+Math,Probability,03-02-2025,Mon,10:00,11:00,IA,1
+Math,Vector Calculus,03-02-2025,Mon,11:00,12:00,IA,1
+Math,Dynamics and Relativity,04-02-2025,Tue,10:00,11:00,IA,1
+Math,Analysis I,04-02-2025,Tue,11:00,12:00,IA,1
+Math,Probability,05-02-2025,Wed,10:00,11:00,IA,1
+Math,Vector Calculus,05-02-2025,Wed,11:00,12:00,IA,1
+Math,Dynamics and Relativity,06-02-2025,Thu,10:00,11:00,IA,1
+Math,Analysis I,06-02-2025,Thu,11:00,12:00,IA,1
+Math,Probability,07-02-2025,Fri,10:00,11:00,IA,1
+Math,Vector Calculus,07-02-2025,Fri,11:00,12:00,IA,1
+Math,Dynamics and Relativity,08-02-2025,Sat,10:00,11:00,IA,1
+Math,Analysis I,08-02-2025,Sat,11:00,12:00,IA,1
+Math,Probability,10-02-2025,Mon,10:00,11:00,IA,1
+Math,Vector Calculus,10-02-2025,Mon,11:00,12:00,IA,1
+Math,Dynamics and Relativity,11-02-2025,Tue,10:00,11:00,IA,1
+Math,Analysis I,11-02-2025,Tue,11:00,12:00,IA,1
+Math,Probability,12-02-2025,Wed,10:00,11:00,IA,1
+Math,Vector Calculus,12-02-2025,Wed,11:00,12:00,IA,1
+Math,Dynamics and Relativity,13-02-2025,Thu,10:00,11:00,IA,1
+Math,Analysis I,13-02-2025,Thu,11:00,12:00,IA,1
+Math,Probability,14-02-2025,Fri,10:00,11:00,IA,1
+Math,Vector Calculus,14-02-2025,Fri,11:00,12:00,IA,1
+Math,Dynamics and Relativity,15-02-2025,Sat,10:00,11:00,IA,1
+Math,Analysis I,15-02-2025,Sat,11:00,12:00,IA,1
+Math,Probability,17-02-2025,Mon,10:00,11:00,IA,1
+Math,Vector Calculus,17-02-2025,Mon,11:00,12:00,IA,1
+Math,Dynamics and Relativity,18-02-2025,Tue,10:00,11:00,IA,1
+Math,Analysis I,18-02-2025,Tue,11:00,12:00,IA,1
+Math,Probability,19-02-2025,Wed,10:00,11:00,IA,1
+Math,Vector Calculus,19-02-2025,Wed,11:00,12:00,IA,1
+Math,Dynamics and Relativity,20-02-2025,Thu,10:00,11:00,IA,1
+Math,Analysis I,20-02-2025,Thu,11:00,12:00,IA,1
+Math,Probability,21-02-2025,Fri,10:00,11:00,IA,1
+Math,Vector Calculus,21-02-2025,Fri,11:00,12:00,IA,1
+Math,Dynamics and Relativity,22-02-2025,Sat,10:00,11:00,IA,1
+Math,Analysis I,22-02-2025,Sat,11:00,12:00,IA,1
+Math,Probability,24-02-2025,Mon,10:00,11:00,IA,1
+Math,Vector Calculus,24-02-2025,Mon,11:00,12:00,IA,1
+Math,Dynamics and Relativity,25-02-2025,Tue,10:00,11:00,IA,1
+Math,Analysis I,25-02-2025,Tue,11:00,12:00,IA,1
+Math,Probability,26-02-2025,Wed,10:00,11:00,IA,1
+Math,Vector Calculus,26-02-2025,Wed,11:00,12:00,IA,1
+Math,Dynamics and Relativity,27-02-2025,Thu,10:00,11:00,IA,1
+Math,Analysis I,27-02-2025,Thu,11:00,12:00,IA,1
+Math,Probability,28-02-2025,Fri,10:00,11:00,IA,1
+Math,Vector Calculus,28-02-2025,Fri,11:00,12:00,IA,1
+Math,Dynamics and Relativity,01-03-2025,Sat,10:00,11:00,IA,1
+Math,Analysis I,01-03-2025,Sat,11:00,12:00,IA,1
+Math,Probability,03-03-2025,Mon,10:00,11:00,IA,1
+Math,Vector Calculus,03-03-2025,Mon,11:00,12:00,IA,1
+Math,Dynamics and Relativity,04-03-2025,Tue,10:00,11:00,IA,1
+Math,Analysis I,04-03-2025,Tue,11:00,12:00,IA,1
+Math,Probability,05-03-2025,Wed,10:00,11:00,IA,1
+Math,Vector Calculus,05-03-2025,Wed,11:00,12:00,IA,1
+Math,Dynamics and Relativity,06-03-2025,Thu,10:00,11:00,IA,1
+Math,Analysis I,06-03-2025,Thu,11:00,12:00,IA,1
+Math,Probability,07-03-2025,Fri,10:00,11:00,IA,1
+Math,Vector Calculus,07-03-2025,Fri,11:00,12:00,IA,1
+Math,Dynamics and Relativity,08-03-2025,Sat,10:00,11:00,IA,1
+Math,Analysis I,08-03-2025,Sat,11:00,12:00,IA,1
+Math,Probability,10-03-2025,Mon,10:00,11:00,IA,1
+Math,Vector Calculus,10-03-2025,Mon,11:00,12:00,IA,1
+Math,Dynamics and Relativity,11-03-2025,Tue,10:00,11:00,IA,1
+Math,Analysis I,11-03-2025,Tue,11:00,12:00,IA,1
+Math,Probability,12-03-2025,Wed,10:00,11:00,IA,1
+Math,Vector Calculus,12-03-2025,Wed,11:00,12:00,IA,1
+Math,Dynamics and Relativity,13-03-2025,Thu,10:00,11:00,IA,1
+Math,Analysis I,13-03-2025,Thu,11:00,12:00,IA,1
+Math,Probability,14-03-2025,Fri,10:00,11:00,IA,1
+Math,Vector Calculus,14-03-2025,Fri,11:00,12:00,IA,1
+Math,Dynamics and Relativity,15-03-2025,Sat,10:00,11:00,IA,1
+Math,Analysis I,15-03-2025,Sat,11:00,12:00,IA,1
+Math,Probability,17-03-2025,Mon,10:00,11:00,IA,1
+Math,Vector Calculus,17-03-2025,Mon,11:00,12:00,IA,1
+Math,Dynamics and Relativity,18-03-2025,Tue,10:00,11:00,IA,1
+Math,Analysis I,18-03-2025,Tue,11:00,12:00,IA,1
+Math,Probability,19-03-2025,Wed,10:00,11:00,IA,1
+Math,Vector Calculus,19-03-2025,Wed,11:00,12:00,IA,1
+Math,Optimisation,02-05-2025,Fri,10:00,11:00,IA,1
+Math,Variational Principles,02-05-2025,Fri,11:00,12:00,IA,1
+Math,Computational Projects,02-05-2025,Fri,12:00,13:00,IA,1
+Math,Computational Projects,05-05-2025,Mon,12:00,13:00,IA,1
+Math,Optimisation,07-05-2025,Wed,10:00,11:00,IA,1
+Math,Maths Exam Techniques Meeting,07-05-2025,Wed,11:00,12:00,IA,1
+Math,Computational Projects,07-05-2025,Wed,12:00,13:00,IA,1
+Math,Optimisation,09-05-2025,Fri,10:00,11:00,IA,1
+Math,Variational Principles,09-05-2025,Fri,11:00,12:00,IA,1
+Math,Computational Projects,09-05-2025,Fri,12:00,13:00,IA,1
+Math,Optimisation,12-05-2025,Mon,10:00,11:00,IA,1
+Math,Variational Principles,12-05-2025,Mon,11:00,12:00,IA,1
+Math,Computational Projects,12-05-2025,Mon,12:00,13:00,IA,1
+Math,Variational Principles,13-05-2025,Tue,11:00,12:00,IA,1
+Math,Optimisation,14-05-2025,Wed,10:00,11:00,IA,1
+Math,Variational Principles,14-05-2025,Wed,11:00,12:00,IA,1
+Math,Computational Projects,14-05-2025,Wed,12:00,13:00,IA,1
+Math,Optimisation,16-05-2025,Fri,10:00,11:00,IA,1
+Math,Variational Principles,16-05-2025,Fri,11:00,12:00,IA,1
+Math,Computational Projects,16-05-2025,Fri,12:00,13:00,IA,1
+Math,Optimisation,19-05-2025,Mon,10:00,11:00,IA,1
+Math,Variational Principles,19-05-2025,Mon,11:00,12:00,IA,1
+Math,Computational Projects,19-05-2025,Mon,12:00,13:00,IA,1
+Math,Variational Principles,20-05-2025,Tue,11:00,12:00,IA,1
+Math,Optimisation,21-05-2025,Wed,10:00,11:00,IA,1
+Math,Variational Principles,21-05-2025,Wed,11:00,12:00,IA,1
+Math,Optimisation,22-05-2025,Thu,10:00,11:00,IA,1
+Math,Optimisation,23-05-2025,Fri,10:00,11:00,IA,1
+Math,Variational Principles,23-05-2025,Fri,11:00,12:00,IA,1
+Math,Optimisation,26-05-2025,Mon,10:00,11:00,IA,1
+Math,Variational Principles,26-05-2025,Mon,11:00,12:00,IA,1
+Math,Optimisation,27-05-2025,Tue,10:00,11:00,IA,1
+Math,Variational Principles,27-05-2025,Tue,11:00,12:00,IA,1

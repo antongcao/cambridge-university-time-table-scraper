@@ -1,0 +1,859 @@
+course,module,date,week_day,start_time,end_time,part,year
+Math,Numerical Analysis,10-10-2024,Thu,9:00,10:00,II,3
+Math,Graph Theory,10-10-2024,Thu,9:00,10:00,II,3
+Math,Automata and Formal Languages,10-10-2024,Thu,10:00,11:00,II,3
+Math,Electrodynamics,10-10-2024,Thu,10:00,11:00,II,3
+Math,Number Theory,10-10-2024,Thu,11:00,12:00,II,3
+Math,Fluid Dynamics,10-10-2024,Thu,11:00,12:00,II,3
+Math,Asymptotic Methods,10-10-2024,Thu,12:00,13:00,II,3
+Math,Representation Theory,10-10-2024,Thu,12:00,13:00,II,3
+Math,Cosmology,11-10-2024,Fri,9:00,10:00,II,3
+Math,Linear Analysis,11-10-2024,Fri,9:00,10:00,II,3
+Math,Stochastic Financial Models,11-10-2024,Fri,9:00,10:00,II,3
+Math,Dynamical Systems,11-10-2024,Fri,10:00,11:00,II,3
+Math,Probability and Measure,11-10-2024,Fri,10:00,11:00,II,3
+Math,Principles of Statistics,11-10-2024,Fri,11:00,12:00,II,3
+Math,Algebraic Topology,11-10-2024,Fri,11:00,12:00,II,3
+Math,Classical Dynamics,11-10-2024,Fri,11:00,12:00,II,3
+Math,Statistical Modelling,11-10-2024,Fri,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,11-10-2024,Fri,12:00,13:00,II,3
+Math,Galois Theory,11-10-2024,Fri,12:00,13:00,II,3
+Math,Numerical Analysis,12-10-2024,Sat,9:00,10:00,II,3
+Math,Graph Theory,12-10-2024,Sat,9:00,10:00,II,3
+Math,Automata and Formal Languages,12-10-2024,Sat,10:00,11:00,II,3
+Math,Number Theory,12-10-2024,Sat,11:00,12:00,II,3
+Math,Fluid Dynamics,12-10-2024,Sat,11:00,12:00,II,3
+Math,Representation Theory,12-10-2024,Sat,12:00,13:00,II,3
+Math,Cosmology,14-10-2024,Mon,9:00,10:00,II,3
+Math,Linear Analysis,14-10-2024,Mon,9:00,10:00,II,3
+Math,Stochastic Financial Models,14-10-2024,Mon,9:00,10:00,II,3
+Math,Dynamical Systems,14-10-2024,Mon,10:00,11:00,II,3
+Math,Probability and Measure,14-10-2024,Mon,10:00,11:00,II,3
+Math,Principles of Statistics,14-10-2024,Mon,11:00,12:00,II,3
+Math,Algebraic Topology,14-10-2024,Mon,11:00,12:00,II,3
+Math,Classical Dynamics,14-10-2024,Mon,11:00,12:00,II,3
+Math,Statistical Modelling,14-10-2024,Mon,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,14-10-2024,Mon,12:00,13:00,II,3
+Math,Galois Theory,14-10-2024,Mon,12:00,13:00,II,3
+Math,Numerical Analysis,15-10-2024,Tue,9:00,10:00,II,3
+Math,Graph Theory,15-10-2024,Tue,9:00,10:00,II,3
+Math,Automata and Formal Languages,15-10-2024,Tue,10:00,11:00,II,3
+Math,Electrodynamics,15-10-2024,Tue,10:00,11:00,II,3
+Math,Number Theory,15-10-2024,Tue,11:00,12:00,II,3
+Math,Fluid Dynamics,15-10-2024,Tue,11:00,12:00,II,3
+Math,Asymptotic Methods,15-10-2024,Tue,12:00,13:00,II,3
+Math,Representation Theory,15-10-2024,Tue,12:00,13:00,II,3
+Math,Cosmology,16-10-2024,Wed,9:00,10:00,II,3
+Math,Linear Analysis,16-10-2024,Wed,9:00,10:00,II,3
+Math,Stochastic Financial Models,16-10-2024,Wed,9:00,10:00,II,3
+Math,Dynamical Systems,16-10-2024,Wed,10:00,11:00,II,3
+Math,Probability and Measure,16-10-2024,Wed,10:00,11:00,II,3
+Math,Principles of Statistics,16-10-2024,Wed,11:00,12:00,II,3
+Math,Algebraic Topology,16-10-2024,Wed,11:00,12:00,II,3
+Math,Classical Dynamics,16-10-2024,Wed,11:00,12:00,II,3
+Math,Statistical Modelling,16-10-2024,Wed,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,16-10-2024,Wed,12:00,13:00,II,3
+Math,Galois Theory,16-10-2024,Wed,12:00,13:00,II,3
+Math,Numerical Analysis,17-10-2024,Thu,9:00,10:00,II,3
+Math,Graph Theory,17-10-2024,Thu,9:00,10:00,II,3
+Math,Automata and Formal Languages,17-10-2024,Thu,10:00,11:00,II,3
+Math,Electrodynamics,17-10-2024,Thu,10:00,11:00,II,3
+Math,Number Theory,17-10-2024,Thu,11:00,12:00,II,3
+Math,Fluid Dynamics,17-10-2024,Thu,11:00,12:00,II,3
+Math,Asymptotic Methods,17-10-2024,Thu,12:00,13:00,II,3
+Math,Representation Theory,17-10-2024,Thu,12:00,13:00,II,3
+Math,Cosmology,18-10-2024,Fri,9:00,10:00,II,3
+Math,Linear Analysis,18-10-2024,Fri,9:00,10:00,II,3
+Math,Stochastic Financial Models,18-10-2024,Fri,9:00,10:00,II,3
+Math,Dynamical Systems,18-10-2024,Fri,10:00,11:00,II,3
+Math,Probability and Measure,18-10-2024,Fri,10:00,11:00,II,3
+Math,Principles of Statistics,18-10-2024,Fri,11:00,12:00,II,3
+Math,Algebraic Topology,18-10-2024,Fri,11:00,12:00,II,3
+Math,Classical Dynamics,18-10-2024,Fri,11:00,12:00,II,3
+Math,Statistical Modelling,18-10-2024,Fri,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,18-10-2024,Fri,12:00,13:00,II,3
+Math,Galois Theory,18-10-2024,Fri,12:00,13:00,II,3
+Math,Numerical Analysis,19-10-2024,Sat,9:00,10:00,II,3
+Math,Graph Theory,19-10-2024,Sat,9:00,10:00,II,3
+Math,Automata and Formal Languages,19-10-2024,Sat,10:00,11:00,II,3
+Math,Number Theory,19-10-2024,Sat,11:00,12:00,II,3
+Math,Fluid Dynamics,19-10-2024,Sat,11:00,12:00,II,3
+Math,Representation Theory,19-10-2024,Sat,12:00,13:00,II,3
+Math,Cosmology,21-10-2024,Mon,9:00,10:00,II,3
+Math,Linear Analysis,21-10-2024,Mon,9:00,10:00,II,3
+Math,Stochastic Financial Models,21-10-2024,Mon,9:00,10:00,II,3
+Math,Dynamical Systems,21-10-2024,Mon,10:00,11:00,II,3
+Math,Probability and Measure,21-10-2024,Mon,10:00,11:00,II,3
+Math,Principles of Statistics,21-10-2024,Mon,11:00,12:00,II,3
+Math,Algebraic Topology,21-10-2024,Mon,11:00,12:00,II,3
+Math,Classical Dynamics,21-10-2024,Mon,11:00,12:00,II,3
+Math,Statistical Modelling,21-10-2024,Mon,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,21-10-2024,Mon,12:00,13:00,II,3
+Math,Galois Theory,21-10-2024,Mon,12:00,13:00,II,3
+Math,Laboratory Demonstrations in Fluid Dynamics,21-10-2024,Mon,14:00,15:30,II,3
+Math,Numerical Analysis,22-10-2024,Tue,9:00,10:00,II,3
+Math,Graph Theory,22-10-2024,Tue,9:00,10:00,II,3
+Math,Automata and Formal Languages,22-10-2024,Tue,10:00,11:00,II,3
+Math,Electrodynamics,22-10-2024,Tue,10:00,11:00,II,3
+Math,Number Theory,22-10-2024,Tue,11:00,12:00,II,3
+Math,Fluid Dynamics,22-10-2024,Tue,11:00,12:00,II,3
+Math,Asymptotic Methods,22-10-2024,Tue,12:00,13:00,II,3
+Math,Representation Theory,22-10-2024,Tue,12:00,13:00,II,3
+Math,Laboratory Demonstrations in Fluid Dynamics,22-10-2024,Tue,14:00,15:30,II,3
+Math,Cosmology,23-10-2024,Wed,9:00,10:00,II,3
+Math,Linear Analysis,23-10-2024,Wed,9:00,10:00,II,3
+Math,Stochastic Financial Models,23-10-2024,Wed,9:00,10:00,II,3
+Math,Dynamical Systems,23-10-2024,Wed,10:00,11:00,II,3
+Math,Probability and Measure,23-10-2024,Wed,10:00,11:00,II,3
+Math,Principles of Statistics,23-10-2024,Wed,11:00,12:00,II,3
+Math,Algebraic Topology,23-10-2024,Wed,11:00,12:00,II,3
+Math,Classical Dynamics,23-10-2024,Wed,11:00,12:00,II,3
+Math,Statistical Modelling,23-10-2024,Wed,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,23-10-2024,Wed,12:00,13:00,II,3
+Math,Galois Theory,23-10-2024,Wed,12:00,13:00,II,3
+Math,Laboratory Demonstrations in Fluid Dynamics,23-10-2024,Wed,14:00,15:30,II,3
+Math,Numerical Analysis,24-10-2024,Thu,9:00,10:00,II,3
+Math,Graph Theory,24-10-2024,Thu,9:00,10:00,II,3
+Math,Automata and Formal Languages,24-10-2024,Thu,10:00,11:00,II,3
+Math,Electrodynamics,24-10-2024,Thu,10:00,11:00,II,3
+Math,Number Theory,24-10-2024,Thu,11:00,12:00,II,3
+Math,Fluid Dynamics,24-10-2024,Thu,11:00,12:00,II,3
+Math,Asymptotic Methods,24-10-2024,Thu,12:00,13:00,II,3
+Math,Representation Theory,24-10-2024,Thu,12:00,13:00,II,3
+Math,Cosmology,25-10-2024,Fri,9:00,10:00,II,3
+Math,Linear Analysis,25-10-2024,Fri,9:00,10:00,II,3
+Math,Stochastic Financial Models,25-10-2024,Fri,9:00,10:00,II,3
+Math,Dynamical Systems,25-10-2024,Fri,10:00,11:00,II,3
+Math,Probability and Measure,25-10-2024,Fri,10:00,11:00,II,3
+Math,Principles of Statistics,25-10-2024,Fri,11:00,12:00,II,3
+Math,Algebraic Topology,25-10-2024,Fri,11:00,12:00,II,3
+Math,Classical Dynamics,25-10-2024,Fri,11:00,12:00,II,3
+Math,Statistical Modelling,25-10-2024,Fri,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,25-10-2024,Fri,12:00,13:00,II,3
+Math,Galois Theory,25-10-2024,Fri,12:00,13:00,II,3
+Math,Numerical Analysis,26-10-2024,Sat,9:00,10:00,II,3
+Math,Graph Theory,26-10-2024,Sat,9:00,10:00,II,3
+Math,Automata and Formal Languages,26-10-2024,Sat,10:00,11:00,II,3
+Math,Number Theory,26-10-2024,Sat,11:00,12:00,II,3
+Math,Fluid Dynamics,26-10-2024,Sat,11:00,12:00,II,3
+Math,Representation Theory,26-10-2024,Sat,12:00,13:00,II,3
+Math,Cosmology,28-10-2024,Mon,9:00,10:00,II,3
+Math,Linear Analysis,28-10-2024,Mon,9:00,10:00,II,3
+Math,Stochastic Financial Models,28-10-2024,Mon,9:00,10:00,II,3
+Math,Dynamical Systems,28-10-2024,Mon,10:00,11:00,II,3
+Math,Probability and Measure,28-10-2024,Mon,10:00,11:00,II,3
+Math,Principles of Statistics,28-10-2024,Mon,11:00,12:00,II,3
+Math,Algebraic Topology,28-10-2024,Mon,11:00,12:00,II,3
+Math,Classical Dynamics,28-10-2024,Mon,11:00,12:00,II,3
+Math,Statistical Modelling,28-10-2024,Mon,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,28-10-2024,Mon,12:00,13:00,II,3
+Math,Galois Theory,28-10-2024,Mon,12:00,13:00,II,3
+Math,Numerical Analysis,29-10-2024,Tue,9:00,10:00,II,3
+Math,Graph Theory,29-10-2024,Tue,9:00,10:00,II,3
+Math,Automata and Formal Languages,29-10-2024,Tue,10:00,11:00,II,3
+Math,Electrodynamics,29-10-2024,Tue,10:00,11:00,II,3
+Math,Number Theory,29-10-2024,Tue,11:00,12:00,II,3
+Math,Fluid Dynamics,29-10-2024,Tue,11:00,12:00,II,3
+Math,Asymptotic Methods,29-10-2024,Tue,12:00,13:00,II,3
+Math,Representation Theory,29-10-2024,Tue,12:00,13:00,II,3
+Math,Cosmology,30-10-2024,Wed,9:00,10:00,II,3
+Math,Linear Analysis,30-10-2024,Wed,9:00,10:00,II,3
+Math,Stochastic Financial Models,30-10-2024,Wed,9:00,10:00,II,3
+Math,Dynamical Systems,30-10-2024,Wed,10:00,11:00,II,3
+Math,Probability and Measure,30-10-2024,Wed,10:00,11:00,II,3
+Math,Principles of Statistics,30-10-2024,Wed,11:00,12:00,II,3
+Math,Algebraic Topology,30-10-2024,Wed,11:00,12:00,II,3
+Math,Classical Dynamics,30-10-2024,Wed,11:00,12:00,II,3
+Math,Statistical Modelling,30-10-2024,Wed,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,30-10-2024,Wed,12:00,13:00,II,3
+Math,Galois Theory,30-10-2024,Wed,12:00,13:00,II,3
+Math,Numerical Analysis,31-10-2024,Thu,9:00,10:00,II,3
+Math,Graph Theory,31-10-2024,Thu,9:00,10:00,II,3
+Math,Automata and Formal Languages,31-10-2024,Thu,10:00,11:00,II,3
+Math,Electrodynamics,31-10-2024,Thu,10:00,11:00,II,3
+Math,Number Theory,31-10-2024,Thu,11:00,12:00,II,3
+Math,Fluid Dynamics,31-10-2024,Thu,11:00,12:00,II,3
+Math,Asymptotic Methods,31-10-2024,Thu,12:00,13:00,II,3
+Math,Representation Theory,31-10-2024,Thu,12:00,13:00,II,3
+Math,Cosmology,01-11-2024,Fri,9:00,10:00,II,3
+Math,Linear Analysis,01-11-2024,Fri,9:00,10:00,II,3
+Math,Stochastic Financial Models,01-11-2024,Fri,9:00,10:00,II,3
+Math,Dynamical Systems,01-11-2024,Fri,10:00,11:00,II,3
+Math,Probability and Measure,01-11-2024,Fri,10:00,11:00,II,3
+Math,Principles of Statistics,01-11-2024,Fri,11:00,12:00,II,3
+Math,Algebraic Topology,01-11-2024,Fri,11:00,12:00,II,3
+Math,Classical Dynamics,01-11-2024,Fri,11:00,12:00,II,3
+Math,Statistical Modelling,01-11-2024,Fri,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,01-11-2024,Fri,12:00,13:00,II,3
+Math,Galois Theory,01-11-2024,Fri,12:00,13:00,II,3
+Math,Numerical Analysis,02-11-2024,Sat,9:00,10:00,II,3
+Math,Graph Theory,02-11-2024,Sat,9:00,10:00,II,3
+Math,Automata and Formal Languages,02-11-2024,Sat,10:00,11:00,II,3
+Math,Number Theory,02-11-2024,Sat,11:00,12:00,II,3
+Math,Fluid Dynamics,02-11-2024,Sat,11:00,12:00,II,3
+Math,Representation Theory,02-11-2024,Sat,12:00,13:00,II,3
+Math,Cosmology,04-11-2024,Mon,9:00,10:00,II,3
+Math,Linear Analysis,04-11-2024,Mon,9:00,10:00,II,3
+Math,Stochastic Financial Models,04-11-2024,Mon,9:00,10:00,II,3
+Math,Dynamical Systems,04-11-2024,Mon,10:00,11:00,II,3
+Math,Probability and Measure,04-11-2024,Mon,10:00,11:00,II,3
+Math,Principles of Statistics,04-11-2024,Mon,11:00,12:00,II,3
+Math,Algebraic Topology,04-11-2024,Mon,11:00,12:00,II,3
+Math,Classical Dynamics,04-11-2024,Mon,11:00,12:00,II,3
+Math,Statistical Modelling,04-11-2024,Mon,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,04-11-2024,Mon,12:00,13:00,II,3
+Math,Galois Theory,04-11-2024,Mon,12:00,13:00,II,3
+Math,Laboratory Demonstrations in Fluid Dynamics,04-11-2024,Mon,14:00,15:30,II,3
+Math,Numerical Analysis,05-11-2024,Tue,9:00,10:00,II,3
+Math,Graph Theory,05-11-2024,Tue,9:00,10:00,II,3
+Math,Automata and Formal Languages,05-11-2024,Tue,10:00,11:00,II,3
+Math,Electrodynamics,05-11-2024,Tue,10:00,11:00,II,3
+Math,Number Theory,05-11-2024,Tue,11:00,12:00,II,3
+Math,Fluid Dynamics,05-11-2024,Tue,11:00,12:00,II,3
+Math,Asymptotic Methods,05-11-2024,Tue,12:00,13:00,II,3
+Math,Representation Theory,05-11-2024,Tue,12:00,13:00,II,3
+Math,Laboratory Demonstrations in Fluid Dynamics,05-11-2024,Tue,14:00,15:30,II,3
+Math,Cosmology,06-11-2024,Wed,9:00,10:00,II,3
+Math,Linear Analysis,06-11-2024,Wed,9:00,10:00,II,3
+Math,Stochastic Financial Models,06-11-2024,Wed,9:00,10:00,II,3
+Math,Dynamical Systems,06-11-2024,Wed,10:00,11:00,II,3
+Math,Probability and Measure,06-11-2024,Wed,10:00,11:00,II,3
+Math,Principles of Statistics,06-11-2024,Wed,11:00,12:00,II,3
+Math,Algebraic Topology,06-11-2024,Wed,11:00,12:00,II,3
+Math,Classical Dynamics,06-11-2024,Wed,11:00,12:00,II,3
+Math,Statistical Modelling,06-11-2024,Wed,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,06-11-2024,Wed,12:00,13:00,II,3
+Math,Galois Theory,06-11-2024,Wed,12:00,13:00,II,3
+Math,Laboratory Demonstrations in Fluid Dynamics,06-11-2024,Wed,14:00,15:30,II,3
+Math,Numerical Analysis,07-11-2024,Thu,9:00,10:00,II,3
+Math,Graph Theory,07-11-2024,Thu,9:00,10:00,II,3
+Math,Automata and Formal Languages,07-11-2024,Thu,10:00,11:00,II,3
+Math,Electrodynamics,07-11-2024,Thu,10:00,11:00,II,3
+Math,Number Theory,07-11-2024,Thu,11:00,12:00,II,3
+Math,Fluid Dynamics,07-11-2024,Thu,11:00,12:00,II,3
+Math,Asymptotic Methods,07-11-2024,Thu,12:00,13:00,II,3
+Math,Representation Theory,07-11-2024,Thu,12:00,13:00,II,3
+Math,Cosmology,08-11-2024,Fri,9:00,10:00,II,3
+Math,Linear Analysis,08-11-2024,Fri,9:00,10:00,II,3
+Math,Stochastic Financial Models,08-11-2024,Fri,9:00,10:00,II,3
+Math,Dynamical Systems,08-11-2024,Fri,10:00,11:00,II,3
+Math,Probability and Measure,08-11-2024,Fri,10:00,11:00,II,3
+Math,Principles of Statistics,08-11-2024,Fri,11:00,12:00,II,3
+Math,Algebraic Topology,08-11-2024,Fri,11:00,12:00,II,3
+Math,Classical Dynamics,08-11-2024,Fri,11:00,12:00,II,3
+Math,Statistical Modelling,08-11-2024,Fri,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,08-11-2024,Fri,12:00,13:00,II,3
+Math,Galois Theory,08-11-2024,Fri,12:00,13:00,II,3
+Math,Numerical Analysis,09-11-2024,Sat,9:00,10:00,II,3
+Math,Graph Theory,09-11-2024,Sat,9:00,10:00,II,3
+Math,Automata and Formal Languages,09-11-2024,Sat,10:00,11:00,II,3
+Math,Number Theory,09-11-2024,Sat,11:00,12:00,II,3
+Math,Fluid Dynamics,09-11-2024,Sat,11:00,12:00,II,3
+Math,Representation Theory,09-11-2024,Sat,12:00,13:00,II,3
+Math,Cosmology,11-11-2024,Mon,9:00,10:00,II,3
+Math,Linear Analysis,11-11-2024,Mon,9:00,10:00,II,3
+Math,Stochastic Financial Models,11-11-2024,Mon,9:00,10:00,II,3
+Math,Dynamical Systems,11-11-2024,Mon,10:00,11:00,II,3
+Math,Probability and Measure,11-11-2024,Mon,10:00,11:00,II,3
+Math,Principles of Statistics,11-11-2024,Mon,11:00,12:00,II,3
+Math,Algebraic Topology,11-11-2024,Mon,11:00,12:00,II,3
+Math,Classical Dynamics,11-11-2024,Mon,11:00,12:00,II,3
+Math,Statistical Modelling,11-11-2024,Mon,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,11-11-2024,Mon,12:00,13:00,II,3
+Math,Galois Theory,11-11-2024,Mon,12:00,13:00,II,3
+Math,Numerical Analysis,12-11-2024,Tue,9:00,10:00,II,3
+Math,Graph Theory,12-11-2024,Tue,9:00,10:00,II,3
+Math,Automata and Formal Languages,12-11-2024,Tue,10:00,11:00,II,3
+Math,Electrodynamics,12-11-2024,Tue,10:00,11:00,II,3
+Math,Number Theory,12-11-2024,Tue,11:00,12:00,II,3
+Math,Fluid Dynamics,12-11-2024,Tue,11:00,12:00,II,3
+Math,Asymptotic Methods,12-11-2024,Tue,12:00,13:00,II,3
+Math,Representation Theory,12-11-2024,Tue,12:00,13:00,II,3
+Math,Cosmology,13-11-2024,Wed,9:00,10:00,II,3
+Math,Linear Analysis,13-11-2024,Wed,9:00,10:00,II,3
+Math,Stochastic Financial Models,13-11-2024,Wed,9:00,10:00,II,3
+Math,Dynamical Systems,13-11-2024,Wed,10:00,11:00,II,3
+Math,Probability and Measure,13-11-2024,Wed,10:00,11:00,II,3
+Math,Principles of Statistics,13-11-2024,Wed,11:00,12:00,II,3
+Math,Algebraic Topology,13-11-2024,Wed,11:00,12:00,II,3
+Math,Classical Dynamics,13-11-2024,Wed,11:00,12:00,II,3
+Math,Statistical Modelling,13-11-2024,Wed,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,13-11-2024,Wed,12:00,13:00,II,3
+Math,Galois Theory,13-11-2024,Wed,12:00,13:00,II,3
+Math,Numerical Analysis,14-11-2024,Thu,9:00,10:00,II,3
+Math,Graph Theory,14-11-2024,Thu,9:00,10:00,II,3
+Math,Automata and Formal Languages,14-11-2024,Thu,10:00,11:00,II,3
+Math,Electrodynamics,14-11-2024,Thu,10:00,11:00,II,3
+Math,Number Theory,14-11-2024,Thu,11:00,12:00,II,3
+Math,Fluid Dynamics,14-11-2024,Thu,11:00,12:00,II,3
+Math,Asymptotic Methods,14-11-2024,Thu,12:00,13:00,II,3
+Math,Representation Theory,14-11-2024,Thu,12:00,13:00,II,3
+Math,Cosmology,15-11-2024,Fri,9:00,10:00,II,3
+Math,Linear Analysis,15-11-2024,Fri,9:00,10:00,II,3
+Math,Stochastic Financial Models,15-11-2024,Fri,9:00,10:00,II,3
+Math,Dynamical Systems,15-11-2024,Fri,10:00,11:00,II,3
+Math,Probability and Measure,15-11-2024,Fri,10:00,11:00,II,3
+Math,Principles of Statistics,15-11-2024,Fri,11:00,12:00,II,3
+Math,Algebraic Topology,15-11-2024,Fri,11:00,12:00,II,3
+Math,Classical Dynamics,15-11-2024,Fri,11:00,12:00,II,3
+Math,Statistical Modelling,15-11-2024,Fri,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,15-11-2024,Fri,12:00,13:00,II,3
+Math,Galois Theory,15-11-2024,Fri,12:00,13:00,II,3
+Math,Numerical Analysis,16-11-2024,Sat,9:00,10:00,II,3
+Math,Graph Theory,16-11-2024,Sat,9:00,10:00,II,3
+Math,Automata and Formal Languages,16-11-2024,Sat,10:00,11:00,II,3
+Math,Number Theory,16-11-2024,Sat,11:00,12:00,II,3
+Math,Fluid Dynamics,16-11-2024,Sat,11:00,12:00,II,3
+Math,Representation Theory,16-11-2024,Sat,12:00,13:00,II,3
+Math,Cosmology,18-11-2024,Mon,9:00,10:00,II,3
+Math,Linear Analysis,18-11-2024,Mon,9:00,10:00,II,3
+Math,Stochastic Financial Models,18-11-2024,Mon,9:00,10:00,II,3
+Math,Dynamical Systems,18-11-2024,Mon,10:00,11:00,II,3
+Math,Probability and Measure,18-11-2024,Mon,10:00,11:00,II,3
+Math,Principles of Statistics,18-11-2024,Mon,11:00,12:00,II,3
+Math,Algebraic Topology,18-11-2024,Mon,11:00,12:00,II,3
+Math,Classical Dynamics,18-11-2024,Mon,11:00,12:00,II,3
+Math,Statistical Modelling,18-11-2024,Mon,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,18-11-2024,Mon,12:00,13:00,II,3
+Math,Galois Theory,18-11-2024,Mon,12:00,13:00,II,3
+Math,Laboratory Demonstrations in Fluid Dynamics,18-11-2024,Mon,14:00,15:30,II,3
+Math,Numerical Analysis,19-11-2024,Tue,9:00,10:00,II,3
+Math,Graph Theory,19-11-2024,Tue,9:00,10:00,II,3
+Math,Automata and Formal Languages,19-11-2024,Tue,10:00,11:00,II,3
+Math,Electrodynamics,19-11-2024,Tue,10:00,11:00,II,3
+Math,Number Theory,19-11-2024,Tue,11:00,12:00,II,3
+Math,Fluid Dynamics,19-11-2024,Tue,11:00,12:00,II,3
+Math,Asymptotic Methods,19-11-2024,Tue,12:00,13:00,II,3
+Math,Representation Theory,19-11-2024,Tue,12:00,13:00,II,3
+Math,Laboratory Demonstrations in Fluid Dynamics,19-11-2024,Tue,14:00,15:30,II,3
+Math,Cosmology,20-11-2024,Wed,9:00,10:00,II,3
+Math,Linear Analysis,20-11-2024,Wed,9:00,10:00,II,3
+Math,Stochastic Financial Models,20-11-2024,Wed,9:00,10:00,II,3
+Math,Dynamical Systems,20-11-2024,Wed,10:00,11:00,II,3
+Math,Probability and Measure,20-11-2024,Wed,10:00,11:00,II,3
+Math,Principles of Statistics,20-11-2024,Wed,11:00,12:00,II,3
+Math,Algebraic Topology,20-11-2024,Wed,11:00,12:00,II,3
+Math,Classical Dynamics,20-11-2024,Wed,11:00,12:00,II,3
+Math,Statistical Modelling,20-11-2024,Wed,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,20-11-2024,Wed,12:00,13:00,II,3
+Math,Galois Theory,20-11-2024,Wed,12:00,13:00,II,3
+Math,Laboratory Demonstrations in Fluid Dynamics,20-11-2024,Wed,14:00,15:30,II,3
+Math,Numerical Analysis,21-11-2024,Thu,9:00,10:00,II,3
+Math,Graph Theory,21-11-2024,Thu,9:00,10:00,II,3
+Math,Automata and Formal Languages,21-11-2024,Thu,10:00,11:00,II,3
+Math,Electrodynamics,21-11-2024,Thu,10:00,11:00,II,3
+Math,Number Theory,21-11-2024,Thu,11:00,12:00,II,3
+Math,Fluid Dynamics,21-11-2024,Thu,11:00,12:00,II,3
+Math,Asymptotic Methods,21-11-2024,Thu,12:00,13:00,II,3
+Math,Representation Theory,21-11-2024,Thu,12:00,13:00,II,3
+Math,Cosmology,22-11-2024,Fri,9:00,10:00,II,3
+Math,Linear Analysis,22-11-2024,Fri,9:00,10:00,II,3
+Math,Stochastic Financial Models,22-11-2024,Fri,9:00,10:00,II,3
+Math,Dynamical Systems,22-11-2024,Fri,10:00,11:00,II,3
+Math,Probability and Measure,22-11-2024,Fri,10:00,11:00,II,3
+Math,Principles of Statistics,22-11-2024,Fri,11:00,12:00,II,3
+Math,Algebraic Topology,22-11-2024,Fri,11:00,12:00,II,3
+Math,Classical Dynamics,22-11-2024,Fri,11:00,12:00,II,3
+Math,Statistical Modelling,22-11-2024,Fri,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,22-11-2024,Fri,12:00,13:00,II,3
+Math,Galois Theory,22-11-2024,Fri,12:00,13:00,II,3
+Math,Numerical Analysis,23-11-2024,Sat,9:00,10:00,II,3
+Math,Graph Theory,23-11-2024,Sat,9:00,10:00,II,3
+Math,Automata and Formal Languages,23-11-2024,Sat,10:00,11:00,II,3
+Math,Number Theory,23-11-2024,Sat,11:00,12:00,II,3
+Math,Fluid Dynamics,23-11-2024,Sat,11:00,12:00,II,3
+Math,Representation Theory,23-11-2024,Sat,12:00,13:00,II,3
+Math,Cosmology,25-11-2024,Mon,9:00,10:00,II,3
+Math,Linear Analysis,25-11-2024,Mon,9:00,10:00,II,3
+Math,Stochastic Financial Models,25-11-2024,Mon,9:00,10:00,II,3
+Math,Dynamical Systems,25-11-2024,Mon,10:00,11:00,II,3
+Math,Probability and Measure,25-11-2024,Mon,10:00,11:00,II,3
+Math,Principles of Statistics,25-11-2024,Mon,11:00,12:00,II,3
+Math,Algebraic Topology,25-11-2024,Mon,11:00,12:00,II,3
+Math,Classical Dynamics,25-11-2024,Mon,11:00,12:00,II,3
+Math,Statistical Modelling,25-11-2024,Mon,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,25-11-2024,Mon,12:00,13:00,II,3
+Math,Galois Theory,25-11-2024,Mon,12:00,13:00,II,3
+Math,Numerical Analysis,26-11-2024,Tue,9:00,10:00,II,3
+Math,Graph Theory,26-11-2024,Tue,9:00,10:00,II,3
+Math,Automata and Formal Languages,26-11-2024,Tue,10:00,11:00,II,3
+Math,Electrodynamics,26-11-2024,Tue,10:00,11:00,II,3
+Math,Number Theory,26-11-2024,Tue,11:00,12:00,II,3
+Math,Fluid Dynamics,26-11-2024,Tue,11:00,12:00,II,3
+Math,Asymptotic Methods,26-11-2024,Tue,12:00,13:00,II,3
+Math,Representation Theory,26-11-2024,Tue,12:00,13:00,II,3
+Math,Cosmology,27-11-2024,Wed,9:00,10:00,II,3
+Math,Linear Analysis,27-11-2024,Wed,9:00,10:00,II,3
+Math,Stochastic Financial Models,27-11-2024,Wed,9:00,10:00,II,3
+Math,Dynamical Systems,27-11-2024,Wed,10:00,11:00,II,3
+Math,Probability and Measure,27-11-2024,Wed,10:00,11:00,II,3
+Math,Principles of Statistics,27-11-2024,Wed,11:00,12:00,II,3
+Math,Algebraic Topology,27-11-2024,Wed,11:00,12:00,II,3
+Math,Classical Dynamics,27-11-2024,Wed,11:00,12:00,II,3
+Math,Statistical Modelling,27-11-2024,Wed,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,27-11-2024,Wed,12:00,13:00,II,3
+Math,Galois Theory,27-11-2024,Wed,12:00,13:00,II,3
+Math,Numerical Analysis,28-11-2024,Thu,9:00,10:00,II,3
+Math,Graph Theory,28-11-2024,Thu,9:00,10:00,II,3
+Math,Automata and Formal Languages,28-11-2024,Thu,10:00,11:00,II,3
+Math,Electrodynamics,28-11-2024,Thu,10:00,11:00,II,3
+Math,Number Theory,28-11-2024,Thu,11:00,12:00,II,3
+Math,Fluid Dynamics,28-11-2024,Thu,11:00,12:00,II,3
+Math,Asymptotic Methods,28-11-2024,Thu,12:00,13:00,II,3
+Math,Representation Theory,28-11-2024,Thu,12:00,13:00,II,3
+Math,Cosmology,29-11-2024,Fri,9:00,10:00,II,3
+Math,Linear Analysis,29-11-2024,Fri,9:00,10:00,II,3
+Math,Stochastic Financial Models,29-11-2024,Fri,9:00,10:00,II,3
+Math,Dynamical Systems,29-11-2024,Fri,10:00,11:00,II,3
+Math,Probability and Measure,29-11-2024,Fri,10:00,11:00,II,3
+Math,Principles of Statistics,29-11-2024,Fri,11:00,12:00,II,3
+Math,Algebraic Topology,29-11-2024,Fri,11:00,12:00,II,3
+Math,Classical Dynamics,29-11-2024,Fri,11:00,12:00,II,3
+Math,Statistical Modelling,29-11-2024,Fri,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,29-11-2024,Fri,12:00,13:00,II,3
+Math,Galois Theory,29-11-2024,Fri,12:00,13:00,II,3
+Math,Numerical Analysis,30-11-2024,Sat,9:00,10:00,II,3
+Math,Graph Theory,30-11-2024,Sat,9:00,10:00,II,3
+Math,Automata and Formal Languages,30-11-2024,Sat,10:00,11:00,II,3
+Math,Number Theory,30-11-2024,Sat,11:00,12:00,II,3
+Math,Fluid Dynamics,30-11-2024,Sat,11:00,12:00,II,3
+Math,Representation Theory,30-11-2024,Sat,12:00,13:00,II,3
+Math,Cosmology,02-12-2024,Mon,9:00,10:00,II,3
+Math,Linear Analysis,02-12-2024,Mon,9:00,10:00,II,3
+Math,Stochastic Financial Models,02-12-2024,Mon,9:00,10:00,II,3
+Math,Dynamical Systems,02-12-2024,Mon,10:00,11:00,II,3
+Math,Probability and Measure,02-12-2024,Mon,10:00,11:00,II,3
+Math,Principles of Statistics,02-12-2024,Mon,11:00,12:00,II,3
+Math,Algebraic Topology,02-12-2024,Mon,11:00,12:00,II,3
+Math,Classical Dynamics,02-12-2024,Mon,11:00,12:00,II,3
+Math,Statistical Modelling,02-12-2024,Mon,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,02-12-2024,Mon,12:00,13:00,II,3
+Math,Galois Theory,02-12-2024,Mon,12:00,13:00,II,3
+Math,Laboratory Demonstrations in Fluid Dynamics,02-12-2024,Mon,14:00,15:30,II,3
+Math,Numerical Analysis,03-12-2024,Tue,9:00,10:00,II,3
+Math,Graph Theory,03-12-2024,Tue,9:00,10:00,II,3
+Math,Automata and Formal Languages,03-12-2024,Tue,10:00,11:00,II,3
+Math,Electrodynamics,03-12-2024,Tue,10:00,11:00,II,3
+Math,Number Theory,03-12-2024,Tue,11:00,12:00,II,3
+Math,Fluid Dynamics,03-12-2024,Tue,11:00,12:00,II,3
+Math,Asymptotic Methods,03-12-2024,Tue,12:00,13:00,II,3
+Math,Representation Theory,03-12-2024,Tue,12:00,13:00,II,3
+Math,Laboratory Demonstrations in Fluid Dynamics,03-12-2024,Tue,14:00,15:30,II,3
+Math,Cosmology,04-12-2024,Wed,9:00,10:00,II,3
+Math,Linear Analysis,04-12-2024,Wed,9:00,10:00,II,3
+Math,Stochastic Financial Models,04-12-2024,Wed,9:00,10:00,II,3
+Math,Dynamical Systems,04-12-2024,Wed,10:00,11:00,II,3
+Math,Probability and Measure,04-12-2024,Wed,10:00,11:00,II,3
+Math,Principles of Statistics,04-12-2024,Wed,11:00,12:00,II,3
+Math,Algebraic Topology,04-12-2024,Wed,11:00,12:00,II,3
+Math,Classical Dynamics,04-12-2024,Wed,11:00,12:00,II,3
+Math,Statistical Modelling,04-12-2024,Wed,12:00,13:00,II,3
+Math,Principles of Quantum Mechanics,04-12-2024,Wed,12:00,13:00,II,3
+Math,Galois Theory,04-12-2024,Wed,12:00,13:00,II,3
+Math,Laboratory Demonstrations in Fluid Dynamics,04-12-2024,Wed,14:00,15:30,II,3
+Math,Topics in Analysis,23-01-2025,Thu,9:00,10:00,II,3
+Math,Mathematics of Machine Learning,23-01-2025,Thu,9:00,10:00,II,3
+Math,Waves,23-01-2025,Thu,9:00,10:00,II,3
+Math,Number Fields,23-01-2025,Thu,10:00,11:00,II,3
+Math,Mathematical Biology,23-01-2025,Thu,10:00,11:00,II,3
+Math,Differential Geometry,23-01-2025,Thu,11:00,12:00,II,3
+Math,Further Complex Methods,23-01-2025,Thu,11:00,12:00,II,3
+Math,Integrable Systems,23-01-2025,Thu,12:00,13:00,II,3
+Math,Riemann Surfaces,23-01-2025,Thu,12:00,13:00,II,3
+Math,Statistical Physics,24-01-2025,Fri,9:00,10:00,II,3
+Math,Coding and Cryptography,24-01-2025,Fri,9:00,10:00,II,3
+Math,Quantum Information and Computation,24-01-2025,Fri,10:00,11:00,II,3
+Math,Analysis of Functions,24-01-2025,Fri,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,24-01-2025,Fri,11:00,12:00,II,3
+Math,Logic and Set Theory,24-01-2025,Fri,11:00,12:00,II,3
+Math,General Relativity,24-01-2025,Fri,12:00,13:00,II,3
+Math,Applied Probability,24-01-2025,Fri,12:00,13:00,II,3
+Math,Topics in Analysis,25-01-2025,Sat,9:00,10:00,II,3
+Math,Waves,25-01-2025,Sat,9:00,10:00,II,3
+Math,Mathematical Biology,25-01-2025,Sat,10:00,11:00,II,3
+Math,Differential Geometry,25-01-2025,Sat,11:00,12:00,II,3
+Math,Further Complex Methods,25-01-2025,Sat,11:00,12:00,II,3
+Math,Statistical Physics,27-01-2025,Mon,9:00,10:00,II,3
+Math,Coding and Cryptography,27-01-2025,Mon,9:00,10:00,II,3
+Math,Quantum Information and Computation,27-01-2025,Mon,10:00,11:00,II,3
+Math,Analysis of Functions,27-01-2025,Mon,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,27-01-2025,Mon,11:00,12:00,II,3
+Math,Logic and Set Theory,27-01-2025,Mon,11:00,12:00,II,3
+Math,General Relativity,27-01-2025,Mon,12:00,13:00,II,3
+Math,Algebraic Geometry,27-01-2025,Mon,12:00,13:00,II,3
+Math,Applied Probability,27-01-2025,Mon,12:00,13:00,II,3
+Math,Topics in Analysis,28-01-2025,Tue,9:00,10:00,II,3
+Math,Mathematics of Machine Learning,28-01-2025,Tue,9:00,10:00,II,3
+Math,Waves,28-01-2025,Tue,9:00,10:00,II,3
+Math,Number Fields,28-01-2025,Tue,10:00,11:00,II,3
+Math,Mathematical Biology,28-01-2025,Tue,10:00,11:00,II,3
+Math,Differential Geometry,28-01-2025,Tue,11:00,12:00,II,3
+Math,Further Complex Methods,28-01-2025,Tue,11:00,12:00,II,3
+Math,Integrable Systems,28-01-2025,Tue,12:00,13:00,II,3
+Math,Riemann Surfaces,28-01-2025,Tue,12:00,13:00,II,3
+Math,Statistical Physics,29-01-2025,Wed,9:00,10:00,II,3
+Math,Coding and Cryptography,29-01-2025,Wed,9:00,10:00,II,3
+Math,Quantum Information and Computation,29-01-2025,Wed,10:00,11:00,II,3
+Math,Analysis of Functions,29-01-2025,Wed,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,29-01-2025,Wed,11:00,12:00,II,3
+Math,Logic and Set Theory,29-01-2025,Wed,11:00,12:00,II,3
+Math,General Relativity,29-01-2025,Wed,12:00,13:00,II,3
+Math,Algebraic Geometry,29-01-2025,Wed,12:00,13:00,II,3
+Math,Applied Probability,29-01-2025,Wed,12:00,13:00,II,3
+Math,Topics in Analysis,30-01-2025,Thu,9:00,10:00,II,3
+Math,Mathematics of Machine Learning,30-01-2025,Thu,9:00,10:00,II,3
+Math,Waves,30-01-2025,Thu,9:00,10:00,II,3
+Math,Number Fields,30-01-2025,Thu,10:00,11:00,II,3
+Math,Mathematical Biology,30-01-2025,Thu,10:00,11:00,II,3
+Math,Differential Geometry,30-01-2025,Thu,11:00,12:00,II,3
+Math,Further Complex Methods,30-01-2025,Thu,11:00,12:00,II,3
+Math,Integrable Systems,30-01-2025,Thu,12:00,13:00,II,3
+Math,Riemann Surfaces,30-01-2025,Thu,12:00,13:00,II,3
+Math,Statistical Physics,31-01-2025,Fri,9:00,10:00,II,3
+Math,Coding and Cryptography,31-01-2025,Fri,9:00,10:00,II,3
+Math,Quantum Information and Computation,31-01-2025,Fri,10:00,11:00,II,3
+Math,Analysis of Functions,31-01-2025,Fri,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,31-01-2025,Fri,11:00,12:00,II,3
+Math,Logic and Set Theory,31-01-2025,Fri,11:00,12:00,II,3
+Math,General Relativity,31-01-2025,Fri,12:00,13:00,II,3
+Math,Algebraic Geometry,31-01-2025,Fri,12:00,13:00,II,3
+Math,Applied Probability,31-01-2025,Fri,12:00,13:00,II,3
+Math,Topics in Analysis,01-02-2025,Sat,9:00,10:00,II,3
+Math,Waves,01-02-2025,Sat,9:00,10:00,II,3
+Math,Mathematical Biology,01-02-2025,Sat,10:00,11:00,II,3
+Math,Differential Geometry,01-02-2025,Sat,11:00,12:00,II,3
+Math,Further Complex Methods,01-02-2025,Sat,11:00,12:00,II,3
+Math,Statistical Physics,03-02-2025,Mon,9:00,10:00,II,3
+Math,Coding and Cryptography,03-02-2025,Mon,9:00,10:00,II,3
+Math,Quantum Information and Computation,03-02-2025,Mon,10:00,11:00,II,3
+Math,Analysis of Functions,03-02-2025,Mon,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,03-02-2025,Mon,11:00,12:00,II,3
+Math,Logic and Set Theory,03-02-2025,Mon,11:00,12:00,II,3
+Math,General Relativity,03-02-2025,Mon,12:00,13:00,II,3
+Math,Algebraic Geometry,03-02-2025,Mon,12:00,13:00,II,3
+Math,Applied Probability,03-02-2025,Mon,12:00,13:00,II,3
+Math,Topics in Analysis,04-02-2025,Tue,9:00,10:00,II,3
+Math,Mathematics of Machine Learning,04-02-2025,Tue,9:00,10:00,II,3
+Math,Waves,04-02-2025,Tue,9:00,10:00,II,3
+Math,Number Fields,04-02-2025,Tue,10:00,11:00,II,3
+Math,Mathematical Biology,04-02-2025,Tue,10:00,11:00,II,3
+Math,Differential Geometry,04-02-2025,Tue,11:00,12:00,II,3
+Math,Further Complex Methods,04-02-2025,Tue,11:00,12:00,II,3
+Math,Integrable Systems,04-02-2025,Tue,12:00,13:00,II,3
+Math,Riemann Surfaces,04-02-2025,Tue,12:00,13:00,II,3
+Math,CMP Seminars,04-02-2025,Tue,13:30,15:00,II,3
+Math,Statistical Physics,05-02-2025,Wed,9:00,10:00,II,3
+Math,Coding and Cryptography,05-02-2025,Wed,9:00,10:00,II,3
+Math,Quantum Information and Computation,05-02-2025,Wed,10:00,11:00,II,3
+Math,Analysis of Functions,05-02-2025,Wed,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,05-02-2025,Wed,11:00,12:00,II,3
+Math,Logic and Set Theory,05-02-2025,Wed,11:00,12:00,II,3
+Math,General Relativity,05-02-2025,Wed,12:00,13:00,II,3
+Math,Algebraic Geometry,05-02-2025,Wed,12:00,13:00,II,3
+Math,Applied Probability,05-02-2025,Wed,12:00,13:00,II,3
+Math,CMP Seminars,05-02-2025,Wed,13:30,15:00,II,3
+Math,Topics in Analysis,06-02-2025,Thu,9:00,10:00,II,3
+Math,Mathematics of Machine Learning,06-02-2025,Thu,9:00,10:00,II,3
+Math,Waves,06-02-2025,Thu,9:00,10:00,II,3
+Math,Number Fields,06-02-2025,Thu,10:00,11:00,II,3
+Math,Mathematical Biology,06-02-2025,Thu,10:00,11:00,II,3
+Math,Differential Geometry,06-02-2025,Thu,11:00,12:00,II,3
+Math,Further Complex Methods,06-02-2025,Thu,11:00,12:00,II,3
+Math,Integrable Systems,06-02-2025,Thu,12:00,13:00,II,3
+Math,Riemann Surfaces,06-02-2025,Thu,12:00,13:00,II,3
+Math,Statistical Physics,07-02-2025,Fri,9:00,10:00,II,3
+Math,Coding and Cryptography,07-02-2025,Fri,9:00,10:00,II,3
+Math,Quantum Information and Computation,07-02-2025,Fri,10:00,11:00,II,3
+Math,Analysis of Functions,07-02-2025,Fri,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,07-02-2025,Fri,11:00,12:00,II,3
+Math,Logic and Set Theory,07-02-2025,Fri,11:00,12:00,II,3
+Math,General Relativity,07-02-2025,Fri,12:00,13:00,II,3
+Math,Algebraic Geometry,07-02-2025,Fri,12:00,13:00,II,3
+Math,Applied Probability,07-02-2025,Fri,12:00,13:00,II,3
+Math,Topics in Analysis,08-02-2025,Sat,9:00,10:00,II,3
+Math,Waves,08-02-2025,Sat,9:00,10:00,II,3
+Math,Mathematical Biology,08-02-2025,Sat,10:00,11:00,II,3
+Math,Differential Geometry,08-02-2025,Sat,11:00,12:00,II,3
+Math,Further Complex Methods,08-02-2025,Sat,11:00,12:00,II,3
+Math,Statistical Physics,10-02-2025,Mon,9:00,10:00,II,3
+Math,Coding and Cryptography,10-02-2025,Mon,9:00,10:00,II,3
+Math,Quantum Information and Computation,10-02-2025,Mon,10:00,11:00,II,3
+Math,Analysis of Functions,10-02-2025,Mon,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,10-02-2025,Mon,11:00,12:00,II,3
+Math,Logic and Set Theory,10-02-2025,Mon,11:00,12:00,II,3
+Math,General Relativity,10-02-2025,Mon,12:00,13:00,II,3
+Math,Algebraic Geometry,10-02-2025,Mon,12:00,13:00,II,3
+Math,Applied Probability,10-02-2025,Mon,12:00,13:00,II,3
+Math,Topics in Analysis,11-02-2025,Tue,9:00,10:00,II,3
+Math,Mathematics of Machine Learning,11-02-2025,Tue,9:00,10:00,II,3
+Math,Waves,11-02-2025,Tue,9:00,10:00,II,3
+Math,Number Fields,11-02-2025,Tue,10:00,11:00,II,3
+Math,Mathematical Biology,11-02-2025,Tue,10:00,11:00,II,3
+Math,Differential Geometry,11-02-2025,Tue,11:00,12:00,II,3
+Math,Further Complex Methods,11-02-2025,Tue,11:00,12:00,II,3
+Math,Integrable Systems,11-02-2025,Tue,12:00,13:00,II,3
+Math,Riemann Surfaces,11-02-2025,Tue,12:00,13:00,II,3
+Math,CMP Seminars,11-02-2025,Tue,13:30,15:00,II,3
+Math,Statistical Physics,12-02-2025,Wed,9:00,10:00,II,3
+Math,Coding and Cryptography,12-02-2025,Wed,9:00,10:00,II,3
+Math,Quantum Information and Computation,12-02-2025,Wed,10:00,11:00,II,3
+Math,Analysis of Functions,12-02-2025,Wed,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,12-02-2025,Wed,11:00,12:00,II,3
+Math,Logic and Set Theory,12-02-2025,Wed,11:00,12:00,II,3
+Math,General Relativity,12-02-2025,Wed,12:00,13:00,II,3
+Math,Algebraic Geometry,12-02-2025,Wed,12:00,13:00,II,3
+Math,Applied Probability,12-02-2025,Wed,12:00,13:00,II,3
+Math,CMP Seminars,12-02-2025,Wed,13:30,15:00,II,3
+Math,Topics in Analysis,13-02-2025,Thu,9:00,10:00,II,3
+Math,Mathematics of Machine Learning,13-02-2025,Thu,9:00,10:00,II,3
+Math,Waves,13-02-2025,Thu,9:00,10:00,II,3
+Math,Number Fields,13-02-2025,Thu,10:00,11:00,II,3
+Math,Mathematical Biology,13-02-2025,Thu,10:00,11:00,II,3
+Math,Differential Geometry,13-02-2025,Thu,11:00,12:00,II,3
+Math,Further Complex Methods,13-02-2025,Thu,11:00,12:00,II,3
+Math,Integrable Systems,13-02-2025,Thu,12:00,13:00,II,3
+Math,Riemann Surfaces,13-02-2025,Thu,12:00,13:00,II,3
+Math,Statistical Physics,14-02-2025,Fri,9:00,10:00,II,3
+Math,Coding and Cryptography,14-02-2025,Fri,9:00,10:00,II,3
+Math,Quantum Information and Computation,14-02-2025,Fri,10:00,11:00,II,3
+Math,Analysis of Functions,14-02-2025,Fri,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,14-02-2025,Fri,11:00,12:00,II,3
+Math,Logic and Set Theory,14-02-2025,Fri,11:00,12:00,II,3
+Math,General Relativity,14-02-2025,Fri,12:00,13:00,II,3
+Math,Algebraic Geometry,14-02-2025,Fri,12:00,13:00,II,3
+Math,Applied Probability,14-02-2025,Fri,12:00,13:00,II,3
+Math,Topics in Analysis,15-02-2025,Sat,9:00,10:00,II,3
+Math,Waves,15-02-2025,Sat,9:00,10:00,II,3
+Math,Mathematical Biology,15-02-2025,Sat,10:00,11:00,II,3
+Math,Differential Geometry,15-02-2025,Sat,11:00,12:00,II,3
+Math,Further Complex Methods,15-02-2025,Sat,11:00,12:00,II,3
+Math,Statistical Physics,17-02-2025,Mon,9:00,10:00,II,3
+Math,Coding and Cryptography,17-02-2025,Mon,9:00,10:00,II,3
+Math,Quantum Information and Computation,17-02-2025,Mon,10:00,11:00,II,3
+Math,Analysis of Functions,17-02-2025,Mon,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,17-02-2025,Mon,11:00,12:00,II,3
+Math,Logic and Set Theory,17-02-2025,Mon,11:00,12:00,II,3
+Math,General Relativity,17-02-2025,Mon,12:00,13:00,II,3
+Math,Algebraic Geometry,17-02-2025,Mon,12:00,13:00,II,3
+Math,Applied Probability,17-02-2025,Mon,12:00,13:00,II,3
+Math,Topics in Analysis,18-02-2025,Tue,9:00,10:00,II,3
+Math,Mathematics of Machine Learning,18-02-2025,Tue,9:00,10:00,II,3
+Math,Waves,18-02-2025,Tue,9:00,10:00,II,3
+Math,Number Fields,18-02-2025,Tue,10:00,11:00,II,3
+Math,Mathematical Biology,18-02-2025,Tue,10:00,11:00,II,3
+Math,Differential Geometry,18-02-2025,Tue,11:00,12:00,II,3
+Math,Further Complex Methods,18-02-2025,Tue,11:00,12:00,II,3
+Math,Integrable Systems,18-02-2025,Tue,12:00,13:00,II,3
+Math,Riemann Surfaces,18-02-2025,Tue,12:00,13:00,II,3
+Math,CMP Seminars,18-02-2025,Tue,13:30,15:00,II,3
+Math,Statistical Physics,19-02-2025,Wed,9:00,10:00,II,3
+Math,Coding and Cryptography,19-02-2025,Wed,9:00,10:00,II,3
+Math,Quantum Information and Computation,19-02-2025,Wed,10:00,11:00,II,3
+Math,Analysis of Functions,19-02-2025,Wed,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,19-02-2025,Wed,11:00,12:00,II,3
+Math,Logic and Set Theory,19-02-2025,Wed,11:00,12:00,II,3
+Math,General Relativity,19-02-2025,Wed,12:00,13:00,II,3
+Math,Algebraic Geometry,19-02-2025,Wed,12:00,13:00,II,3
+Math,Applied Probability,19-02-2025,Wed,12:00,13:00,II,3
+Math,CMP Seminars,19-02-2025,Wed,13:30,15:00,II,3
+Math,Topics in Analysis,20-02-2025,Thu,9:00,10:00,II,3
+Math,Mathematics of Machine Learning,20-02-2025,Thu,9:00,10:00,II,3
+Math,Waves,20-02-2025,Thu,9:00,10:00,II,3
+Math,Number Fields,20-02-2025,Thu,10:00,11:00,II,3
+Math,Mathematical Biology,20-02-2025,Thu,10:00,11:00,II,3
+Math,Differential Geometry,20-02-2025,Thu,11:00,12:00,II,3
+Math,Further Complex Methods,20-02-2025,Thu,11:00,12:00,II,3
+Math,Integrable Systems,20-02-2025,Thu,12:00,13:00,II,3
+Math,Riemann Surfaces,20-02-2025,Thu,12:00,13:00,II,3
+Math,Statistical Physics,21-02-2025,Fri,9:00,10:00,II,3
+Math,Coding and Cryptography,21-02-2025,Fri,9:00,10:00,II,3
+Math,Quantum Information and Computation,21-02-2025,Fri,10:00,11:00,II,3
+Math,Analysis of Functions,21-02-2025,Fri,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,21-02-2025,Fri,11:00,12:00,II,3
+Math,Logic and Set Theory,21-02-2025,Fri,11:00,12:00,II,3
+Math,General Relativity,21-02-2025,Fri,12:00,13:00,II,3
+Math,Algebraic Geometry,21-02-2025,Fri,12:00,13:00,II,3
+Math,Applied Probability,21-02-2025,Fri,12:00,13:00,II,3
+Math,Topics in Analysis,22-02-2025,Sat,9:00,10:00,II,3
+Math,Waves,22-02-2025,Sat,9:00,10:00,II,3
+Math,Mathematical Biology,22-02-2025,Sat,10:00,11:00,II,3
+Math,Differential Geometry,22-02-2025,Sat,11:00,12:00,II,3
+Math,Further Complex Methods,22-02-2025,Sat,11:00,12:00,II,3
+Math,Statistical Physics,24-02-2025,Mon,9:00,10:00,II,3
+Math,Coding and Cryptography,24-02-2025,Mon,9:00,10:00,II,3
+Math,Quantum Information and Computation,24-02-2025,Mon,10:00,11:00,II,3
+Math,Analysis of Functions,24-02-2025,Mon,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,24-02-2025,Mon,11:00,12:00,II,3
+Math,Logic and Set Theory,24-02-2025,Mon,11:00,12:00,II,3
+Math,General Relativity,24-02-2025,Mon,12:00,13:00,II,3
+Math,Algebraic Geometry,24-02-2025,Mon,12:00,13:00,II,3
+Math,Applied Probability,24-02-2025,Mon,12:00,13:00,II,3
+Math,Topics in Analysis,25-02-2025,Tue,9:00,10:00,II,3
+Math,Mathematics of Machine Learning,25-02-2025,Tue,9:00,10:00,II,3
+Math,Waves,25-02-2025,Tue,9:00,10:00,II,3
+Math,Number Fields,25-02-2025,Tue,10:00,11:00,II,3
+Math,Mathematical Biology,25-02-2025,Tue,10:00,11:00,II,3
+Math,Differential Geometry,25-02-2025,Tue,11:00,12:00,II,3
+Math,Further Complex Methods,25-02-2025,Tue,11:00,12:00,II,3
+Math,Integrable Systems,25-02-2025,Tue,12:00,13:00,II,3
+Math,Riemann Surfaces,25-02-2025,Tue,12:00,13:00,II,3
+Math,CMP Seminars,25-02-2025,Tue,13:30,15:00,II,3
+Math,Statistical Physics,26-02-2025,Wed,9:00,10:00,II,3
+Math,Coding and Cryptography,26-02-2025,Wed,9:00,10:00,II,3
+Math,Quantum Information and Computation,26-02-2025,Wed,10:00,11:00,II,3
+Math,Analysis of Functions,26-02-2025,Wed,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,26-02-2025,Wed,11:00,12:00,II,3
+Math,Logic and Set Theory,26-02-2025,Wed,11:00,12:00,II,3
+Math,General Relativity,26-02-2025,Wed,12:00,13:00,II,3
+Math,Algebraic Geometry,26-02-2025,Wed,12:00,13:00,II,3
+Math,Applied Probability,26-02-2025,Wed,12:00,13:00,II,3
+Math,CMP Seminars,26-02-2025,Wed,13:30,15:00,II,3
+Math,Topics in Analysis,27-02-2025,Thu,9:00,10:00,II,3
+Math,Mathematics of Machine Learning,27-02-2025,Thu,9:00,10:00,II,3
+Math,Waves,27-02-2025,Thu,9:00,10:00,II,3
+Math,Number Fields,27-02-2025,Thu,10:00,11:00,II,3
+Math,Mathematical Biology,27-02-2025,Thu,10:00,11:00,II,3
+Math,Differential Geometry,27-02-2025,Thu,11:00,12:00,II,3
+Math,Further Complex Methods,27-02-2025,Thu,11:00,12:00,II,3
+Math,Integrable Systems,27-02-2025,Thu,12:00,13:00,II,3
+Math,Riemann Surfaces,27-02-2025,Thu,12:00,13:00,II,3
+Math,Statistical Physics,28-02-2025,Fri,9:00,10:00,II,3
+Math,Coding and Cryptography,28-02-2025,Fri,9:00,10:00,II,3
+Math,Quantum Information and Computation,28-02-2025,Fri,10:00,11:00,II,3
+Math,Analysis of Functions,28-02-2025,Fri,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,28-02-2025,Fri,11:00,12:00,II,3
+Math,Logic and Set Theory,28-02-2025,Fri,11:00,12:00,II,3
+Math,General Relativity,28-02-2025,Fri,12:00,13:00,II,3
+Math,Algebraic Geometry,28-02-2025,Fri,12:00,13:00,II,3
+Math,Applied Probability,28-02-2025,Fri,12:00,13:00,II,3
+Math,Topics in Analysis,01-03-2025,Sat,9:00,10:00,II,3
+Math,Waves,01-03-2025,Sat,9:00,10:00,II,3
+Math,Mathematical Biology,01-03-2025,Sat,10:00,11:00,II,3
+Math,Differential Geometry,01-03-2025,Sat,11:00,12:00,II,3
+Math,Statistical Physics,03-03-2025,Mon,9:00,10:00,II,3
+Math,Coding and Cryptography,03-03-2025,Mon,9:00,10:00,II,3
+Math,Quantum Information and Computation,03-03-2025,Mon,10:00,11:00,II,3
+Math,Analysis of Functions,03-03-2025,Mon,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,03-03-2025,Mon,11:00,12:00,II,3
+Math,Logic and Set Theory,03-03-2025,Mon,11:00,12:00,II,3
+Math,General Relativity,03-03-2025,Mon,12:00,13:00,II,3
+Math,Algebraic Geometry,03-03-2025,Mon,12:00,13:00,II,3
+Math,Applied Probability,03-03-2025,Mon,12:00,13:00,II,3
+Math,Topics in Analysis,04-03-2025,Tue,9:00,10:00,II,3
+Math,Mathematics of Machine Learning,04-03-2025,Tue,9:00,10:00,II,3
+Math,Waves,04-03-2025,Tue,9:00,10:00,II,3
+Math,Number Fields,04-03-2025,Tue,10:00,11:00,II,3
+Math,Mathematical Biology,04-03-2025,Tue,10:00,11:00,II,3
+Math,Differential Geometry,04-03-2025,Tue,11:00,12:00,II,3
+Math,Further Complex Methods,04-03-2025,Tue,11:00,12:00,II,3
+Math,Integrable Systems,04-03-2025,Tue,12:00,13:00,II,3
+Math,Riemann Surfaces,04-03-2025,Tue,12:00,13:00,II,3
+Math,Statistical Physics,05-03-2025,Wed,9:00,10:00,II,3
+Math,Coding and Cryptography,05-03-2025,Wed,9:00,10:00,II,3
+Math,Quantum Information and Computation,05-03-2025,Wed,10:00,11:00,II,3
+Math,Analysis of Functions,05-03-2025,Wed,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,05-03-2025,Wed,11:00,12:00,II,3
+Math,Logic and Set Theory,05-03-2025,Wed,11:00,12:00,II,3
+Math,General Relativity,05-03-2025,Wed,12:00,13:00,II,3
+Math,Algebraic Geometry,05-03-2025,Wed,12:00,13:00,II,3
+Math,Applied Probability,05-03-2025,Wed,12:00,13:00,II,3
+Math,Topics in Analysis,06-03-2025,Thu,9:00,10:00,II,3
+Math,Mathematics of Machine Learning,06-03-2025,Thu,9:00,10:00,II,3
+Math,Waves,06-03-2025,Thu,9:00,10:00,II,3
+Math,Number Fields,06-03-2025,Thu,10:00,11:00,II,3
+Math,Mathematical Biology,06-03-2025,Thu,10:00,11:00,II,3
+Math,Differential Geometry,06-03-2025,Thu,11:00,12:00,II,3
+Math,Further Complex Methods,06-03-2025,Thu,11:00,12:00,II,3
+Math,Integrable Systems,06-03-2025,Thu,12:00,13:00,II,3
+Math,Riemann Surfaces,06-03-2025,Thu,12:00,13:00,II,3
+Math,Statistical Physics,07-03-2025,Fri,9:00,10:00,II,3
+Math,Coding and Cryptography,07-03-2025,Fri,9:00,10:00,II,3
+Math,Quantum Information and Computation,07-03-2025,Fri,10:00,11:00,II,3
+Math,Analysis of Functions,07-03-2025,Fri,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,07-03-2025,Fri,11:00,12:00,II,3
+Math,Logic and Set Theory,07-03-2025,Fri,11:00,12:00,II,3
+Math,General Relativity,07-03-2025,Fri,12:00,13:00,II,3
+Math,Algebraic Geometry,07-03-2025,Fri,12:00,13:00,II,3
+Math,Applied Probability,07-03-2025,Fri,12:00,13:00,II,3
+Math,Topics in Analysis,08-03-2025,Sat,9:00,10:00,II,3
+Math,Waves,08-03-2025,Sat,9:00,10:00,II,3
+Math,Mathematical Biology,08-03-2025,Sat,10:00,11:00,II,3
+Math,Differential Geometry,08-03-2025,Sat,11:00,12:00,II,3
+Math,Further Complex Methods,08-03-2025,Sat,11:00,12:00,II,3
+Math,Statistical Physics,10-03-2025,Mon,9:00,10:00,II,3
+Math,Coding and Cryptography,10-03-2025,Mon,9:00,10:00,II,3
+Math,Quantum Information and Computation,10-03-2025,Mon,10:00,11:00,II,3
+Math,Analysis of Functions,10-03-2025,Mon,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,10-03-2025,Mon,11:00,12:00,II,3
+Math,Logic and Set Theory,10-03-2025,Mon,11:00,12:00,II,3
+Math,General Relativity,10-03-2025,Mon,12:00,13:00,II,3
+Math,Algebraic Geometry,10-03-2025,Mon,12:00,13:00,II,3
+Math,Applied Probability,10-03-2025,Mon,12:00,13:00,II,3
+Math,Topics in Analysis,11-03-2025,Tue,9:00,10:00,II,3
+Math,Mathematics of Machine Learning,11-03-2025,Tue,9:00,10:00,II,3
+Math,Waves,11-03-2025,Tue,9:00,10:00,II,3
+Math,Number Fields,11-03-2025,Tue,10:00,11:00,II,3
+Math,Mathematical Biology,11-03-2025,Tue,10:00,11:00,II,3
+Math,Differential Geometry,11-03-2025,Tue,11:00,12:00,II,3
+Math,Further Complex Methods,11-03-2025,Tue,11:00,12:00,II,3
+Math,Integrable Systems,11-03-2025,Tue,12:00,13:00,II,3
+Math,Riemann Surfaces,11-03-2025,Tue,12:00,13:00,II,3
+Math,Statistical Physics,12-03-2025,Wed,9:00,10:00,II,3
+Math,Coding and Cryptography,12-03-2025,Wed,9:00,10:00,II,3
+Math,Quantum Information and Computation,12-03-2025,Wed,10:00,11:00,II,3
+Math,Analysis of Functions,12-03-2025,Wed,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,12-03-2025,Wed,11:00,12:00,II,3
+Math,Logic and Set Theory,12-03-2025,Wed,11:00,12:00,II,3
+Math,General Relativity,12-03-2025,Wed,12:00,13:00,II,3
+Math,Algebraic Geometry,12-03-2025,Wed,12:00,13:00,II,3
+Math,Applied Probability,12-03-2025,Wed,12:00,13:00,II,3
+Math,Topics in Analysis,13-03-2025,Thu,9:00,10:00,II,3
+Math,Mathematics of Machine Learning,13-03-2025,Thu,9:00,10:00,II,3
+Math,Waves,13-03-2025,Thu,9:00,10:00,II,3
+Math,Number Fields,13-03-2025,Thu,10:00,11:00,II,3
+Math,Mathematical Biology,13-03-2025,Thu,10:00,11:00,II,3
+Math,Differential Geometry,13-03-2025,Thu,11:00,12:00,II,3
+Math,Further Complex Methods,13-03-2025,Thu,11:00,12:00,II,3
+Math,Integrable Systems,13-03-2025,Thu,12:00,13:00,II,3
+Math,Riemann Surfaces,13-03-2025,Thu,12:00,13:00,II,3
+Math,Statistical Physics,14-03-2025,Fri,9:00,10:00,II,3
+Math,Coding and Cryptography,14-03-2025,Fri,9:00,10:00,II,3
+Math,Quantum Information and Computation,14-03-2025,Fri,10:00,11:00,II,3
+Math,Analysis of Functions,14-03-2025,Fri,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,14-03-2025,Fri,11:00,12:00,II,3
+Math,Logic and Set Theory,14-03-2025,Fri,11:00,12:00,II,3
+Math,General Relativity,14-03-2025,Fri,12:00,13:00,II,3
+Math,Algebraic Geometry,14-03-2025,Fri,12:00,13:00,II,3
+Math,Applied Probability,14-03-2025,Fri,12:00,13:00,II,3
+Math,Topics in Analysis,15-03-2025,Sat,9:00,10:00,II,3
+Math,Waves,15-03-2025,Sat,9:00,10:00,II,3
+Math,Mathematical Biology,15-03-2025,Sat,10:00,11:00,II,3
+Math,Differential Geometry,15-03-2025,Sat,11:00,12:00,II,3
+Math,Further Complex Methods,15-03-2025,Sat,11:00,12:00,II,3
+Math,Statistical Physics,17-03-2025,Mon,9:00,10:00,II,3
+Math,Coding and Cryptography,17-03-2025,Mon,9:00,10:00,II,3
+Math,Quantum Information and Computation,17-03-2025,Mon,10:00,11:00,II,3
+Math,Analysis of Functions,17-03-2025,Mon,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,17-03-2025,Mon,11:00,12:00,II,3
+Math,Logic and Set Theory,17-03-2025,Mon,11:00,12:00,II,3
+Math,General Relativity,17-03-2025,Mon,12:00,13:00,II,3
+Math,Algebraic Geometry,17-03-2025,Mon,12:00,13:00,II,3
+Math,Applied Probability,17-03-2025,Mon,12:00,13:00,II,3
+Math,Topics in Analysis,18-03-2025,Tue,9:00,10:00,II,3
+Math,Mathematics of Machine Learning,18-03-2025,Tue,9:00,10:00,II,3
+Math,Waves,18-03-2025,Tue,9:00,10:00,II,3
+Math,Number Fields,18-03-2025,Tue,10:00,11:00,II,3
+Math,Mathematical Biology,18-03-2025,Tue,10:00,11:00,II,3
+Math,Differential Geometry,18-03-2025,Tue,11:00,12:00,II,3
+Math,Further Complex Methods,18-03-2025,Tue,11:00,12:00,II,3
+Math,Integrable Systems,18-03-2025,Tue,12:00,13:00,II,3
+Math,Riemann Surfaces,18-03-2025,Tue,12:00,13:00,II,3
+Math,Statistical Physics,19-03-2025,Wed,9:00,10:00,II,3
+Math,Coding and Cryptography,19-03-2025,Wed,9:00,10:00,II,3
+Math,Quantum Information and Computation,19-03-2025,Wed,10:00,11:00,II,3
+Math,Analysis of Functions,19-03-2025,Wed,10:00,11:00,II,3
+Math,Applications of Quantum Mechanics,19-03-2025,Wed,11:00,12:00,II,3
+Math,Logic and Set Theory,19-03-2025,Wed,11:00,12:00,II,3
+Math,General Relativity,19-03-2025,Wed,12:00,13:00,II,3
+Math,Algebraic Geometry,19-03-2025,Wed,12:00,13:00,II,3
+Math,Applied Probability,19-03-2025,Wed,12:00,13:00,II,3

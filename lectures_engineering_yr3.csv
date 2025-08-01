@@ -1,0 +1,794 @@
+module,date,start_time,end_time,week_day,course,part,year
+3D3/Structural Materials and Design[1]L Becque/Foster/Lawrence(Lecture Theatre 2),10-10-2024,09:00,10:00,Thu,Engineering,IIA,3
+3B3/Switch-Mode Electronics[1]L Goetz/Long_T(Lecture Room 3),10-10-2024,09:00,10:00,Thu,Engineering,IIA,3
+3F1/Signals and Systems[1]L Sayir(Lecture Theatre 1),10-10-2024,10:00,11:00,Thu,Engineering,IIA,3
+3C7/Mechanics of Solids[1]L Deshpande/Viggiani(Lecture Theatre 6),10-10-2024,10:00,11:00,Thu,Engineering,IIA,3
+3G1/Molecular Bioengineering I[1]L Bakshi/Micklem/Molloy(Lecture Theatre 6),10-10-2024,11:00,12:00,Thu,Engineering,IIA,3
+3A5/Thermodynamics and Power Generation[1]L Cant/Swaminathan(Lecture Room 3),10-10-2024,11:00,12:00,Thu,Engineering,IIA,3
+3B5/Semiconductor Engineering[1]L Ferrari/Hofmann(Lecture Room 3),10-10-2024,12:00,13:00,Thu,Engineering,IIA,3
+3G5/Biomaterials[1]L Huang/Markaki(Lecture Room 12),10-10-2024,12:00,13:00,Thu,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[1]L Juniper/Li(Lecture Theatre 2),10-10-2024,12:00,13:00,Thu,Engineering,IIA,3
+3D5/Water Engineering[1]L Borgomeo/Liang(Lecture Theatre 6),10-10-2024,14:00,15:00,Thu,Engineering,IIA,3
+3C1/Materials Processing and Design[1]L Barlow/McShane/Seita(Lecture Theatre 6),11-10-2024,09:00,10:00,Fri,Engineering,IIA,3
+3F7/Information Theory and Coding[1]L Venkataramanan(Lecture Theatre 2),11-10-2024,09:00,10:00,Fri,Engineering,IIA,3
+3C6/Vibration[1]L Butlin/Cole(Lecture Theatre 2),11-10-2024,10:00,11:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[1]C (),11-10-2024,11:00,13:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[1]C (),11-10-2024,14:00,16:00,Fri,Engineering,IIA,3
+3D3/Structural Materials and Design[1]L Becque/Foster/Lawrence(Lecture Theatre 2),14-10-2024,09:00,10:00,Mon,Engineering,IIA,3
+3B3/Switch-Mode Electronics[1]L Goetz/Long_T(Lecture Room 3),14-10-2024,09:00,10:00,Mon,Engineering,IIA,3
+3D1/Geotechnical Engineering I[1]L Haigh/Madabhushi(Lecture Room 5),14-10-2024,10:00,11:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[1]L Cant/Jarrett(Lecture Room 4),14-10-2024,10:00,11:00,Mon,Engineering,IIA,3
+3F3/Statistical Signal Processing[1]L Cantwell/Godsill(Lecture Theatre 2),14-10-2024,10:00,11:00,Mon,Engineering,IIA,3
+3A5/Thermodynamics and Power Generation[1]L Cant/Swaminathan(Lecture Room 3),14-10-2024,11:00,12:00,Mon,Engineering,IIA,3
+3G1/Molecular Bioengineering I[1]L Bakshi/Micklem/Molloy(Lecture Theatre 6),14-10-2024,11:00,12:00,Mon,Engineering,IIA,3
+3C8/Machine Design[1]L Na/Roebuck/Sutcliffe(Lecture Theatre 2),14-10-2024,12:00,13:00,Mon,Engineering,IIA,3
+3B1/Radio Frequency Electronics[1]L Crisp/Tavakkolnia(Lecture Theatre 1),14-10-2024,12:00,13:00,Mon,Engineering,IIA,3
+3E6/Organisational Behaviour[1]L Kim_YJ(Lecture Room 4),14-10-2024,14:00,16:00,Mon,Engineering,IIA,3
+3E2/Marketing[1]L Merlo(Lecture Theatre 6),14-10-2024,14:00,16:00,Mon,Engineering,IIA,3
+3E1/Business Economics[1]L Rogo(Lecture Theatre 1),14-10-2024,14:00,16:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[1]L Cant/Jarrett(Lecture Room 4),15-10-2024,09:00,10:00,Tue,Engineering,IIA,3
+3F3/Statistical Signal Processing[1]L Cantwell(Lecture Theatre 2),15-10-2024,09:00,10:00,Tue,Engineering,IIA,3
+3D1/Geotechnical Engineering I[1]L Haigh/Madabhushi(Lecture Room 5),15-10-2024,09:00,10:00,Tue,Engineering,IIA,3
+3C7/Mechanics of Solids[1]L Deshpande/Viggiani(Lecture Theatre 6),15-10-2024,10:00,11:00,Tue,Engineering,IIA,3
+3F1/Signals and Systems[1]L Sayir(Lecture Theatre 1),15-10-2024,10:00,11:00,Tue,Engineering,IIA,3
+3C8/Machine Design[1]L Na/Roebuck/Sutcliffe(Lecture Theatre 2),15-10-2024,11:00,12:00,Tue,Engineering,IIA,3
+3B1/Radio Frequency Electronics[1]L Crisp/Tavakkolnia(Lecture Theatre 1),15-10-2024,11:00,12:00,Tue,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[1]L Juniper/Li(Lecture Theatre 2),15-10-2024,12:00,13:00,Tue,Engineering,IIA,3
+3B5/Semiconductor Engineering[1]L Ferrari/Hofmann(Lecture Room 3),15-10-2024,12:00,13:00,Tue,Engineering,IIA,3
+3G5/Biomaterials[1]L Huang/Markaki(Lecture Room 12),15-10-2024,12:00,13:00,Tue,Engineering,IIA,3
+3CW/IIA Labs/coursework[1]L Houghton(Lecture Theatre 1),15-10-2024,13:00,14:00,Tue,Engineering,IIA,3
+3D5/Water Engineering[1]L Borgomeo/Liang(Lecture Theatre 6),15-10-2024,14:00,15:00,Tue,Engineering,IIA,3
+3C1/Materials Processing and Design[1]L Barlow/McShane/Seita(Lecture Theatre 6),16-10-2024,09:00,10:00,Wed,Engineering,IIA,3
+3F7/Information Theory and Coding[1]L Venkataramanan(Lecture Theatre 2),16-10-2024,09:00,10:00,Wed,Engineering,IIA,3
+3C6/Vibration[1]L Butlin/Cole(Lecture Theatre 2),16-10-2024,10:00,11:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[1]C (),16-10-2024,11:00,13:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[1]C (),16-10-2024,14:00,16:00,Wed,Engineering,IIA,3
+3D3/Structural Materials and Design[2]L Becque/Foster/Lawrence(Lecture Theatre 2),17-10-2024,09:00,10:00,Thu,Engineering,IIA,3
+3B3/Switch-Mode Electronics[2]L Goetz/Long_T(Lecture Room 3),17-10-2024,09:00,10:00,Thu,Engineering,IIA,3
+3C7/Mechanics of Solids[2]L Deshpande/Viggiani(Lecture Theatre 6),17-10-2024,10:00,11:00,Thu,Engineering,IIA,3
+3F1/Signals and Systems[2]L Sayir(Lecture Theatre 1),17-10-2024,10:00,11:00,Thu,Engineering,IIA,3
+3G1/Molecular Bioengineering I[2]L Bakshi/Micklem/Molloy(Lecture Theatre 6),17-10-2024,11:00,12:00,Thu,Engineering,IIA,3
+3A5/Thermodynamics and Power Generation[2]L Cant/Swaminathan(Lecture Room 3),17-10-2024,11:00,12:00,Thu,Engineering,IIA,3
+3B5/Semiconductor Engineering[2]L Ferrari/Hofmann(Lecture Room 3),17-10-2024,12:00,13:00,Thu,Engineering,IIA,3
+3G5/Biomaterials[2]L Huang/Markaki(Lecture Room 12),17-10-2024,12:00,13:00,Thu,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[2]L Juniper/Li(Lecture Theatre 2),17-10-2024,12:00,13:00,Thu,Engineering,IIA,3
+3D5/Water Engineering[2]L Borgomeo/Liang(Lecture Theatre 6),17-10-2024,14:00,15:00,Thu,Engineering,IIA,3
+3C1/Materials Processing and Design[2]L Barlow/McShane/Seita(Lecture Theatre 6),18-10-2024,09:00,10:00,Fri,Engineering,IIA,3
+3F7/Information Theory and Coding[2]L Venkataramanan(Lecture Theatre 2),18-10-2024,09:00,10:00,Fri,Engineering,IIA,3
+3C6/Vibration[2]L Butlin/Cole(Lecture Theatre 2),18-10-2024,10:00,11:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[2]C (),18-10-2024,11:00,13:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[2]C (),18-10-2024,14:00,16:00,Fri,Engineering,IIA,3
+3B3/Switch-Mode Electronics[2]L Goetz/Long_T(Lecture Room 3),21-10-2024,09:00,10:00,Mon,Engineering,IIA,3
+3D3/Structural Materials and Design[2]L Becque/Foster/Lawrence(Lecture Theatre 2),21-10-2024,09:00,10:00,Mon,Engineering,IIA,3
+3F3/Statistical Signal Processing[2]L Cantwell/Godsill(Lecture Theatre 2),21-10-2024,10:00,11:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[2]L Cant/Jarrett(Lecture Room 4),21-10-2024,10:00,11:00,Mon,Engineering,IIA,3
+3D1/Geotechnical Engineering I[2]L Haigh/Madabhushi(Lecture Room 5),21-10-2024,10:00,11:00,Mon,Engineering,IIA,3
+3A5/Thermodynamics and Power Generation[2]L Cant/Swaminathan(Lecture Room 3),21-10-2024,11:00,12:00,Mon,Engineering,IIA,3
+3G1/Molecular Bioengineering I[2]L Bakshi/Micklem/Molloy(Lecture Theatre 6),21-10-2024,11:00,12:00,Mon,Engineering,IIA,3
+3B1/Radio Frequency Electronics[2]L Crisp/Tavakkolnia(Lecture Theatre 1),21-10-2024,12:00,13:00,Mon,Engineering,IIA,3
+3C8/Machine Design[2]L Na/Roebuck/Sutcliffe(Lecture Theatre 2),21-10-2024,12:00,13:00,Mon,Engineering,IIA,3
+3EWSE/Essay Writing Skills for Engineers[1]L Etteridge/Jones_MR(Lecture Theatre 2),21-10-2024,13:00,14:00,Mon,Engineering,IIA,3
+3E2/Marketing[2]L Merlo(Lecture Theatre 6),21-10-2024,14:00,16:00,Mon,Engineering,IIA,3
+3E6/Organisational Behaviour[2]L Kim_YJ(Lecture Room 4),21-10-2024,14:00,16:00,Mon,Engineering,IIA,3
+3E1/Business Economics[2]L Rogo(Lecture Theatre 1),21-10-2024,14:00,16:00,Mon,Engineering,IIA,3
+3D1/Geotechnical Engineering I[2]L Haigh/Madabhushi(Lecture Room 5),22-10-2024,09:00,10:00,Tue,Engineering,IIA,3
+3F3/Statistical Signal Processing[2]L Cantwell(Lecture Theatre 2),22-10-2024,09:00,10:00,Tue,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[2]L Cant/Jarrett(Lecture Room 4),22-10-2024,09:00,10:00,Tue,Engineering,IIA,3
+3F1/Signals and Systems[2]L Sayir(Lecture Theatre 1),22-10-2024,10:00,11:00,Tue,Engineering,IIA,3
+3C7/Mechanics of Solids[2]L Deshpande/Viggiani(Lecture Theatre 6),22-10-2024,10:00,11:00,Tue,Engineering,IIA,3
+3B1/Radio Frequency Electronics[2]L Crisp/Tavakkolnia(Lecture Theatre 1),22-10-2024,11:00,12:00,Tue,Engineering,IIA,3
+3C8/Machine Design[2]L Na/Roebuck/Sutcliffe(Lecture Theatre 2),22-10-2024,11:00,12:00,Tue,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[2]L Juniper/Li(Lecture Theatre 2),22-10-2024,12:00,13:00,Tue,Engineering,IIA,3
+3G5/Biomaterials[2]L Huang/Markaki(Lecture Room 12),22-10-2024,12:00,13:00,Tue,Engineering,IIA,3
+3B5/Semiconductor Engineering[2]L Ferrari/Hofmann(Lecture Room 3),22-10-2024,12:00,13:00,Tue,Engineering,IIA,3
+3CW/IIA Labs/coursework[2]L Houghton(Lecture Theatre 1),22-10-2024,13:00,14:00,Tue,Engineering,IIA,3
+3D5/Water Engineering[2]L Borgomeo/Liang(Lecture Theatre 6),22-10-2024,14:00,15:00,Tue,Engineering,IIA,3
+3B5/Semiconductor Engineering[1]L Ferrari(Lecture Theatre 2),22-10-2024,15:00,16:00,Tue,Engineering,IIA,3
+3F7/Information Theory and Coding[2]L Venkataramanan(Lecture Theatre 2),23-10-2024,09:00,10:00,Wed,Engineering,IIA,3
+3C1/Materials Processing and Design[2]L Barlow/McShane/Seita(Lecture Theatre 6),23-10-2024,09:00,10:00,Wed,Engineering,IIA,3
+3C6/Vibration[2]L Butlin/Cole(Lecture Theatre 2),23-10-2024,10:00,11:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[2]C (),23-10-2024,11:00,13:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[2]C (),23-10-2024,14:00,16:00,Wed,Engineering,IIA,3
+3D3/Structural Materials and Design[3]L Becque/Foster/Lawrence(Lecture Theatre 2),24-10-2024,09:00,10:00,Thu,Engineering,IIA,3
+3B3/Switch-Mode Electronics[3]L Goetz/Long_T(Lecture Room 3),24-10-2024,09:00,10:00,Thu,Engineering,IIA,3
+3F1/Signals and Systems[3]L Sayir(Lecture Theatre 1),24-10-2024,10:00,11:00,Thu,Engineering,IIA,3
+3C7/Mechanics of Solids[3]L Deshpande/Viggiani(Lecture Theatre 6),24-10-2024,10:00,11:00,Thu,Engineering,IIA,3
+3G1/Molecular Bioengineering I[3]L Bakshi/Micklem/Molloy(Lecture Theatre 6),24-10-2024,11:00,12:00,Thu,Engineering,IIA,3
+3A5/Thermodynamics and Power Generation[3]L Cant/Swaminathan(Lecture Room 3),24-10-2024,11:00,12:00,Thu,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[3]L Juniper/Li(Lecture Theatre 2),24-10-2024,12:00,13:00,Thu,Engineering,IIA,3
+3G5/Biomaterials[3]L Huang/Markaki(Lecture Room 12),24-10-2024,12:00,13:00,Thu,Engineering,IIA,3
+3D5/Water Engineering[3]L Borgomeo/Liang(Lecture Theatre 6),24-10-2024,14:00,15:00,Thu,Engineering,IIA,3
+3E1/Business Economics[1]L Rogo(Lecture Theatre 2),24-10-2024,15:00,17:00,Thu,Engineering,IIA,3
+3F7/Information Theory and Coding[3]L Venkataramanan(Lecture Theatre 2),25-10-2024,09:00,10:00,Fri,Engineering,IIA,3
+3C1/Materials Processing and Design[3]L Barlow/McShane/Seita(Lecture Theatre 6),25-10-2024,09:00,10:00,Fri,Engineering,IIA,3
+3C6/Vibration[3]L Butlin/Cole(Lecture Theatre 2),25-10-2024,10:00,11:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[3]C (),25-10-2024,11:00,13:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[3]C (),25-10-2024,14:00,16:00,Fri,Engineering,IIA,3
+3B3/Switch-Mode Electronics[3]L Goetz/Long_T(Lecture Room 3),28-10-2024,09:00,10:00,Mon,Engineering,IIA,3
+3D3/Structural Materials and Design[3]L Becque/Foster/Lawrence(Lecture Theatre 2),28-10-2024,09:00,10:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[3]L Cant/Jarrett(Lecture Room 4),28-10-2024,10:00,11:00,Mon,Engineering,IIA,3
+3F3/Statistical Signal Processing[3]L Cantwell/Godsill(Lecture Theatre 2),28-10-2024,10:00,11:00,Mon,Engineering,IIA,3
+3D1/Geotechnical Engineering I[3]L Haigh/Madabhushi(Lecture Room 5),28-10-2024,10:00,11:00,Mon,Engineering,IIA,3
+3A5/Thermodynamics and Power Generation[3]L Cant/Swaminathan(Lecture Room 3),28-10-2024,11:00,12:00,Mon,Engineering,IIA,3
+3G1/Molecular Bioengineering I[3]L Bakshi/Micklem/Molloy(Lecture Theatre 6),28-10-2024,11:00,12:00,Mon,Engineering,IIA,3
+3B1/Radio Frequency Electronics[3]L Crisp/Tavakkolnia(Lecture Theatre 1),28-10-2024,12:00,13:00,Mon,Engineering,IIA,3
+3C8/Machine Design[3]L Na/Roebuck/Sutcliffe(Lecture Theatre 2),28-10-2024,12:00,13:00,Mon,Engineering,IIA,3
+3E2/Marketing[3]L Merlo(Lecture Theatre 6),28-10-2024,14:00,16:00,Mon,Engineering,IIA,3
+3E1/Business Economics[3]L Rogo(Lecture Theatre 1),28-10-2024,14:00,16:00,Mon,Engineering,IIA,3
+3E6/Organisational Behaviour[3]L Kim_YJ(Lecture Room 4),28-10-2024,14:00,16:00,Mon,Engineering,IIA,3
+3F3/Statistical Signal Processing[3]L Cantwell(Lecture Theatre 2),29-10-2024,09:00,10:00,Tue,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[3]L Cant/Jarrett(Lecture Room 4),29-10-2024,09:00,10:00,Tue,Engineering,IIA,3
+3D1/Geotechnical Engineering I[3]L Haigh/Madabhushi(Lecture Room 5),29-10-2024,09:00,10:00,Tue,Engineering,IIA,3
+3C7/Mechanics of Solids[3]L Deshpande/Viggiani(Lecture Theatre 6),29-10-2024,10:00,11:00,Tue,Engineering,IIA,3
+3F1/Signals and Systems[3]L Sayir(Lecture Theatre 1),29-10-2024,10:00,11:00,Tue,Engineering,IIA,3
+3B1/Radio Frequency Electronics[3]L Crisp/Tavakkolnia(Lecture Theatre 1),29-10-2024,11:00,12:00,Tue,Engineering,IIA,3
+3C8/Machine Design[3]L Na/Roebuck/Sutcliffe(Lecture Theatre 2),29-10-2024,11:00,12:00,Tue,Engineering,IIA,3
+3B5/Semiconductor Engineering[3]L Ferrari/Hofmann(Lecture Room 3),29-10-2024,12:00,13:00,Tue,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[3]L Juniper/Li(Lecture Theatre 2),29-10-2024,12:00,13:00,Tue,Engineering,IIA,3
+3G5/Biomaterials[3]L Huang/Markaki(Lecture Room 12),29-10-2024,12:00,13:00,Tue,Engineering,IIA,3
+3CW/IIA Labs/coursework[3]L Houghton(Lecture Theatre 1),29-10-2024,13:00,14:00,Tue,Engineering,IIA,3
+3D5/Water Engineering[3]L Borgomeo/Liang(Lecture Theatre 6),29-10-2024,14:00,15:00,Tue,Engineering,IIA,3
+3C1/Materials Processing and Design[3]L Barlow/McShane/Seita(Lecture Theatre 6),30-10-2024,09:00,10:00,Wed,Engineering,IIA,3
+3F7/Information Theory and Coding[3]L Venkataramanan(Lecture Theatre 2),30-10-2024,09:00,10:00,Wed,Engineering,IIA,3
+3C6/Vibration[3]L Butlin/Cole(Lecture Theatre 2),30-10-2024,10:00,11:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[3]C (),30-10-2024,11:00,13:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[3]C (),30-10-2024,14:00,16:00,Wed,Engineering,IIA,3
+3D3/Structural Materials and Design[4]L Becque/Foster/Lawrence(Lecture Theatre 2),31-10-2024,09:00,10:00,Thu,Engineering,IIA,3
+3B3/Switch-Mode Electronics[4]L Goetz/Long_T(Lecture Room 3),31-10-2024,09:00,10:00,Thu,Engineering,IIA,3
+3C7/Mechanics of Solids[4]L Deshpande/Viggiani(Lecture Theatre 6),31-10-2024,10:00,11:00,Thu,Engineering,IIA,3
+3F1/Signals and Systems[4]L Sayir(Lecture Theatre 1),31-10-2024,10:00,11:00,Thu,Engineering,IIA,3
+3A5/Thermodynamics and Power Generation[4]L Cant/Swaminathan(Lecture Room 3),31-10-2024,11:00,12:00,Thu,Engineering,IIA,3
+3G1/Molecular Bioengineering I[4]L Bakshi/Micklem/Molloy(Lecture Theatre 6),31-10-2024,11:00,12:00,Thu,Engineering,IIA,3
+3G5/Biomaterials[4]L Huang/Markaki(Lecture Room 12),31-10-2024,12:00,13:00,Thu,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[4]L Juniper/Li(Lecture Theatre 2),31-10-2024,12:00,13:00,Thu,Engineering,IIA,3
+3B5/Semiconductor Engineering[1]L Ferrari/Hofmann(Lecture Room 3),31-10-2024,12:00,13:00,Thu,Engineering,IIA,3
+3D5/Water Engineering[4]L Borgomeo/Liang(Lecture Theatre 6),31-10-2024,14:00,15:00,Thu,Engineering,IIA,3
+3F7/Information Theory and Coding[4]L Venkataramanan(Lecture Theatre 2),01-11-2024,09:00,10:00,Fri,Engineering,IIA,3
+3C1/Materials Processing and Design[4]L Barlow/McShane/Seita(Lecture Theatre 6),01-11-2024,09:00,10:00,Fri,Engineering,IIA,3
+3C6/Vibration[4]L Butlin/Cole(Lecture Theatre 2),01-11-2024,10:00,11:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[4]C (),01-11-2024,11:00,13:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[4]C (),01-11-2024,14:00,16:00,Fri,Engineering,IIA,3
+3D3/Structural Materials and Design[4]L Becque/Foster/Lawrence(Lecture Theatre 2),04-11-2024,09:00,10:00,Mon,Engineering,IIA,3
+3B3/Switch-Mode Electronics[4]L Goetz/Long_T(Lecture Room 3),04-11-2024,09:00,10:00,Mon,Engineering,IIA,3
+3D1/Geotechnical Engineering I[4]L Haigh/Madabhushi(Lecture Room 5),04-11-2024,10:00,11:00,Mon,Engineering,IIA,3
+3F3/Statistical Signal Processing[4]L Cantwell/Godsill(Lecture Theatre 2),04-11-2024,10:00,11:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[4]L Cant/Jarrett(Lecture Room 4),04-11-2024,10:00,11:00,Mon,Engineering,IIA,3
+3A5/Thermodynamics and Power Generation[4]L Cant/Swaminathan(Lecture Room 3),04-11-2024,11:00,12:00,Mon,Engineering,IIA,3
+3G1/Molecular Bioengineering I[4]L Bakshi/Micklem/Molloy(Lecture Theatre 6),04-11-2024,11:00,12:00,Mon,Engineering,IIA,3
+3C8/Machine Design[4]L Na/Roebuck/Sutcliffe(Lecture Theatre 2),04-11-2024,12:00,13:00,Mon,Engineering,IIA,3
+3B1/Radio Frequency Electronics[4]L Crisp/Tavakkolnia(Lecture Theatre 1),04-11-2024,12:00,13:00,Mon,Engineering,IIA,3
+3E1/Business Economics[4]L Rogo(Lecture Theatre 1),04-11-2024,14:00,16:00,Mon,Engineering,IIA,3
+3E6/Organisational Behaviour[4]L Kim_YJ(Lecture Room 4),04-11-2024,14:00,16:00,Mon,Engineering,IIA,3
+3E2/Marketing[4]L Merlo(Lecture Theatre 6),04-11-2024,14:00,16:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[4]L Cant/Jarrett(Lecture Room 4),05-11-2024,09:00,10:00,Tue,Engineering,IIA,3
+3D1/Geotechnical Engineering I[4]L Haigh/Madabhushi(Lecture Room 5),05-11-2024,09:00,10:00,Tue,Engineering,IIA,3
+3F3/Statistical Signal Processing[4]L Cantwell(Lecture Theatre 2),05-11-2024,09:00,10:00,Tue,Engineering,IIA,3
+3C7/Mechanics of Solids[4]L Deshpande/Viggiani(Lecture Theatre 6),05-11-2024,10:00,11:00,Tue,Engineering,IIA,3
+3F1/Signals and Systems[4]L Sayir(Lecture Theatre 1),05-11-2024,10:00,11:00,Tue,Engineering,IIA,3
+3B1/Radio Frequency Electronics[4]L Crisp/Tavakkolnia(Lecture Theatre 1),05-11-2024,11:00,12:00,Tue,Engineering,IIA,3
+3C8/Machine Design[4]L Na/Roebuck/Sutcliffe(Lecture Theatre 2),05-11-2024,11:00,12:00,Tue,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[4]L Juniper/Li(Lecture Theatre 2),05-11-2024,12:00,13:00,Tue,Engineering,IIA,3
+3B5/Semiconductor Engineering[4]L Ferrari/Hofmann(Lecture Room 3),05-11-2024,12:00,13:00,Tue,Engineering,IIA,3
+3G5/Biomaterials[4]L Huang/Markaki(Lecture Room 12),05-11-2024,12:00,13:00,Tue,Engineering,IIA,3
+3CW/IIA Labs/coursework[4]L Houghton(Lecture Theatre 1),05-11-2024,13:00,14:00,Tue,Engineering,IIA,3
+3D5/Water Engineering[4]L Borgomeo/Liang(Lecture Theatre 6),05-11-2024,14:00,15:00,Tue,Engineering,IIA,3
+3F7/Information Theory and Coding[4]L Venkataramanan(Lecture Theatre 2),06-11-2024,09:00,10:00,Wed,Engineering,IIA,3
+3C1/Materials Processing and Design[4]L Barlow/McShane/Seita(Lecture Theatre 6),06-11-2024,09:00,10:00,Wed,Engineering,IIA,3
+3C6/Vibration[4]L Butlin/Cole(Lecture Theatre 2),06-11-2024,10:00,11:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[4]C (),06-11-2024,11:00,13:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[4]C (),06-11-2024,14:00,16:00,Wed,Engineering,IIA,3
+3B3/Switch-Mode Electronics[5]L Goetz/Long_T(Lecture Room 3),07-11-2024,09:00,10:00,Thu,Engineering,IIA,3
+3D3/Structural Materials and Design[5]L Becque/Foster/Lawrence(Lecture Theatre 2),07-11-2024,09:00,10:00,Thu,Engineering,IIA,3
+3F1/Signals and Systems[5]L Sayir(Lecture Theatre 1),07-11-2024,10:00,11:00,Thu,Engineering,IIA,3
+3C7/Mechanics of Solids[5]L Deshpande/Viggiani(Lecture Theatre 6),07-11-2024,10:00,11:00,Thu,Engineering,IIA,3
+3G1/Molecular Bioengineering I[5]L Bakshi/Micklem/Molloy(Lecture Theatre 6),07-11-2024,11:00,12:00,Thu,Engineering,IIA,3
+3A5/Thermodynamics and Power Generation[5]L Cant/Swaminathan(Lecture Room 3),07-11-2024,11:00,12:00,Thu,Engineering,IIA,3
+3G5/Biomaterials[5]L Huang/Markaki(Lecture Room 12),07-11-2024,12:00,13:00,Thu,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[5]L Juniper/Li(Lecture Theatre 2),07-11-2024,12:00,13:00,Thu,Engineering,IIA,3
+3B5/Semiconductor Engineering[2]L Ferrari/Hofmann(Lecture Room 3),07-11-2024,12:00,13:00,Thu,Engineering,IIA,3
+3D5/Water Engineering[5]L Borgomeo/Liang(Lecture Theatre 6),07-11-2024,14:00,15:00,Thu,Engineering,IIA,3
+3E1/Business Economics[1]L Rogo(Lecture Theatre 2),07-11-2024,15:00,17:00,Thu,Engineering,IIA,3
+3F7/Information Theory and Coding[5]L Venkataramanan(Lecture Theatre 2),08-11-2024,09:00,10:00,Fri,Engineering,IIA,3
+3C1/Materials Processing and Design[5]L Barlow/McShane/Seita(Lecture Theatre 6),08-11-2024,09:00,10:00,Fri,Engineering,IIA,3
+3C6/Vibration[5]L Butlin/Cole(Lecture Theatre 2),08-11-2024,10:00,11:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[5]C (),08-11-2024,11:00,13:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[5]C (),08-11-2024,14:00,16:00,Fri,Engineering,IIA,3
+3D3/Structural Materials and Design[5]L Becque/Foster/Lawrence(Lecture Theatre 2),11-11-2024,09:00,10:00,Mon,Engineering,IIA,3
+3B3/Switch-Mode Electronics[5]L Goetz/Long_T(Lecture Room 3),11-11-2024,09:00,10:00,Mon,Engineering,IIA,3
+3D1/Geotechnical Engineering I[5]L Haigh/Madabhushi(Lecture Room 5),11-11-2024,10:00,11:00,Mon,Engineering,IIA,3
+3F3/Statistical Signal Processing[5]L Cantwell/Godsill(Lecture Theatre 2),11-11-2024,10:00,11:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[5]L Cant/Jarrett(Lecture Room 4),11-11-2024,10:00,11:00,Mon,Engineering,IIA,3
+3A5/Thermodynamics and Power Generation[5]L Cant/Swaminathan(Lecture Room 3),11-11-2024,11:00,12:00,Mon,Engineering,IIA,3
+3G1/Molecular Bioengineering I[5]L Bakshi/Micklem/Molloy(Lecture Theatre 6),11-11-2024,11:00,12:00,Mon,Engineering,IIA,3
+3B1/Radio Frequency Electronics[5]L Crisp/Tavakkolnia(Lecture Theatre 1),11-11-2024,12:00,13:00,Mon,Engineering,IIA,3
+3C8/Machine Design[5]L Na/Roebuck/Sutcliffe(Lecture Theatre 2),11-11-2024,12:00,13:00,Mon,Engineering,IIA,3
+3E6/Organisational Behaviour[5]L Kim_YJ(Lecture Room 4),11-11-2024,14:00,16:00,Mon,Engineering,IIA,3
+3E1/Business Economics[5]L Rogo(Lecture Theatre 1),11-11-2024,14:00,16:00,Mon,Engineering,IIA,3
+3E2/Marketing[5]L Merlo(Lecture Theatre 6),11-11-2024,14:00,16:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[5]L Cant/Jarrett(Lecture Room 4),12-11-2024,09:00,10:00,Tue,Engineering,IIA,3
+3F3/Statistical Signal Processing[1]L Godsill(Lecture Theatre 2),12-11-2024,09:00,10:00,Tue,Engineering,IIA,3
+3D1/Geotechnical Engineering I[5]L Haigh/Madabhushi(Lecture Room 5),12-11-2024,09:00,10:00,Tue,Engineering,IIA,3
+3C7/Mechanics of Solids[5]L Deshpande/Viggiani(Lecture Theatre 6),12-11-2024,10:00,11:00,Tue,Engineering,IIA,3
+3F1/Signals and Systems[5]L Sayir(Lecture Theatre 1),12-11-2024,10:00,11:00,Tue,Engineering,IIA,3
+3C8/Machine Design[5]L Na/Roebuck/Sutcliffe(Lecture Theatre 2),12-11-2024,11:00,12:00,Tue,Engineering,IIA,3
+3B1/Radio Frequency Electronics[5]L Crisp/Tavakkolnia(Lecture Theatre 1),12-11-2024,11:00,12:00,Tue,Engineering,IIA,3
+3G5/Biomaterials[5]L Huang/Markaki(Lecture Room 12),12-11-2024,12:00,13:00,Tue,Engineering,IIA,3
+3B5/Semiconductor Engineering[5]L Ferrari/Hofmann(Lecture Room 3),12-11-2024,12:00,13:00,Tue,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[5]L Juniper/Li(Lecture Theatre 2),12-11-2024,12:00,13:00,Tue,Engineering,IIA,3
+3D5/Water Engineering[5]L Borgomeo/Liang(Lecture Theatre 6),12-11-2024,14:00,15:00,Tue,Engineering,IIA,3
+3F7/Information Theory and Coding[5]L Venkataramanan(Lecture Theatre 2),13-11-2024,09:00,10:00,Wed,Engineering,IIA,3
+3C1/Materials Processing and Design[5]L Barlow/McShane/Seita(Lecture Theatre 6),13-11-2024,09:00,10:00,Wed,Engineering,IIA,3
+3C6/Vibration[5]L Butlin/Cole(Lecture Theatre 2),13-11-2024,10:00,11:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[5]C (),13-11-2024,11:00,13:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[5]C (),13-11-2024,14:00,16:00,Wed,Engineering,IIA,3
+3B3/Switch-Mode Electronics[6]L Goetz/Long_T(Lecture Room 3),14-11-2024,09:00,10:00,Thu,Engineering,IIA,3
+3D3/Structural Materials and Design[6]L Becque/Foster/Lawrence(Lecture Theatre 2),14-11-2024,09:00,10:00,Thu,Engineering,IIA,3
+3C7/Mechanics of Solids[6]L Deshpande/Viggiani(Lecture Theatre 6),14-11-2024,10:00,11:00,Thu,Engineering,IIA,3
+3F1/Signals and Systems[6]L Sayir(Lecture Theatre 1),14-11-2024,10:00,11:00,Thu,Engineering,IIA,3
+3A5/Thermodynamics and Power Generation[6]L Cant/Swaminathan(Lecture Room 3),14-11-2024,11:00,12:00,Thu,Engineering,IIA,3
+3G1/Molecular Bioengineering I[6]L Bakshi/Micklem/Molloy(Lecture Theatre 6),14-11-2024,11:00,12:00,Thu,Engineering,IIA,3
+3B5/Semiconductor Engineering[3]L Ferrari/Hofmann(Lecture Room 3),14-11-2024,12:00,13:00,Thu,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[6]L Juniper/Li(Lecture Theatre 2),14-11-2024,12:00,13:00,Thu,Engineering,IIA,3
+3G5/Biomaterials[6]L Huang/Markaki(Lecture Room 12),14-11-2024,12:00,13:00,Thu,Engineering,IIA,3
+3D5/Water Engineering[6]L Borgomeo/Liang(Lecture Theatre 6),14-11-2024,14:00,15:00,Thu,Engineering,IIA,3
+3F7/Information Theory and Coding[6]L Venkataramanan(Lecture Theatre 2),15-11-2024,09:00,10:00,Fri,Engineering,IIA,3
+3C1/Materials Processing and Design[6]L Barlow/McShane/Seita(Lecture Theatre 6),15-11-2024,09:00,10:00,Fri,Engineering,IIA,3
+3C6/Vibration[6]L Butlin/Cole(Lecture Theatre 2),15-11-2024,10:00,11:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[6]C (),15-11-2024,11:00,13:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[6]C (),15-11-2024,14:00,16:00,Fri,Engineering,IIA,3
+3D3/Structural Materials and Design[6]L Becque/Foster/Lawrence(Lecture Theatre 2),18-11-2024,09:00,10:00,Mon,Engineering,IIA,3
+3B3/Switch-Mode Electronics[6]L Goetz/Long_T(Lecture Room 3),18-11-2024,09:00,10:00,Mon,Engineering,IIA,3
+3F3/Statistical Signal Processing[6]L Cantwell/Godsill(Lecture Theatre 2),18-11-2024,10:00,11:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[6]L Cant/Jarrett(Lecture Room 4),18-11-2024,10:00,11:00,Mon,Engineering,IIA,3
+3D1/Geotechnical Engineering I[6]L Haigh/Madabhushi(Lecture Room 5),18-11-2024,10:00,11:00,Mon,Engineering,IIA,3
+3G1/Molecular Bioengineering I[6]L Bakshi/Micklem/Molloy(Lecture Theatre 6),18-11-2024,11:00,12:00,Mon,Engineering,IIA,3
+3A5/Thermodynamics and Power Generation[6]L Cant/Swaminathan(Lecture Room 3),18-11-2024,11:00,12:00,Mon,Engineering,IIA,3
+3B1/Radio Frequency Electronics[6]L Crisp/Tavakkolnia(Lecture Theatre 1),18-11-2024,12:00,13:00,Mon,Engineering,IIA,3
+3C8/Machine Design[6]L Na/Roebuck/Sutcliffe(Lecture Theatre 2),18-11-2024,12:00,13:00,Mon,Engineering,IIA,3
+3E1/Business Economics[6]L Rogo(Lecture Theatre 1),18-11-2024,14:00,16:00,Mon,Engineering,IIA,3
+3E6/Organisational Behaviour[6]L Kim_YJ(Lecture Room 4),18-11-2024,14:00,16:00,Mon,Engineering,IIA,3
+3E2/Marketing[6]L Merlo(Lecture Theatre 6),18-11-2024,14:00,16:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[6]L Cant/Jarrett(Lecture Room 4),19-11-2024,09:00,10:00,Tue,Engineering,IIA,3
+3F3/Statistical Signal Processing[2]L Godsill(Lecture Theatre 2),19-11-2024,09:00,10:00,Tue,Engineering,IIA,3
+3D1/Geotechnical Engineering I[6]L Haigh/Madabhushi(Lecture Room 5),19-11-2024,09:00,10:00,Tue,Engineering,IIA,3
+3F1/Signals and Systems[6]L Sayir(Lecture Theatre 1),19-11-2024,10:00,11:00,Tue,Engineering,IIA,3
+3C7/Mechanics of Solids[6]L Deshpande/Viggiani(Lecture Theatre 6),19-11-2024,10:00,11:00,Tue,Engineering,IIA,3
+3B1/Radio Frequency Electronics[6]L Crisp/Tavakkolnia(Lecture Theatre 1),19-11-2024,11:00,12:00,Tue,Engineering,IIA,3
+3C8/Machine Design[6]L Na/Roebuck/Sutcliffe(Lecture Theatre 2),19-11-2024,11:00,12:00,Tue,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[6]L Juniper/Li(Lecture Theatre 2),19-11-2024,12:00,13:00,Tue,Engineering,IIA,3
+3B5/Semiconductor Engineering[6]L Ferrari/Hofmann(Lecture Room 3),19-11-2024,12:00,13:00,Tue,Engineering,IIA,3
+3G5/Biomaterials[6]L Huang/Markaki(Lecture Room 12),19-11-2024,12:00,13:00,Tue,Engineering,IIA,3
+3D5/Water Engineering[6]L Borgomeo/Liang(Lecture Theatre 6),19-11-2024,14:00,15:00,Tue,Engineering,IIA,3
+3F7/Information Theory and Coding[6]L Venkataramanan(Lecture Theatre 2),20-11-2024,09:00,10:00,Wed,Engineering,IIA,3
+3C1/Materials Processing and Design[6]L Barlow/McShane/Seita(Lecture Theatre 6),20-11-2024,09:00,10:00,Wed,Engineering,IIA,3
+3C6/Vibration[6]L Butlin/Cole(Lecture Theatre 2),20-11-2024,10:00,11:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[6]C (),20-11-2024,11:00,13:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[6]C (),20-11-2024,14:00,16:00,Wed,Engineering,IIA,3
+3B3/Switch-Mode Electronics[7]L Goetz/Long_T(Lecture Room 3),21-11-2024,09:00,10:00,Thu,Engineering,IIA,3
+3D3/Structural Materials and Design[7]L Becque/Foster/Lawrence(Lecture Theatre 2),21-11-2024,09:00,10:00,Thu,Engineering,IIA,3
+3C7/Mechanics of Solids[7]L Deshpande/Viggiani(Lecture Theatre 6),21-11-2024,10:00,11:00,Thu,Engineering,IIA,3
+3F1/Signals and Systems[7]L Sayir(Lecture Theatre 1),21-11-2024,10:00,11:00,Thu,Engineering,IIA,3
+3G1/Molecular Bioengineering I[7]L Bakshi/Micklem/Molloy(Lecture Theatre 6),21-11-2024,11:00,12:00,Thu,Engineering,IIA,3
+3A5/Thermodynamics and Power Generation[7]L Cant/Swaminathan(Lecture Room 3),21-11-2024,11:00,12:00,Thu,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[7]L Juniper/Li(Lecture Theatre 2),21-11-2024,12:00,13:00,Thu,Engineering,IIA,3
+3B5/Semiconductor Engineering[4]L Ferrari/Hofmann(Lecture Room 3),21-11-2024,12:00,13:00,Thu,Engineering,IIA,3
+3G5/Biomaterials[7]L Huang/Markaki(Lecture Room 12),21-11-2024,12:00,13:00,Thu,Engineering,IIA,3
+3D5/Water Engineering[7]L Borgomeo/Liang(Lecture Theatre 6),21-11-2024,14:00,15:00,Thu,Engineering,IIA,3
+3E1/Business Economics[1]L Rogo(Lecture Theatre 2),21-11-2024,15:00,17:00,Thu,Engineering,IIA,3
+3F7/Information Theory and Coding[7]L Venkataramanan(Lecture Theatre 2),22-11-2024,09:00,10:00,Fri,Engineering,IIA,3
+3C1/Materials Processing and Design[7]L Barlow/McShane/Seita(Lecture Theatre 6),22-11-2024,09:00,10:00,Fri,Engineering,IIA,3
+3C6/Vibration[7]L Butlin/Cole(Lecture Theatre 2),22-11-2024,10:00,11:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[7]C (),22-11-2024,11:00,13:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[7]C (),22-11-2024,14:00,16:00,Fri,Engineering,IIA,3
+3B3/Switch-Mode Electronics[7]L Goetz/Long_T(Lecture Room 3),25-11-2024,09:00,10:00,Mon,Engineering,IIA,3
+3D3/Structural Materials and Design[7]L Becque/Foster/Lawrence(Lecture Theatre 2),25-11-2024,09:00,10:00,Mon,Engineering,IIA,3
+3D1/Geotechnical Engineering I[7]L Haigh/Madabhushi(Lecture Room 5),25-11-2024,10:00,11:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[7]L Cant/Jarrett(Lecture Room 4),25-11-2024,10:00,11:00,Mon,Engineering,IIA,3
+3F3/Statistical Signal Processing[7]L Cantwell/Godsill(Lecture Theatre 2),25-11-2024,10:00,11:00,Mon,Engineering,IIA,3
+3A5/Thermodynamics and Power Generation[7]L Cant/Swaminathan(Lecture Room 3),25-11-2024,11:00,12:00,Mon,Engineering,IIA,3
+3G1/Molecular Bioengineering I[7]L Bakshi/Micklem/Molloy(Lecture Theatre 6),25-11-2024,11:00,12:00,Mon,Engineering,IIA,3
+3B1/Radio Frequency Electronics[7]L Crisp/Tavakkolnia(Lecture Theatre 1),25-11-2024,12:00,13:00,Mon,Engineering,IIA,3
+3C8/Machine Design[7]L Na/Roebuck/Sutcliffe(Lecture Theatre 2),25-11-2024,12:00,13:00,Mon,Engineering,IIA,3
+3E2/Marketing[7]L Merlo(Lecture Theatre 6),25-11-2024,14:00,16:00,Mon,Engineering,IIA,3
+3E1/Business Economics[7]L Rogo(Lecture Theatre 1),25-11-2024,14:00,16:00,Mon,Engineering,IIA,3
+3E6/Organisational Behaviour[7]L Kim_YJ(Lecture Room 4),25-11-2024,14:00,16:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[7]L Cant/Jarrett(Lecture Room 4),26-11-2024,09:00,10:00,Tue,Engineering,IIA,3
+3D1/Geotechnical Engineering I[7]L Haigh/Madabhushi(Lecture Room 5),26-11-2024,09:00,10:00,Tue,Engineering,IIA,3
+3F3/Statistical Signal Processing[3]L Godsill(Lecture Theatre 2),26-11-2024,09:00,10:00,Tue,Engineering,IIA,3
+3C7/Mechanics of Solids[7]L Deshpande/Viggiani(Lecture Theatre 6),26-11-2024,10:00,11:00,Tue,Engineering,IIA,3
+3F1/Signals and Systems[7]L Sayir(Lecture Theatre 1),26-11-2024,10:00,11:00,Tue,Engineering,IIA,3
+3B1/Radio Frequency Electronics[7]L Crisp/Tavakkolnia(Lecture Theatre 1),26-11-2024,11:00,12:00,Tue,Engineering,IIA,3
+3C8/Machine Design[7]L Na/Roebuck/Sutcliffe(Lecture Theatre 2),26-11-2024,11:00,12:00,Tue,Engineering,IIA,3
+3B5/Semiconductor Engineering[7]L Ferrari/Hofmann(Lecture Room 3),26-11-2024,12:00,13:00,Tue,Engineering,IIA,3
+3G5/Biomaterials[7]L Huang/Markaki(Lecture Room 12),26-11-2024,12:00,13:00,Tue,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[7]L Juniper/Li(Lecture Theatre 2),26-11-2024,12:00,13:00,Tue,Engineering,IIA,3
+3D5/Water Engineering[7]L Borgomeo/Liang(Lecture Theatre 6),26-11-2024,14:00,15:00,Tue,Engineering,IIA,3
+3B5/Semiconductor Engineering[1]L Hofmann(Lecture Theatre 2),26-11-2024,15:00,16:00,Tue,Engineering,IIA,3
+3F7/Information Theory and Coding[7]L Venkataramanan(Lecture Theatre 2),27-11-2024,09:00,10:00,Wed,Engineering,IIA,3
+3C1/Materials Processing and Design[7]L Barlow/McShane/Seita(Lecture Theatre 6),27-11-2024,09:00,10:00,Wed,Engineering,IIA,3
+3C6/Vibration[7]L Butlin/Cole(Lecture Theatre 2),27-11-2024,10:00,11:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[7]C (),27-11-2024,11:00,13:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[7]C (),27-11-2024,14:00,16:00,Wed,Engineering,IIA,3
+3B3/Switch-Mode Electronics[8]L Goetz/Long_T(Lecture Room 3),28-11-2024,09:00,10:00,Thu,Engineering,IIA,3
+3D3/Structural Materials and Design[8]L Becque/Foster/Lawrence(Lecture Theatre 2),28-11-2024,09:00,10:00,Thu,Engineering,IIA,3
+3F1/Signals and Systems[8]L Sayir(Lecture Theatre 1),28-11-2024,10:00,11:00,Thu,Engineering,IIA,3
+3C7/Mechanics of Solids[8]L Deshpande/Viggiani(Lecture Theatre 6),28-11-2024,10:00,11:00,Thu,Engineering,IIA,3
+3A5/Thermodynamics and Power Generation[8]L Cant/Swaminathan(Lecture Room 3),28-11-2024,11:00,12:00,Thu,Engineering,IIA,3
+3G1/Molecular Bioengineering I[8]L Bakshi/Micklem/Molloy(Lecture Theatre 6),28-11-2024,11:00,12:00,Thu,Engineering,IIA,3
+3G5/Biomaterials[8]L Huang/Markaki(Lecture Room 12),28-11-2024,12:00,13:00,Thu,Engineering,IIA,3
+3B5/Semiconductor Engineering[5]L Ferrari/Hofmann(Lecture Room 3),28-11-2024,12:00,13:00,Thu,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[8]L Juniper/Li(Lecture Theatre 2),28-11-2024,12:00,13:00,Thu,Engineering,IIA,3
+3D5/Water Engineering[8]L Borgomeo/Liang(Lecture Theatre 6),28-11-2024,14:00,15:00,Thu,Engineering,IIA,3
+3C1/Materials Processing and Design[8]L Barlow/McShane/Seita(Lecture Theatre 6),29-11-2024,09:00,10:00,Fri,Engineering,IIA,3
+3F7/Information Theory and Coding[8]L Venkataramanan(Lecture Theatre 2),29-11-2024,09:00,10:00,Fri,Engineering,IIA,3
+3C6/Vibration[8]L Butlin/Cole(Lecture Theatre 2),29-11-2024,10:00,11:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[8]C (),29-11-2024,11:00,13:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[8]C (),29-11-2024,14:00,16:00,Fri,Engineering,IIA,3
+3D3/Structural Materials and Design[8]L Becque/Foster/Lawrence(Lecture Theatre 2),02-12-2024,09:00,10:00,Mon,Engineering,IIA,3
+3B3/Switch-Mode Electronics[8]L Goetz/Long_T(Lecture Room 3),02-12-2024,09:00,10:00,Mon,Engineering,IIA,3
+3D1/Geotechnical Engineering I[8]L Haigh/Madabhushi(Lecture Room 5),02-12-2024,10:00,11:00,Mon,Engineering,IIA,3
+3F3/Statistical Signal Processing[8]L Cantwell/Godsill(Lecture Theatre 2),02-12-2024,10:00,11:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[8]L Cant/Jarrett(Lecture Room 4),02-12-2024,10:00,11:00,Mon,Engineering,IIA,3
+3G1/Molecular Bioengineering I[8]L Bakshi/Micklem/Molloy(Lecture Theatre 6),02-12-2024,11:00,12:00,Mon,Engineering,IIA,3
+3A5/Thermodynamics and Power Generation[8]L Cant/Swaminathan(Lecture Room 3),02-12-2024,11:00,12:00,Mon,Engineering,IIA,3
+3B1/Radio Frequency Electronics[8]L Crisp/Tavakkolnia(Lecture Theatre 1),02-12-2024,12:00,13:00,Mon,Engineering,IIA,3
+3C8/Machine Design[8]L Na/Roebuck/Sutcliffe(Lecture Theatre 2),02-12-2024,12:00,13:00,Mon,Engineering,IIA,3
+3E1/Business Economics[8]L Rogo(Lecture Theatre 1),02-12-2024,14:00,16:00,Mon,Engineering,IIA,3
+3E6/Organisational Behaviour[8]L Kim_YJ(Lecture Room 4),02-12-2024,14:00,16:00,Mon,Engineering,IIA,3
+3E2/Marketing[8]L Merlo(Lecture Theatre 6),02-12-2024,14:00,16:00,Mon,Engineering,IIA,3
+3D1/Geotechnical Engineering I[8]L Haigh/Madabhushi(Lecture Room 5),03-12-2024,09:00,10:00,Tue,Engineering,IIA,3
+3F3/Statistical Signal Processing[4]L Godsill(Lecture Theatre 2),03-12-2024,09:00,10:00,Tue,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[8]L Cant/Jarrett(Lecture Room 4),03-12-2024,09:00,10:00,Tue,Engineering,IIA,3
+3C7/Mechanics of Solids[8]L Deshpande/Viggiani(Lecture Theatre 6),03-12-2024,10:00,11:00,Tue,Engineering,IIA,3
+3F1/Signals and Systems[8]L Sayir(Lecture Theatre 1),03-12-2024,10:00,11:00,Tue,Engineering,IIA,3
+3C8/Machine Design[8]L Na/Roebuck/Sutcliffe(Lecture Theatre 2),03-12-2024,11:00,12:00,Tue,Engineering,IIA,3
+3B1/Radio Frequency Electronics[8]L Crisp/Tavakkolnia(Lecture Theatre 1),03-12-2024,11:00,12:00,Tue,Engineering,IIA,3
+3G5/Biomaterials[8]L Huang/Markaki(Lecture Room 12),03-12-2024,12:00,13:00,Tue,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[8]L Juniper/Li(Lecture Theatre 2),03-12-2024,12:00,13:00,Tue,Engineering,IIA,3
+3D5/Water Engineering[8]L Borgomeo/Liang(Lecture Theatre 6),03-12-2024,14:00,15:00,Tue,Engineering,IIA,3
+3F7/Information Theory and Coding[8]L Venkataramanan(Lecture Theatre 2),04-12-2024,09:00,10:00,Wed,Engineering,IIA,3
+3C1/Materials Processing and Design[8]L Barlow/McShane/Seita(Lecture Theatre 6),04-12-2024,09:00,10:00,Wed,Engineering,IIA,3
+3C6/Vibration[8]L Butlin/Cole(Lecture Theatre 2),04-12-2024,10:00,11:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[8]C (),04-12-2024,11:00,13:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[8]C (),04-12-2024,14:00,16:00,Wed,Engineering,IIA,3
+3E1/Business Economics[1]L Rogo(Lecture Theatre 2),07-07-2025,15:00,17:00,Mon,Engineering,IIA,3
+3G4/Medical Imaging and 3-D Computer Graphics[1]L Gee/Treece(Lecture Room 3),23-01-2025,09:00,10:00,Thu,Engineering,IIA,3
+3D2/Geotechnical Engineering II[1]L Haigh/Hambleton(Lecture Room 5),23-01-2025,09:00,10:00,Thu,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[1]L Clark/Jarrett/Scott(Lecture Theatre 2),23-01-2025,09:00,10:00,Thu,Engineering,IIA,3
+3B6/Photonic Technology[1]L Cheng(Lecture Theatre 6),23-01-2025,10:00,11:00,Thu,Engineering,IIA,3
+3B6/Photonic Technology[1]L Penty(Lecture Theatre 6),23-01-2025,10:00,11:00,Thu,Engineering,IIA,3
+3D8/Geo-Environmental Engineering[1]L Al-Tabbaa/Madabhushi(Lecture Room 5),23-01-2025,10:00,11:00,Thu,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[1]L Babinsky/Li(Lecture Theatre 2),23-01-2025,10:00,11:00,Thu,Engineering,IIA,3
+3B2/Integrated Digital Electronics[1]L Akan/Tang(Lecture Room 4),23-01-2025,12:00,13:00,Thu,Engineering,IIA,3
+3B2/Integrated Digital Electronics[1]L Tang(Lecture Room 4),23-01-2025,12:00,13:00,Thu,Engineering,IIA,3
+3A6/Heat and Mass Transfer[1]L Onn(Lecture Theatre 1),23-01-2025,12:00,13:00,Thu,Engineering,IIA,3
+3G2/Mathematical Physiology[1]L Kabla/Lengyel(Lecture Room 11),23-01-2025,12:00,13:00,Thu,Engineering,IIA,3
+3M1/Mathematical Methods[1]L Ge_H/Girolami/Wells(Lecture Theatre 2),23-01-2025,14:00,15:00,Thu,Engineering,IIA,3
+3E3/Modelling Risk[1]L Herrera Fernandez(Lecture Theatre 1),23-01-2025,15:00,17:00,Thu,Engineering,IIA,3
+3E11/Environmental Sustainability & Business[1]L Reisch(Lecture Room 4),23-01-2025,15:00,17:00,Thu,Engineering,IIA,3
+3C9/Fracture Mechanics of Materials and Structures[1]L Deshpande/Fleck(Lecture Room 3),24-01-2025,09:00,10:00,Fri,Engineering,IIA,3
+3F2/Systems and Control[1]L Sepulchre/Smith_MC(Lecture Theatre 1),24-01-2025,09:00,10:00,Fri,Engineering,IIA,3
+3B6/Photonic Technology[1]L Penty(Lecture Theatre 6),24-01-2025,10:00,11:00,Fri,Engineering,IIA,3
+3B6/Photonic Technology[1]L Cheng(Lecture Theatre 6),24-01-2025,10:00,11:00,Fri,Engineering,IIA,3
+3D8/Geo-Environmental Engineering[1]L Al-Tabbaa/Madabhushi(Lecture Room 5),24-01-2025,10:00,11:00,Fri,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[1]L Babinsky/Li(Lecture Theatre 1),24-01-2025,10:00,11:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[1]C (),24-01-2025,11:00,13:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[1]C (),24-01-2025,14:00,16:00,Fri,Engineering,IIA,3
+3F8/Inference[1]L Hernandez-Lobato/Turner_RE(Lecture Theatre 1),27-01-2025,09:00,10:00,Mon,Engineering,IIA,3
+3D7/Finite Element Methods[1]L Cirak/Liu(Lecture Room 5),27-01-2025,09:00,10:00,Mon,Engineering,IIA,3
+4M16/Nuclear Power Engineering (shared)[1]L Cosgrove/Shwageraus/Skelton(Lecture Theatre 1),27-01-2025,10:00,11:00,Mon,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[1]L Li(Lecture Room 4),27-01-2025,10:00,11:00,Mon,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[1]L Wells(Lecture Room 4),27-01-2025,10:00,11:00,Mon,Engineering,IIA,3
+3D2/Geotechnical Engineering II[1]L Haigh/Hambleton(Lecture Room 5),27-01-2025,11:00,12:00,Mon,Engineering,IIA,3
+3G4/Medical Imaging and 3-D Computer Graphics[1]L Gee/Treece(Lecture Room 3),27-01-2025,11:00,12:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[1]L Clark/Jarrett/Scott(Lecture Theatre 2),27-01-2025,11:00,12:00,Mon,Engineering,IIA,3
+3G3/Introduction to Neuroscience[1]L Hennequin/Lengyel(Lecture Theatre 6),27-01-2025,12:00,13:00,Mon,Engineering,IIA,3
+3D4/Structural Analysis and Stability[1]L Cirak/Seffen(Lecture Room 5),27-01-2025,12:00,13:00,Mon,Engineering,IIA,3
+3B4/Electric Drive Systems[1]L Coombs/Flack(Lecture Room 4),27-01-2025,12:00,13:00,Mon,Engineering,IIA,3
+3F2/Systems and Control[1]L Smith_MC(Lecture Theatre 2),28-01-2025,09:00,10:00,Tue,Engineering,IIA,3
+3C9/Fracture Mechanics of Materials and Structures[1]L Deshpande/Fleck(Lecture Room 3),28-01-2025,09:00,10:00,Tue,Engineering,IIA,3
+3F4/Data Transmission[1]L Guillen i Fabregas/Sayir(Lecture Theatre 2),28-01-2025,10:00,11:00,Tue,Engineering,IIA,3
+3C5/Dynamics[1]L Hunt_HEM(Lecture Theatre 1),28-01-2025,10:00,11:00,Tue,Engineering,IIA,3
+3A6/Heat and Mass Transfer[1]L Onn(Lecture Theatre 1),28-01-2025,11:00,12:00,Tue,Engineering,IIA,3
+3G2/Mathematical Physiology[1]L Kabla/Lengyel(Lecture Room 11),28-01-2025,11:00,12:00,Tue,Engineering,IIA,3
+3B2/Integrated Digital Electronics[1]L Akan/Tang(Lecture Room 4),28-01-2025,11:00,12:00,Tue,Engineering,IIA,3
+3F8/Inference[1]L Hernandez-Lobato/Turner_RE(Lecture Theatre 1),28-01-2025,12:00,13:00,Tue,Engineering,IIA,3
+3D7/Finite Element Methods[1]L Cirak/Liu(Lecture Room 5),28-01-2025,12:00,13:00,Tue,Engineering,IIA,3
+3D4/Structural Analysis and Stability[1]L Cirak/Seffen(Lecture Room 5),28-01-2025,14:00,15:00,Tue,Engineering,IIA,3
+3B4/Electric Drive Systems[1]L Coombs/Flack(Lecture Room 4),28-01-2025,14:00,15:00,Tue,Engineering,IIA,3
+3G3/Introduction to Neuroscience[1]L Hennequin/Lengyel(Lecture Theatre 6),28-01-2025,14:00,15:00,Tue,Engineering,IIA,3
+3M1/Mathematical Methods[1]L Ge_H/Girolami/Wells(Lecture Theatre 2),28-01-2025,15:00,16:00,Tue,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[1]L Li(Lecture Room 4),29-01-2025,09:00,10:00,Wed,Engineering,IIA,3
+4M16/Nuclear Power Engineering (shared)[1]L Cosgrove/Shwageraus/Skelton(Lecture Theatre 1),29-01-2025,09:00,10:00,Wed,Engineering,IIA,3
+3F4/Data Transmission[1]L Guillen i Fabregas/Sayir(Lecture Theatre 2),29-01-2025,10:00,11:00,Wed,Engineering,IIA,3
+3C5/Dynamics[1]L Hunt_HEM(Lecture Theatre 1),29-01-2025,10:00,11:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[1]C (),29-01-2025,11:00,13:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[1]C (),29-01-2025,14:00,16:00,Wed,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[2]L Clark/Jarrett/Scott(Lecture Theatre 2),30-01-2025,09:00,10:00,Thu,Engineering,IIA,3
+3G4/Medical Imaging and 3-D Computer Graphics[2]L Gee/Treece(Lecture Room 3),30-01-2025,09:00,10:00,Thu,Engineering,IIA,3
+3D2/Geotechnical Engineering II[2]L Haigh/Hambleton(Lecture Room 5),30-01-2025,09:00,10:00,Thu,Engineering,IIA,3
+3D8/Geo-Environmental Engineering[2]L Al-Tabbaa/Madabhushi(Lecture Room 5),30-01-2025,10:00,11:00,Thu,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[2]L Babinsky/Li(Lecture Theatre 2),30-01-2025,10:00,11:00,Thu,Engineering,IIA,3
+3B6/Photonic Technology[2]L Cheng(Lecture Theatre 6),30-01-2025,10:00,11:00,Thu,Engineering,IIA,3
+3B6/Photonic Technology[2]L Penty(Lecture Theatre 6),30-01-2025,10:00,11:00,Thu,Engineering,IIA,3
+3G2/Mathematical Physiology[2]L Kabla/Lengyel(Lecture Room 11),30-01-2025,12:00,13:00,Thu,Engineering,IIA,3
+3A6/Heat and Mass Transfer[2]L Onn(Lecture Theatre 1),30-01-2025,12:00,13:00,Thu,Engineering,IIA,3
+3B2/Integrated Digital Electronics[2]L Tang(Lecture Room 4),30-01-2025,12:00,13:00,Thu,Engineering,IIA,3
+3B2/Integrated Digital Electronics[2]L Akan/Tang(Lecture Room 4),30-01-2025,12:00,13:00,Thu,Engineering,IIA,3
+3M1/Mathematical Methods[2]L Ge_H/Girolami/Wells(Lecture Theatre 2),30-01-2025,14:00,15:00,Thu,Engineering,IIA,3
+3E10/Operations Management for Engineers[1]L Davies_J(Lecture Theatre 2),30-01-2025,15:00,17:00,Thu,Engineering,IIA,3
+3E11/Environmental Sustainability & Business[2]L Reisch(Lecture Room 4),30-01-2025,15:00,17:00,Thu,Engineering,IIA,3
+3E3/Modelling Risk[2]L Herrera Fernandez(Lecture Theatre 1),30-01-2025,15:00,17:00,Thu,Engineering,IIA,3
+3C9/Fracture Mechanics of Materials and Structures[2]L Deshpande/Fleck(Lecture Room 3),31-01-2025,09:00,10:00,Fri,Engineering,IIA,3
+3F2/Systems and Control[2]L Sepulchre/Smith_MC(Lecture Theatre 1),31-01-2025,09:00,10:00,Fri,Engineering,IIA,3
+3B6/Photonic Technology[2]L Cheng(Lecture Theatre 6),31-01-2025,10:00,11:00,Fri,Engineering,IIA,3
+3D8/Geo-Environmental Engineering[2]L Al-Tabbaa/Madabhushi(Lecture Room 5),31-01-2025,10:00,11:00,Fri,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[2]L Babinsky/Li(Lecture Theatre 1),31-01-2025,10:00,11:00,Fri,Engineering,IIA,3
+3B6/Photonic Technology[2]L Penty(Lecture Theatre 6),31-01-2025,10:00,11:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[2]C (),31-01-2025,11:00,13:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[2]C (),31-01-2025,14:00,16:00,Fri,Engineering,IIA,3
+3F8/Inference[2]L Hernandez-Lobato/Turner_RE(Lecture Theatre 1),03-02-2025,09:00,10:00,Mon,Engineering,IIA,3
+3D7/Finite Element Methods[2]L Cirak/Liu(Lecture Room 5),03-02-2025,09:00,10:00,Mon,Engineering,IIA,3
+4M16/Nuclear Power Engineering (shared)[2]L Cosgrove/Shwageraus/Skelton(Lecture Theatre 1),03-02-2025,10:00,11:00,Mon,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[2]L Wells(Lecture Room 4),03-02-2025,10:00,11:00,Mon,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[2]L Li(Lecture Room 4),03-02-2025,10:00,11:00,Mon,Engineering,IIA,3
+3D2/Geotechnical Engineering II[2]L Haigh/Hambleton(Lecture Room 5),03-02-2025,11:00,12:00,Mon,Engineering,IIA,3
+3G4/Medical Imaging and 3-D Computer Graphics[2]L Gee/Treece(Lecture Room 3),03-02-2025,11:00,12:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[2]L Clark/Jarrett/Scott(Lecture Theatre 2),03-02-2025,11:00,12:00,Mon,Engineering,IIA,3
+3B4/Electric Drive Systems[2]L Coombs/Flack(Lecture Room 4),03-02-2025,12:00,13:00,Mon,Engineering,IIA,3
+3D4/Structural Analysis and Stability[2]L Cirak/Seffen(Lecture Room 5),03-02-2025,12:00,13:00,Mon,Engineering,IIA,3
+3G3/Introduction to Neuroscience[2]L Hennequin/Lengyel(Lecture Theatre 6),03-02-2025,12:00,13:00,Mon,Engineering,IIA,3
+3C9/Fracture Mechanics of Materials and Structures[2]L Deshpande/Fleck(Lecture Room 3),04-02-2025,09:00,10:00,Tue,Engineering,IIA,3
+3F2/Systems and Control[2]L Smith_MC(Lecture Theatre 2),04-02-2025,09:00,10:00,Tue,Engineering,IIA,3
+3F4/Data Transmission[2]L Guillen i Fabregas/Sayir(Lecture Theatre 2),04-02-2025,10:00,11:00,Tue,Engineering,IIA,3
+3C5/Dynamics[2]L Hunt_HEM(Lecture Theatre 1),04-02-2025,10:00,11:00,Tue,Engineering,IIA,3
+3G2/Mathematical Physiology[2]L Kabla/Lengyel(Lecture Room 11),04-02-2025,11:00,12:00,Tue,Engineering,IIA,3
+3B2/Integrated Digital Electronics[2]L Akan/Tang(Lecture Room 4),04-02-2025,11:00,12:00,Tue,Engineering,IIA,3
+3A6/Heat and Mass Transfer[2]L Onn(Lecture Theatre 1),04-02-2025,11:00,12:00,Tue,Engineering,IIA,3
+3F8/Inference[2]L Hernandez-Lobato/Turner_RE(Lecture Theatre 1),04-02-2025,12:00,13:00,Tue,Engineering,IIA,3
+3D7/Finite Element Methods[2]L Cirak/Liu(Lecture Room 5),04-02-2025,12:00,13:00,Tue,Engineering,IIA,3
+3B4/Electric Drive Systems[2]L Coombs/Flack(Lecture Room 4),04-02-2025,14:00,15:00,Tue,Engineering,IIA,3
+3D4/Structural Analysis and Stability[2]L Cirak/Seffen(Lecture Room 5),04-02-2025,14:00,15:00,Tue,Engineering,IIA,3
+3G3/Introduction to Neuroscience[2]L Hennequin/Lengyel(Lecture Theatre 6),04-02-2025,14:00,15:00,Tue,Engineering,IIA,3
+3M1/Mathematical Methods[2]L Ge_H/Girolami/Wells(Lecture Theatre 2),04-02-2025,15:00,16:00,Tue,Engineering,IIA,3
+3B6/Photonic Technology[1]L Penty(Lecture Room 5),04-02-2025,16:00,17:00,Tue,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[2]L Li(Lecture Room 4),05-02-2025,09:00,10:00,Wed,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[1]L Wells(Lecture Room 4),05-02-2025,09:00,10:00,Wed,Engineering,IIA,3
+4M16/Nuclear Power Engineering (shared)[2]L Cosgrove/Shwageraus/Skelton(Lecture Theatre 1),05-02-2025,09:00,10:00,Wed,Engineering,IIA,3
+3C5/Dynamics[2]L Hunt_HEM(Lecture Theatre 1),05-02-2025,10:00,11:00,Wed,Engineering,IIA,3
+3F4/Data Transmission[2]L Guillen i Fabregas/Sayir(Lecture Theatre 2),05-02-2025,10:00,11:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[2]C (),05-02-2025,11:00,13:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[2]C (),05-02-2025,14:00,16:00,Wed,Engineering,IIA,3
+3G4/Medical Imaging and 3-D Computer Graphics[3]L Gee/Treece(Lecture Room 3),06-02-2025,09:00,10:00,Thu,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[3]L Clark/Jarrett/Scott(Lecture Theatre 2),06-02-2025,09:00,10:00,Thu,Engineering,IIA,3
+3D2/Geotechnical Engineering II[3]L Haigh/Hambleton(Lecture Room 5),06-02-2025,09:00,10:00,Thu,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[3]L Babinsky/Li(Lecture Theatre 2),06-02-2025,10:00,11:00,Thu,Engineering,IIA,3
+3D8/Geo-Environmental Engineering[3]L Al-Tabbaa/Madabhushi(Lecture Room 5),06-02-2025,10:00,11:00,Thu,Engineering,IIA,3
+3B6/Photonic Technology[3]L Cheng(Lecture Theatre 6),06-02-2025,10:00,11:00,Thu,Engineering,IIA,3
+3B6/Photonic Technology[3]L Penty(Lecture Theatre 6),06-02-2025,10:00,11:00,Thu,Engineering,IIA,3
+3B2/Integrated Digital Electronics[3]L Tang(Lecture Room 4),06-02-2025,12:00,13:00,Thu,Engineering,IIA,3
+3A6/Heat and Mass Transfer[3]L Onn(Lecture Theatre 1),06-02-2025,12:00,13:00,Thu,Engineering,IIA,3
+3B2/Integrated Digital Electronics[3]L Akan/Tang(Lecture Room 4),06-02-2025,12:00,13:00,Thu,Engineering,IIA,3
+3G2/Mathematical Physiology[3]L Kabla/Lengyel(Lecture Room 11),06-02-2025,12:00,13:00,Thu,Engineering,IIA,3
+3M1/Mathematical Methods[3]L Ge_H/Girolami/Wells(Lecture Theatre 2),06-02-2025,14:00,15:00,Thu,Engineering,IIA,3
+3E11/Environmental Sustainability & Business[3]L Reisch(Lecture Room 4),06-02-2025,15:00,17:00,Thu,Engineering,IIA,3
+3E3/Modelling Risk[3]L Herrera Fernandez(Lecture Theatre 1),06-02-2025,15:00,17:00,Thu,Engineering,IIA,3
+3F2/Systems and Control[3]L Sepulchre/Smith_MC(Lecture Theatre 1),07-02-2025,09:00,10:00,Fri,Engineering,IIA,3
+3C9/Fracture Mechanics of Materials and Structures[3]L Deshpande/Fleck(Lecture Room 3),07-02-2025,09:00,10:00,Fri,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[3]L Babinsky/Li(Lecture Theatre 1),07-02-2025,10:00,11:00,Fri,Engineering,IIA,3
+3B6/Photonic Technology[3]L Penty(Lecture Theatre 6),07-02-2025,10:00,11:00,Fri,Engineering,IIA,3
+3D8/Geo-Environmental Engineering[3]L Al-Tabbaa/Madabhushi(Lecture Room 5),07-02-2025,10:00,11:00,Fri,Engineering,IIA,3
+3B6/Photonic Technology[3]L Cheng(Lecture Theatre 6),07-02-2025,10:00,11:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[3]C (),07-02-2025,11:00,13:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[3]C (),07-02-2025,14:00,16:00,Fri,Engineering,IIA,3
+3F8/Inference[3]L Hernandez-Lobato/Turner_RE(Lecture Theatre 1),10-02-2025,09:00,10:00,Mon,Engineering,IIA,3
+3D7/Finite Element Methods[3]L Cirak/Liu(Lecture Room 5),10-02-2025,09:00,10:00,Mon,Engineering,IIA,3
+4M16/Nuclear Power Engineering (shared)[3]L Cosgrove/Shwageraus/Skelton(Lecture Theatre 1),10-02-2025,10:00,11:00,Mon,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[3]L Li(Lecture Room 4),10-02-2025,10:00,11:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[3]L Clark/Jarrett/Scott(Lecture Theatre 2),10-02-2025,11:00,12:00,Mon,Engineering,IIA,3
+3D2/Geotechnical Engineering II[3]L Haigh/Hambleton(Lecture Room 5),10-02-2025,11:00,12:00,Mon,Engineering,IIA,3
+3G4/Medical Imaging and 3-D Computer Graphics[3]L Gee/Treece(Lecture Room 3),10-02-2025,11:00,12:00,Mon,Engineering,IIA,3
+3G3/Introduction to Neuroscience[3]L Hennequin/Lengyel(Lecture Theatre 6),10-02-2025,12:00,13:00,Mon,Engineering,IIA,3
+3D4/Structural Analysis and Stability[3]L Cirak/Seffen(Lecture Room 5),10-02-2025,12:00,13:00,Mon,Engineering,IIA,3
+3B4/Electric Drive Systems[3]L Coombs/Flack(Lecture Room 4),10-02-2025,12:00,13:00,Mon,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[1]L Wells(Lecture Room 4),10-02-2025,17:00,18:00,Mon,Engineering,IIA,3
+3F2/Systems and Control[3]L Smith_MC(Lecture Theatre 2),11-02-2025,09:00,10:00,Tue,Engineering,IIA,3
+3C9/Fracture Mechanics of Materials and Structures[3]L Deshpande/Fleck(Lecture Room 3),11-02-2025,09:00,10:00,Tue,Engineering,IIA,3
+3F4/Data Transmission[3]L Guillen i Fabregas/Sayir(Lecture Theatre 2),11-02-2025,10:00,11:00,Tue,Engineering,IIA,3
+3C5/Dynamics[3]L Hunt_HEM(Lecture Theatre 1),11-02-2025,10:00,11:00,Tue,Engineering,IIA,3
+3B2/Integrated Digital Electronics[3]L Akan/Tang(Lecture Room 4),11-02-2025,11:00,12:00,Tue,Engineering,IIA,3
+3G2/Mathematical Physiology[3]L Kabla/Lengyel(Lecture Room 11),11-02-2025,11:00,12:00,Tue,Engineering,IIA,3
+3A6/Heat and Mass Transfer[3]L Onn(Lecture Theatre 1),11-02-2025,11:00,12:00,Tue,Engineering,IIA,3
+3F8/Inference[3]L Hernandez-Lobato/Turner_RE(Lecture Theatre 1),11-02-2025,12:00,13:00,Tue,Engineering,IIA,3
+3D7/Finite Element Methods[3]L Cirak/Liu(Lecture Room 5),11-02-2025,12:00,13:00,Tue,Engineering,IIA,3
+3G3/Introduction to Neuroscience[3]L Hennequin/Lengyel(Lecture Theatre 6),11-02-2025,14:00,15:00,Tue,Engineering,IIA,3
+3D4/Structural Analysis and Stability[3]L Cirak/Seffen(Lecture Room 5),11-02-2025,14:00,15:00,Tue,Engineering,IIA,3
+3B4/Electric Drive Systems[3]L Coombs/Flack(Lecture Room 4),11-02-2025,14:00,15:00,Tue,Engineering,IIA,3
+3M1/Mathematical Methods[3]L Ge_H/Girolami/Wells(Lecture Theatre 2),11-02-2025,15:00,16:00,Tue,Engineering,IIA,3
+3E10/Operations Management for Engineers[1]L Davies_J(Lecture Theatre 2),11-02-2025,16:00,18:00,Tue,Engineering,IIA,3
+4M16/Nuclear Power Engineering (shared)[3]L Cosgrove/Shwageraus/Skelton(Lecture Theatre 1),12-02-2025,09:00,10:00,Wed,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[2]L Wells(Lecture Room 4),12-02-2025,09:00,10:00,Wed,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[3]L Li(Lecture Room 4),12-02-2025,09:00,10:00,Wed,Engineering,IIA,3
+3F4/Data Transmission[3]L Guillen i Fabregas/Sayir(Lecture Theatre 2),12-02-2025,10:00,11:00,Wed,Engineering,IIA,3
+3C5/Dynamics[3]L Hunt_HEM(Lecture Theatre 1),12-02-2025,10:00,11:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[3]C (),12-02-2025,11:00,13:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[3]C (),12-02-2025,14:00,16:00,Wed,Engineering,IIA,3
+3F2/Systems and Control[1]L Smith_MC(Lecture Theatre 2),12-02-2025,16:00,17:00,Wed,Engineering,IIA,3
+3D2/Geotechnical Engineering II[4]L Haigh/Hambleton(Lecture Room 5),13-02-2025,09:00,10:00,Thu,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[4]L Clark/Jarrett/Scott(Lecture Theatre 2),13-02-2025,09:00,10:00,Thu,Engineering,IIA,3
+3G4/Medical Imaging and 3-D Computer Graphics[4]L Gee/Treece(Lecture Room 3),13-02-2025,09:00,10:00,Thu,Engineering,IIA,3
+3D8/Geo-Environmental Engineering[4]L Al-Tabbaa/Madabhushi(Lecture Room 5),13-02-2025,10:00,11:00,Thu,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[4]L Babinsky/Li(Lecture Theatre 2),13-02-2025,10:00,11:00,Thu,Engineering,IIA,3
+3B6/Photonic Technology[4]L Cheng(Lecture Theatre 6),13-02-2025,10:00,11:00,Thu,Engineering,IIA,3
+3B2/Integrated Digital Electronics[4]L Akan/Tang(Lecture Room 4),13-02-2025,12:00,13:00,Thu,Engineering,IIA,3
+3G2/Mathematical Physiology[4]L Kabla/Lengyel(Lecture Room 11),13-02-2025,12:00,13:00,Thu,Engineering,IIA,3
+3B2/Integrated Digital Electronics[4]L Tang(Lecture Room 4),13-02-2025,12:00,13:00,Thu,Engineering,IIA,3
+3A6/Heat and Mass Transfer[4]L Onn(Lecture Theatre 1),13-02-2025,12:00,13:00,Thu,Engineering,IIA,3
+3M1/Mathematical Methods[4]L Ge_H/Girolami/Wells(Lecture Theatre 2),13-02-2025,14:00,15:00,Thu,Engineering,IIA,3
+3E3/Modelling Risk[4]L Herrera Fernandez(Lecture Theatre 1),13-02-2025,15:00,17:00,Thu,Engineering,IIA,3
+3E11/Environmental Sustainability & Business[4]L Reisch(Lecture Room 4),13-02-2025,15:00,17:00,Thu,Engineering,IIA,3
+3F2/Systems and Control[4]L Sepulchre/Smith_MC(Lecture Theatre 1),14-02-2025,09:00,10:00,Fri,Engineering,IIA,3
+3C9/Fracture Mechanics of Materials and Structures[4]L Deshpande/Fleck(Lecture Room 3),14-02-2025,09:00,10:00,Fri,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[4]L Babinsky/Li(Lecture Theatre 1),14-02-2025,10:00,11:00,Fri,Engineering,IIA,3
+3D8/Geo-Environmental Engineering[4]L Al-Tabbaa/Madabhushi(Lecture Room 5),14-02-2025,10:00,11:00,Fri,Engineering,IIA,3
+3B6/Photonic Technology[4]L Cheng(Lecture Theatre 6),14-02-2025,10:00,11:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[4]C (),14-02-2025,11:00,13:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[4]C (),14-02-2025,14:00,16:00,Fri,Engineering,IIA,3
+3F8/Inference[4]L Hernandez-Lobato/Turner_RE(Lecture Theatre 1),17-02-2025,09:00,10:00,Mon,Engineering,IIA,3
+3D7/Finite Element Methods[4]L Cirak/Liu(Lecture Room 5),17-02-2025,09:00,10:00,Mon,Engineering,IIA,3
+4M16/Nuclear Power Engineering (shared)[4]L Cosgrove/Shwageraus/Skelton(Lecture Theatre 1),17-02-2025,10:00,11:00,Mon,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[4]L Li(Lecture Room 4),17-02-2025,10:00,11:00,Mon,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[1]L Wells(Lecture Room 4),17-02-2025,10:00,11:00,Mon,Engineering,IIA,3
+3G4/Medical Imaging and 3-D Computer Graphics[4]L Gee/Treece(Lecture Room 3),17-02-2025,11:00,12:00,Mon,Engineering,IIA,3
+3D2/Geotechnical Engineering II[4]L Haigh/Hambleton(Lecture Room 5),17-02-2025,11:00,12:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[4]L Clark/Jarrett/Scott(Lecture Theatre 2),17-02-2025,11:00,12:00,Mon,Engineering,IIA,3
+3D4/Structural Analysis and Stability[4]L Cirak/Seffen(Lecture Room 5),17-02-2025,12:00,13:00,Mon,Engineering,IIA,3
+3G3/Introduction to Neuroscience[4]L Hennequin/Lengyel(Lecture Theatre 6),17-02-2025,12:00,13:00,Mon,Engineering,IIA,3
+3B4/Electric Drive Systems[4]L Coombs/Flack(Lecture Room 4),17-02-2025,12:00,13:00,Mon,Engineering,IIA,3
+3E10/Operations Management for Engineers[1]L Davies_J(Lecture Theatre 2),17-02-2025,14:00,16:00,Mon,Engineering,IIA,3
+3B6/Photonic Technology[1]L Penty(Lecture Room 5),17-02-2025,16:00,17:00,Mon,Engineering,IIA,3
+3C9/Fracture Mechanics of Materials and Structures[4]L Deshpande/Fleck(Lecture Room 3),18-02-2025,09:00,10:00,Tue,Engineering,IIA,3
+3F2/Systems and Control[4]L Smith_MC(Lecture Theatre 2),18-02-2025,09:00,10:00,Tue,Engineering,IIA,3
+3F4/Data Transmission[4]L Guillen i Fabregas/Sayir(Lecture Theatre 2),18-02-2025,10:00,11:00,Tue,Engineering,IIA,3
+3C5/Dynamics[4]L Hunt_HEM(Lecture Theatre 1),18-02-2025,10:00,11:00,Tue,Engineering,IIA,3
+3G2/Mathematical Physiology[4]L Kabla/Lengyel(Lecture Room 11),18-02-2025,11:00,12:00,Tue,Engineering,IIA,3
+3B2/Integrated Digital Electronics[4]L Akan/Tang(Lecture Room 4),18-02-2025,11:00,12:00,Tue,Engineering,IIA,3
+3A6/Heat and Mass Transfer[4]L Onn(Lecture Theatre 1),18-02-2025,11:00,12:00,Tue,Engineering,IIA,3
+3D7/Finite Element Methods[4]L Cirak/Liu(Lecture Room 5),18-02-2025,12:00,13:00,Tue,Engineering,IIA,3
+3F8/Inference[4]L Hernandez-Lobato/Turner_RE(Lecture Theatre 1),18-02-2025,12:00,13:00,Tue,Engineering,IIA,3
+3B4/Electric Drive Systems[4]L Coombs/Flack(Lecture Room 4),18-02-2025,14:00,15:00,Tue,Engineering,IIA,3
+3G3/Introduction to Neuroscience[4]L Hennequin/Lengyel(Lecture Theatre 6),18-02-2025,14:00,15:00,Tue,Engineering,IIA,3
+3M1/Mathematical Methods[4]L Ge_H/Girolami/Wells(Lecture Theatre 2),18-02-2025,15:00,16:00,Tue,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[1]L Wells(Lecture Room 4),18-02-2025,16:00,17:00,Tue,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[4]L Li(Lecture Room 4),19-02-2025,09:00,10:00,Wed,Engineering,IIA,3
+4M16/Nuclear Power Engineering (shared)[4]L Cosgrove/Shwageraus/Skelton(Lecture Theatre 1),19-02-2025,09:00,10:00,Wed,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[3]L Wells(Lecture Room 4),19-02-2025,09:00,10:00,Wed,Engineering,IIA,3
+3C5/Dynamics[4]L Hunt_HEM(Lecture Theatre 1),19-02-2025,10:00,11:00,Wed,Engineering,IIA,3
+3F4/Data Transmission[4]L Guillen i Fabregas/Sayir(Lecture Theatre 2),19-02-2025,10:00,11:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[4]C (),19-02-2025,11:00,13:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[4]C (),19-02-2025,14:00,16:00,Wed,Engineering,IIA,3
+3D2/Geotechnical Engineering II[5]L Haigh/Hambleton(Lecture Room 5),20-02-2025,09:00,10:00,Thu,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[5]L Clark/Jarrett/Scott(Lecture Theatre 2),20-02-2025,09:00,10:00,Thu,Engineering,IIA,3
+3G4/Medical Imaging and 3-D Computer Graphics[5]L Gee/Treece(Lecture Room 3),20-02-2025,09:00,10:00,Thu,Engineering,IIA,3
+3D8/Geo-Environmental Engineering[5]L Al-Tabbaa/Madabhushi(Lecture Room 5),20-02-2025,10:00,11:00,Thu,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[5]L Babinsky/Li(Lecture Theatre 2),20-02-2025,10:00,11:00,Thu,Engineering,IIA,3
+3B6/Photonic Technology[1]L Penty(Lecture Theatre 6),20-02-2025,10:00,11:00,Thu,Engineering,IIA,3
+3B6/Photonic Technology[5]L Cheng(Lecture Theatre 6),20-02-2025,10:00,11:00,Thu,Engineering,IIA,3
+3F2/Systems and Control[1]L Sepulchre(Lecture Theatre 1),20-02-2025,11:00,12:00,Thu,Engineering,IIA,3
+3G2/Mathematical Physiology[5]L Kabla/Lengyel(Lecture Room 11),20-02-2025,12:00,13:00,Thu,Engineering,IIA,3
+3B2/Integrated Digital Electronics[1]L Akan/Tang(Lecture Theatre 2),20-02-2025,12:00,13:00,Thu,Engineering,IIA,3
+3B2/Integrated Digital Electronics[5]L Tang(Lecture Room 4),20-02-2025,12:00,13:00,Thu,Engineering,IIA,3
+3A6/Heat and Mass Transfer[5]L Onn(Lecture Theatre 1),20-02-2025,12:00,13:00,Thu,Engineering,IIA,3
+3M1/Mathematical Methods[5]L Ge_H/Girolami/Wells(Lecture Theatre 2),20-02-2025,14:00,15:00,Thu,Engineering,IIA,3
+3E11/Environmental Sustainability & Business[5]L Reisch(Lecture Room 4),20-02-2025,15:00,17:00,Thu,Engineering,IIA,3
+3E3/Modelling Risk[5]L Herrera Fernandez(Lecture Theatre 1),20-02-2025,15:00,17:00,Thu,Engineering,IIA,3
+3E10/Operations Management for Engineers[1]L Davies_J(Lecture Theatre 2),20-02-2025,15:00,17:00,Thu,Engineering,IIA,3
+3F2/Systems and Control[5]L Sepulchre/Smith_MC(Lecture Theatre 1),21-02-2025,09:00,10:00,Fri,Engineering,IIA,3
+3C9/Fracture Mechanics of Materials and Structures[5]L Deshpande/Fleck(Lecture Room 3),21-02-2025,09:00,10:00,Fri,Engineering,IIA,3
+3B6/Photonic Technology[1]L Penty(Lecture Theatre 6),21-02-2025,10:00,11:00,Fri,Engineering,IIA,3
+3B6/Photonic Technology[5]L Cheng(Lecture Theatre 6),21-02-2025,10:00,11:00,Fri,Engineering,IIA,3
+3D8/Geo-Environmental Engineering[5]L Al-Tabbaa/Madabhushi(Lecture Room 5),21-02-2025,10:00,11:00,Fri,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[5]L Babinsky/Li(Lecture Theatre 1),21-02-2025,10:00,11:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[5]C (),21-02-2025,11:00,13:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[5]C (),21-02-2025,14:00,16:00,Fri,Engineering,IIA,3
+3D7/Finite Element Methods[5]L Cirak/Liu(Lecture Room 5),24-02-2025,09:00,10:00,Mon,Engineering,IIA,3
+3F8/Inference[5]L Hernandez-Lobato/Turner_RE(Lecture Theatre 1),24-02-2025,09:00,10:00,Mon,Engineering,IIA,3
+4M16/Nuclear Power Engineering (shared)[5]L Cosgrove/Shwageraus/Skelton(Lecture Theatre 1),24-02-2025,10:00,11:00,Mon,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[5]L Li(Lecture Room 4),24-02-2025,10:00,11:00,Mon,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[2]L Wells(Lecture Room 4),24-02-2025,10:00,11:00,Mon,Engineering,IIA,3
+3G4/Medical Imaging and 3-D Computer Graphics[5]L Gee/Treece(Lecture Room 3),24-02-2025,11:00,12:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[5]L Clark/Jarrett/Scott(Lecture Theatre 2),24-02-2025,11:00,12:00,Mon,Engineering,IIA,3
+3D2/Geotechnical Engineering II[5]L Haigh/Hambleton(Lecture Room 5),24-02-2025,11:00,12:00,Mon,Engineering,IIA,3
+3B4/Electric Drive Systems[5]L Coombs/Flack(Lecture Room 4),24-02-2025,12:00,13:00,Mon,Engineering,IIA,3
+3D4/Structural Analysis and Stability[5]L Cirak/Seffen(Lecture Room 5),24-02-2025,12:00,13:00,Mon,Engineering,IIA,3
+3G3/Introduction to Neuroscience[5]L Hennequin/Lengyel(Lecture Theatre 6),24-02-2025,12:00,13:00,Mon,Engineering,IIA,3
+3E3/Modelling Risk[1]L Herrera Fernandez(Lecture Theatre 1),24-02-2025,14:00,16:00,Mon,Engineering,IIA,3
+3D4/Structural Analysis and Stability[1]L Cirak(Lecture Room 5),24-02-2025,16:00,17:00,Mon,Engineering,IIA,3
+3C9/Fracture Mechanics of Materials and Structures[5]L Deshpande/Fleck(Lecture Room 3),25-02-2025,09:00,10:00,Tue,Engineering,IIA,3
+3F4/Data Transmission[5]L Guillen i Fabregas/Sayir(Lecture Theatre 2),25-02-2025,10:00,11:00,Tue,Engineering,IIA,3
+3C5/Dynamics[5]L Hunt_HEM(Lecture Theatre 1),25-02-2025,10:00,11:00,Tue,Engineering,IIA,3
+3G2/Mathematical Physiology[5]L Kabla/Lengyel(Lecture Room 11),25-02-2025,11:00,12:00,Tue,Engineering,IIA,3
+3B2/Integrated Digital Electronics[5]L Akan/Tang(Lecture Room 4),25-02-2025,11:00,12:00,Tue,Engineering,IIA,3
+3A6/Heat and Mass Transfer[5]L Onn(Lecture Theatre 1),25-02-2025,11:00,12:00,Tue,Engineering,IIA,3
+3D7/Finite Element Methods[5]L Cirak/Liu(Lecture Room 5),25-02-2025,12:00,13:00,Tue,Engineering,IIA,3
+3F8/Inference[5]L Hernandez-Lobato/Turner_RE(Lecture Theatre 1),25-02-2025,12:00,13:00,Tue,Engineering,IIA,3
+3G3/Introduction to Neuroscience[5]L Hennequin/Lengyel(Lecture Theatre 6),25-02-2025,14:00,15:00,Tue,Engineering,IIA,3
+3B4/Electric Drive Systems[5]L Coombs/Flack(Lecture Room 4),25-02-2025,14:00,15:00,Tue,Engineering,IIA,3
+3D4/Structural Analysis and Stability[1]L Cirak/Seffen(Lecture Room 5),25-02-2025,14:00,15:00,Tue,Engineering,IIA,3
+3M1/Mathematical Methods[5]L Ge_H/Girolami/Wells(Lecture Theatre 2),25-02-2025,15:00,16:00,Tue,Engineering,IIA,3
+3E10/Operations Management for Engineers[1]L Davies_J(Lecture Theatre 2),25-02-2025,16:00,18:00,Tue,Engineering,IIA,3
+4M16/Nuclear Power Engineering (shared)[5]L Cosgrove/Shwageraus/Skelton(Lecture Theatre 1),26-02-2025,09:00,10:00,Wed,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[4]L Wells(Lecture Room 4),26-02-2025,09:00,10:00,Wed,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[5]L Li(Lecture Room 4),26-02-2025,09:00,10:00,Wed,Engineering,IIA,3
+3F4/Data Transmission[5]L Guillen i Fabregas/Sayir(Lecture Theatre 2),26-02-2025,10:00,11:00,Wed,Engineering,IIA,3
+3C5/Dynamics[5]L Hunt_HEM(Lecture Theatre 1),26-02-2025,10:00,11:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[5]C (),26-02-2025,11:00,13:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[5]C (),26-02-2025,14:00,16:00,Wed,Engineering,IIA,3
+3F2/Systems and Control[1]L Smith_MC(Lecture Theatre 2),26-02-2025,16:00,17:00,Wed,Engineering,IIA,3
+3D2/Geotechnical Engineering II[6]L Haigh/Hambleton(Lecture Room 5),27-02-2025,09:00,10:00,Thu,Engineering,IIA,3
+3G4/Medical Imaging and 3-D Computer Graphics[6]L Gee/Treece(Lecture Room 3),27-02-2025,09:00,10:00,Thu,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[6]L Clark/Jarrett/Scott(Lecture Theatre 2),27-02-2025,09:00,10:00,Thu,Engineering,IIA,3
+3B6/Photonic Technology[6]L Cheng(Lecture Theatre 6),27-02-2025,10:00,11:00,Thu,Engineering,IIA,3
+3B6/Photonic Technology[2]L Penty(Lecture Theatre 6),27-02-2025,10:00,11:00,Thu,Engineering,IIA,3
+3D8/Geo-Environmental Engineering[6]L Al-Tabbaa/Madabhushi(Lecture Room 5),27-02-2025,10:00,11:00,Thu,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[6]L Babinsky/Li(Lecture Theatre 2),27-02-2025,10:00,11:00,Thu,Engineering,IIA,3
+3F2/Systems and Control[2]L Sepulchre(Lecture Theatre 1),27-02-2025,11:00,12:00,Thu,Engineering,IIA,3
+3A6/Heat and Mass Transfer[6]L Onn(Lecture Theatre 1),27-02-2025,12:00,13:00,Thu,Engineering,IIA,3
+3B2/Integrated Digital Electronics[1]L Akan/Tang(Lecture Room 4),27-02-2025,12:00,13:00,Thu,Engineering,IIA,3
+3B2/Integrated Digital Electronics[6]L Tang(Lecture Room 4),27-02-2025,12:00,13:00,Thu,Engineering,IIA,3
+3G2/Mathematical Physiology[6]L Kabla/Lengyel(Lecture Room 11),27-02-2025,12:00,13:00,Thu,Engineering,IIA,3
+3M1/Mathematical Methods[6]L Ge_H/Girolami/Wells(Lecture Theatre 2),27-02-2025,14:00,15:00,Thu,Engineering,IIA,3
+3E11/Environmental Sustainability & Business[6]L Reisch(Lecture Room 4),27-02-2025,15:00,17:00,Thu,Engineering,IIA,3
+3E3/Modelling Risk[6]L Herrera Fernandez(Lecture Theatre 1),27-02-2025,15:00,17:00,Thu,Engineering,IIA,3
+3C9/Fracture Mechanics of Materials and Structures[6]L Deshpande/Fleck(Lecture Room 3),28-02-2025,09:00,10:00,Fri,Engineering,IIA,3
+3F2/Systems and Control[6]L Sepulchre/Smith_MC(Lecture Theatre 1),28-02-2025,09:00,10:00,Fri,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[6]L Babinsky/Li(Lecture Theatre 1),28-02-2025,10:00,11:00,Fri,Engineering,IIA,3
+3D8/Geo-Environmental Engineering[6]L Al-Tabbaa/Madabhushi(Lecture Room 5),28-02-2025,10:00,11:00,Fri,Engineering,IIA,3
+3B6/Photonic Technology[2]L Penty(Lecture Theatre 6),28-02-2025,10:00,11:00,Fri,Engineering,IIA,3
+3B6/Photonic Technology[6]L Cheng(Lecture Theatre 6),28-02-2025,10:00,11:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[6]C (),28-02-2025,11:00,13:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[6]C (),28-02-2025,14:00,16:00,Fri,Engineering,IIA,3
+3D7/Finite Element Methods[6]L Cirak/Liu(Lecture Room 5),03-03-2025,09:00,10:00,Mon,Engineering,IIA,3
+3F8/Inference[6]L Hernandez-Lobato/Turner_RE(Lecture Theatre 1),03-03-2025,09:00,10:00,Mon,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[3]L Wells(Lecture Room 4),03-03-2025,10:00,11:00,Mon,Engineering,IIA,3
+4M16/Nuclear Power Engineering (shared)[6]L Cosgrove/Shwageraus/Skelton(Lecture Theatre 1),03-03-2025,10:00,11:00,Mon,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[6]L Li(Lecture Room 4),03-03-2025,10:00,11:00,Mon,Engineering,IIA,3
+3G4/Medical Imaging and 3-D Computer Graphics[6]L Gee/Treece(Lecture Room 3),03-03-2025,11:00,12:00,Mon,Engineering,IIA,3
+3D2/Geotechnical Engineering II[6]L Haigh/Hambleton(Lecture Room 5),03-03-2025,11:00,12:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[6]L Clark/Jarrett/Scott(Lecture Theatre 2),03-03-2025,11:00,12:00,Mon,Engineering,IIA,3
+3D4/Structural Analysis and Stability[6]L Cirak/Seffen(Lecture Room 5),03-03-2025,12:00,13:00,Mon,Engineering,IIA,3
+3B4/Electric Drive Systems[6]L Coombs/Flack(Lecture Room 4),03-03-2025,12:00,13:00,Mon,Engineering,IIA,3
+3G3/Introduction to Neuroscience[6]L Hennequin/Lengyel(Lecture Theatre 6),03-03-2025,12:00,13:00,Mon,Engineering,IIA,3
+3E3/Modelling Risk[2]L Herrera Fernandez(Lecture Theatre 1),03-03-2025,14:00,16:00,Mon,Engineering,IIA,3
+3C9/Fracture Mechanics of Materials and Structures[6]L Deshpande/Fleck(Lecture Room 3),04-03-2025,09:00,10:00,Tue,Engineering,IIA,3
+3F4/Data Transmission[6]L Guillen i Fabregas/Sayir(Lecture Theatre 2),04-03-2025,10:00,11:00,Tue,Engineering,IIA,3
+3C5/Dynamics[1]L Cicirello(Lecture Theatre 1),04-03-2025,10:00,11:00,Tue,Engineering,IIA,3
+3B2/Integrated Digital Electronics[6]L Akan/Tang(Lecture Room 4),04-03-2025,11:00,12:00,Tue,Engineering,IIA,3
+3A6/Heat and Mass Transfer[6]L Onn(Lecture Theatre 1),04-03-2025,11:00,12:00,Tue,Engineering,IIA,3
+3G2/Mathematical Physiology[6]L Kabla/Lengyel(Lecture Room 11),04-03-2025,11:00,12:00,Tue,Engineering,IIA,3
+3F8/Inference[6]L Hernandez-Lobato/Turner_RE(Lecture Theatre 1),04-03-2025,12:00,13:00,Tue,Engineering,IIA,3
+3D7/Finite Element Methods[6]L Cirak/Liu(Lecture Room 5),04-03-2025,12:00,13:00,Tue,Engineering,IIA,3
+3B4/Electric Drive Systems[6]L Coombs/Flack(Lecture Room 4),04-03-2025,14:00,15:00,Tue,Engineering,IIA,3
+3D4/Structural Analysis and Stability[2]L Cirak/Seffen(Lecture Room 5),04-03-2025,14:00,15:00,Tue,Engineering,IIA,3
+3G3/Introduction to Neuroscience[6]L Hennequin/Lengyel(Lecture Theatre 6),04-03-2025,14:00,15:00,Tue,Engineering,IIA,3
+3M1/Mathematical Methods[6]L Ge_H/Girolami/Wells(Lecture Theatre 2),04-03-2025,15:00,16:00,Tue,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[6]L Li(Lecture Room 4),05-03-2025,09:00,10:00,Wed,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[5]L Wells(Lecture Room 4),05-03-2025,09:00,10:00,Wed,Engineering,IIA,3
+4M16/Nuclear Power Engineering (shared)[6]L Cosgrove/Shwageraus/Skelton(Lecture Theatre 1),05-03-2025,09:00,10:00,Wed,Engineering,IIA,3
+3F4/Data Transmission[6]L Guillen i Fabregas/Sayir(Lecture Theatre 2),05-03-2025,10:00,11:00,Wed,Engineering,IIA,3
+3C5/Dynamics[1]L Cicirello(Lecture Theatre 1),05-03-2025,10:00,11:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[6]C (),05-03-2025,11:00,13:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[6]C (),05-03-2025,14:00,16:00,Wed,Engineering,IIA,3
+3D2/Geotechnical Engineering II[7]L Haigh/Hambleton(Lecture Room 5),06-03-2025,09:00,10:00,Thu,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[7]L Clark/Jarrett/Scott(Lecture Theatre 2),06-03-2025,09:00,10:00,Thu,Engineering,IIA,3
+3G4/Medical Imaging and 3-D Computer Graphics[7]L Gee/Treece(Lecture Room 3),06-03-2025,09:00,10:00,Thu,Engineering,IIA,3
+3B6/Photonic Technology[3]L Penty(Lecture Theatre 6),06-03-2025,10:00,11:00,Thu,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[7]L Babinsky/Li(Lecture Theatre 2),06-03-2025,10:00,11:00,Thu,Engineering,IIA,3
+3B6/Photonic Technology[7]L Cheng(Lecture Theatre 6),06-03-2025,10:00,11:00,Thu,Engineering,IIA,3
+3D8/Geo-Environmental Engineering[7]L Al-Tabbaa/Madabhushi(Lecture Room 5),06-03-2025,10:00,11:00,Thu,Engineering,IIA,3
+3F2/Systems and Control[3]L Sepulchre(Lecture Theatre 1),06-03-2025,11:00,12:00,Thu,Engineering,IIA,3
+3B2/Integrated Digital Electronics[7]L Tang(Lecture Room 4),06-03-2025,12:00,13:00,Thu,Engineering,IIA,3
+3G2/Mathematical Physiology[7]L Kabla/Lengyel(Lecture Room 11),06-03-2025,12:00,13:00,Thu,Engineering,IIA,3
+3A6/Heat and Mass Transfer[7]L Onn(Lecture Theatre 1),06-03-2025,12:00,13:00,Thu,Engineering,IIA,3
+3B2/Integrated Digital Electronics[2]L Akan/Tang(Lecture Room 4),06-03-2025,12:00,13:00,Thu,Engineering,IIA,3
+3M1/Mathematical Methods[7]L Ge_H/Girolami/Wells(Lecture Theatre 2),06-03-2025,14:00,15:00,Thu,Engineering,IIA,3
+3E3/Modelling Risk[7]L Herrera Fernandez(Lecture Theatre 1),06-03-2025,15:00,17:00,Thu,Engineering,IIA,3
+3E11/Environmental Sustainability & Business[7]L Reisch(Lecture Room 4),06-03-2025,15:00,17:00,Thu,Engineering,IIA,3
+3E10/Operations Management for Engineers[1]L Davies_J(Lecture Theatre 2),06-03-2025,15:00,17:00,Thu,Engineering,IIA,3
+3F2/Systems and Control[7]L Sepulchre/Smith_MC(Lecture Theatre 1),07-03-2025,09:00,10:00,Fri,Engineering,IIA,3
+3C9/Fracture Mechanics of Materials and Structures[7]L Deshpande/Fleck(Lecture Room 3),07-03-2025,09:00,10:00,Fri,Engineering,IIA,3
+3D8/Geo-Environmental Engineering[7]L Al-Tabbaa/Madabhushi(Lecture Room 5),07-03-2025,10:00,11:00,Fri,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[7]L Babinsky/Li(Lecture Theatre 1),07-03-2025,10:00,11:00,Fri,Engineering,IIA,3
+3B6/Photonic Technology[3]L Penty(Lecture Theatre 6),07-03-2025,10:00,11:00,Fri,Engineering,IIA,3
+3B6/Photonic Technology[7]L Cheng(Lecture Theatre 6),07-03-2025,10:00,11:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[7]C (),07-03-2025,11:00,13:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[7]C (),07-03-2025,14:00,16:00,Fri,Engineering,IIA,3
+3D7/Finite Element Methods[7]L Cirak/Liu(Lecture Room 5),10-03-2025,09:00,10:00,Mon,Engineering,IIA,3
+3F8/Inference[7]L Hernandez-Lobato/Turner_RE(Lecture Theatre 1),10-03-2025,09:00,10:00,Mon,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[7]L Li(Lecture Room 4),10-03-2025,10:00,11:00,Mon,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[4]L Wells(Lecture Room 4),10-03-2025,10:00,11:00,Mon,Engineering,IIA,3
+4M16/Nuclear Power Engineering (shared)[7]L Cosgrove/Shwageraus/Skelton(Lecture Theatre 1),10-03-2025,10:00,11:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[7]L Clark/Jarrett/Scott(Lecture Theatre 2),10-03-2025,11:00,12:00,Mon,Engineering,IIA,3
+3D2/Geotechnical Engineering II[7]L Haigh/Hambleton(Lecture Room 5),10-03-2025,11:00,12:00,Mon,Engineering,IIA,3
+3G4/Medical Imaging and 3-D Computer Graphics[7]L Gee/Treece(Lecture Room 3),10-03-2025,11:00,12:00,Mon,Engineering,IIA,3
+3G3/Introduction to Neuroscience[7]L Hennequin/Lengyel(Lecture Theatre 6),10-03-2025,12:00,13:00,Mon,Engineering,IIA,3
+3B4/Electric Drive Systems[7]L Coombs/Flack(Lecture Room 4),10-03-2025,12:00,13:00,Mon,Engineering,IIA,3
+3D4/Structural Analysis and Stability[7]L Cirak/Seffen(Lecture Room 5),10-03-2025,12:00,13:00,Mon,Engineering,IIA,3
+3E10/Operations Management for Engineers[1]L Davies_J(Lecture Theatre 2),10-03-2025,14:00,16:00,Mon,Engineering,IIA,3
+3E3/Modelling Risk[3]L Herrera Fernandez(Lecture Theatre 1),10-03-2025,14:00,16:00,Mon,Engineering,IIA,3
+3C9/Fracture Mechanics of Materials and Structures[7]L Deshpande/Fleck(Lecture Room 3),11-03-2025,09:00,10:00,Tue,Engineering,IIA,3
+3F4/Data Transmission[7]L Guillen i Fabregas/Sayir(Lecture Theatre 2),11-03-2025,10:00,11:00,Tue,Engineering,IIA,3
+3C5/Dynamics[2]L Cicirello(Lecture Theatre 1),11-03-2025,10:00,11:00,Tue,Engineering,IIA,3
+3A6/Heat and Mass Transfer[7]L Onn(Lecture Theatre 1),11-03-2025,11:00,12:00,Tue,Engineering,IIA,3
+3G2/Mathematical Physiology[7]L Kabla/Lengyel(Lecture Room 11),11-03-2025,11:00,12:00,Tue,Engineering,IIA,3
+3B2/Integrated Digital Electronics[7]L Akan/Tang(Lecture Room 4),11-03-2025,11:00,12:00,Tue,Engineering,IIA,3
+3F8/Inference[7]L Hernandez-Lobato/Turner_RE(Lecture Theatre 1),11-03-2025,12:00,13:00,Tue,Engineering,IIA,3
+3D7/Finite Element Methods[7]L Cirak/Liu(Lecture Room 5),11-03-2025,12:00,13:00,Tue,Engineering,IIA,3
+3B4/Electric Drive Systems[7]L Coombs/Flack(Lecture Room 4),11-03-2025,14:00,15:00,Tue,Engineering,IIA,3
+3D4/Structural Analysis and Stability[3]L Cirak/Seffen(Lecture Room 5),11-03-2025,14:00,15:00,Tue,Engineering,IIA,3
+3G3/Introduction to Neuroscience[7]L Hennequin/Lengyel(Lecture Theatre 6),11-03-2025,14:00,15:00,Tue,Engineering,IIA,3
+3M1/Mathematical Methods[7]L Ge_H/Girolami/Wells(Lecture Theatre 2),11-03-2025,15:00,16:00,Tue,Engineering,IIA,3
+4M16/Nuclear Power Engineering (shared)[7]L Cosgrove/Shwageraus/Skelton(Lecture Theatre 1),12-03-2025,09:00,10:00,Wed,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[6]L Wells(Lecture Room 4),12-03-2025,09:00,10:00,Wed,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[7]L Li(Lecture Room 4),12-03-2025,09:00,10:00,Wed,Engineering,IIA,3
+3C5/Dynamics[2]L Cicirello(Lecture Theatre 1),12-03-2025,10:00,11:00,Wed,Engineering,IIA,3
+3F4/Data Transmission[7]L Guillen i Fabregas/Sayir(Lecture Theatre 2),12-03-2025,10:00,11:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[7]C (),12-03-2025,11:00,13:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[7]C (),12-03-2025,14:00,16:00,Wed,Engineering,IIA,3
+3C9/Fracture Mechanics of Materials and Structures[1]L Deshpande/Fleck(Lecture Room 3),12-03-2025,16:00,17:00,Wed,Engineering,IIA,3
+3G4/Medical Imaging and 3-D Computer Graphics[8]L Gee/Treece(Lecture Room 3),13-03-2025,09:00,10:00,Thu,Engineering,IIA,3
+3D2/Geotechnical Engineering II[8]L Haigh/Hambleton(Lecture Room 5),13-03-2025,09:00,10:00,Thu,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[8]L Clark/Jarrett/Scott(Lecture Theatre 2),13-03-2025,09:00,10:00,Thu,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[8]L Babinsky/Li(Lecture Theatre 2),13-03-2025,10:00,11:00,Thu,Engineering,IIA,3
+3D8/Geo-Environmental Engineering[8]L Al-Tabbaa/Madabhushi(Lecture Room 5),13-03-2025,10:00,11:00,Thu,Engineering,IIA,3
+3B6/Photonic Technology[8]L Cheng(Lecture Theatre 6),13-03-2025,10:00,11:00,Thu,Engineering,IIA,3
+3B6/Photonic Technology[4]L Penty(Lecture Theatre 6),13-03-2025,10:00,11:00,Thu,Engineering,IIA,3
+3F2/Systems and Control[4]L Sepulchre(Lecture Theatre 1),13-03-2025,11:00,12:00,Thu,Engineering,IIA,3
+3B2/Integrated Digital Electronics[3]L Akan/Tang(Lecture Room 4),13-03-2025,12:00,13:00,Thu,Engineering,IIA,3
+3B2/Integrated Digital Electronics[8]L Tang(Lecture Room 4),13-03-2025,12:00,13:00,Thu,Engineering,IIA,3
+3A6/Heat and Mass Transfer[8]L Onn(Lecture Theatre 1),13-03-2025,12:00,13:00,Thu,Engineering,IIA,3
+3G2/Mathematical Physiology[8]L Kabla/Lengyel(Lecture Room 11),13-03-2025,12:00,13:00,Thu,Engineering,IIA,3
+3M1/Mathematical Methods[8]L Ge_H/Girolami/Wells(Lecture Theatre 2),13-03-2025,14:00,15:00,Thu,Engineering,IIA,3
+3E3/Modelling Risk[8]L Herrera Fernandez(Lecture Theatre 1),13-03-2025,15:00,17:00,Thu,Engineering,IIA,3
+3E11/Environmental Sustainability & Business[8]L Reisch(Lecture Room 4),13-03-2025,15:00,17:00,Thu,Engineering,IIA,3
+3E10/Operations Management for Engineers[2]L Davies_J(Lecture Theatre 2),13-03-2025,15:00,17:00,Thu,Engineering,IIA,3
+3C9/Fracture Mechanics of Materials and Structures[8]L Deshpande/Fleck(Lecture Room 3),14-03-2025,09:00,10:00,Fri,Engineering,IIA,3
+3F2/Systems and Control[8]L Sepulchre/Smith_MC(Lecture Theatre 1),14-03-2025,09:00,10:00,Fri,Engineering,IIA,3
+3A1/Fluid Mechanics I (double module)[8]L Babinsky/Li(Lecture Theatre 1),14-03-2025,10:00,11:00,Fri,Engineering,IIA,3
+3B6/Photonic Technology[8]L Cheng(Lecture Theatre 6),14-03-2025,10:00,11:00,Fri,Engineering,IIA,3
+3B6/Photonic Technology[4]L Penty(Lecture Theatre 6),14-03-2025,10:00,11:00,Fri,Engineering,IIA,3
+3D8/Geo-Environmental Engineering[8]L Al-Tabbaa/Madabhushi(Lecture Room 5),14-03-2025,10:00,11:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[8]C (),14-03-2025,11:00,13:00,Fri,Engineering,IIA,3
+3CW/IIA Labs/coursework[8]C (),14-03-2025,14:00,16:00,Fri,Engineering,IIA,3
+3F8/Inference[8]L Hernandez-Lobato/Turner_RE(Lecture Theatre 1),17-03-2025,09:00,10:00,Mon,Engineering,IIA,3
+3D7/Finite Element Methods[8]L Cirak/Liu(Lecture Room 5),17-03-2025,09:00,10:00,Mon,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[8]L Li(Lecture Room 4),17-03-2025,10:00,11:00,Mon,Engineering,IIA,3
+4M16/Nuclear Power Engineering (shared)[8]L Cosgrove/Shwageraus/Skelton(Lecture Theatre 1),17-03-2025,10:00,11:00,Mon,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[5]L Wells(Lecture Room 4),17-03-2025,10:00,11:00,Mon,Engineering,IIA,3
+3D2/Geotechnical Engineering II[8]L Haigh/Hambleton(Lecture Room 5),17-03-2025,11:00,12:00,Mon,Engineering,IIA,3
+3A3/Fluid Mechanics II (double module)[8]L Clark/Jarrett/Scott(Lecture Theatre 2),17-03-2025,11:00,12:00,Mon,Engineering,IIA,3
+3G4/Medical Imaging and 3-D Computer Graphics[8]L Gee/Treece(Lecture Room 3),17-03-2025,11:00,12:00,Mon,Engineering,IIA,3
+3B4/Electric Drive Systems[8]L Coombs/Flack(Lecture Room 4),17-03-2025,12:00,13:00,Mon,Engineering,IIA,3
+3G3/Introduction to Neuroscience[8]L Hennequin/Lengyel(Lecture Theatre 6),17-03-2025,12:00,13:00,Mon,Engineering,IIA,3
+3D4/Structural Analysis and Stability[8]L Cirak/Seffen(Lecture Room 5),17-03-2025,12:00,13:00,Mon,Engineering,IIA,3
+3CW/IIA Labs/coursework[1]L Gee(Constance Tipper),17-03-2025,13:30,14:00,Mon,Engineering,IIA,3
+3E10/Operations Management for Engineers[1]L Davies_J(Lecture Theatre 2),17-03-2025,14:00,16:00,Mon,Engineering,IIA,3
+3C5/Dynamics[3]L Cicirello(Lecture Theatre 1),18-03-2025,10:00,11:00,Tue,Engineering,IIA,3
+3F4/Data Transmission[8]L Guillen i Fabregas/Sayir(Lecture Theatre 2),18-03-2025,10:00,11:00,Tue,Engineering,IIA,3
+3B2/Integrated Digital Electronics[8]L Akan/Tang(Lecture Room 4),18-03-2025,11:00,12:00,Tue,Engineering,IIA,3
+3G2/Mathematical Physiology[8]L Kabla/Lengyel(Lecture Room 11),18-03-2025,11:00,12:00,Tue,Engineering,IIA,3
+3A6/Heat and Mass Transfer[8]L Onn(Lecture Theatre 1),18-03-2025,11:00,12:00,Tue,Engineering,IIA,3
+3F8/Inference[8]L Hernandez-Lobato/Turner_RE(Lecture Theatre 1),18-03-2025,12:00,13:00,Tue,Engineering,IIA,3
+3D7/Finite Element Methods[8]L Cirak/Liu(Lecture Room 5),18-03-2025,12:00,13:00,Tue,Engineering,IIA,3
+3B4/Electric Drive Systems[8]L Coombs/Flack(Lecture Room 4),18-03-2025,14:00,15:00,Tue,Engineering,IIA,3
+3D4/Structural Analysis and Stability[4]L Cirak/Seffen(Lecture Room 5),18-03-2025,14:00,15:00,Tue,Engineering,IIA,3
+3G3/Introduction to Neuroscience[8]L Hennequin/Lengyel(Lecture Theatre 6),18-03-2025,14:00,15:00,Tue,Engineering,IIA,3
+3M1/Mathematical Methods[8]L Ge_H/Girolami/Wells(Lecture Theatre 2),18-03-2025,15:00,16:00,Tue,Engineering,IIA,3
+3E10/Operations Management for Engineers[1]L Davies_J(Lecture Theatre 2),18-03-2025,16:00,18:00,Tue,Engineering,IIA,3
+4M16/Nuclear Power Engineering (shared)[8]L Cosgrove/Shwageraus/Skelton(Lecture Theatre 1),19-03-2025,09:00,10:00,Wed,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[8]L Li(Lecture Room 4),19-03-2025,09:00,10:00,Wed,Engineering,IIA,3
+4M12/Partial Differential Equations and Variational Methods (shared)[7]L Wells(Lecture Room 4),19-03-2025,09:00,10:00,Wed,Engineering,IIA,3
+3F4/Data Transmission[8]L Guillen i Fabregas/Sayir(Lecture Theatre 2),19-03-2025,10:00,11:00,Wed,Engineering,IIA,3
+3C5/Dynamics[3]L Cicirello(Lecture Theatre 1),19-03-2025,10:00,11:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[8]C (),19-03-2025,11:00,13:00,Wed,Engineering,IIA,3
+3CW/IIA Labs/coursework[8]C (),19-03-2025,14:00,16:00,Wed,Engineering,IIA,3

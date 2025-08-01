@@ -1,0 +1,202 @@
+course,module,date,week_day,start_time,end_time,part,year
+Compsci,Foundations of Computer Science,11-10-2024,Fri,10:00,11:00,IA,1
+Compsci,Digital Electronics,11-10-2024,Fri,11:00,12:00,IA,1
+Compsci,Foundations of Computer Science,14-10-2024,Mon,10:00,11:00,IA,1
+Compsci,Digital Electronics,14-10-2024,Mon,11:00,12:00,IA,1
+Compsci,Databases,15-10-2024,Tue,11:00,12:00,IA,1
+Compsci,Foundations of Computer Science,16-10-2024,Wed,10:00,11:00,IA,1
+Compsci,Digital Electronics,16-10-2024,Wed,11:00,12:00,IA,1
+Compsci,Foundations of Computer Science,18-10-2024,Fri,10:00,11:00,IA,1
+Compsci,Digital Electronics,18-10-2024,Fri,11:00,12:00,IA,1
+Compsci,Foundations of Computer Science,21-10-2024,Mon,10:00,11:00,IA,1
+Compsci,Digital Electronics,21-10-2024,Mon,11:00,12:00,IA,1
+Compsci,Databases,22-10-2024,Tue,11:00,12:00,IA,1
+Compsci,Foundations of Computer Science,23-10-2024,Wed,10:00,11:00,IA,1
+Compsci,Digital Electronics,23-10-2024,Wed,11:00,12:00,IA,1
+Compsci,Lovelace Group,24-10-2024,Thu,12:30,15:30,IA,1
+Compsci,OCaml Practicals,24-10-2024,Thu,13:00,16:00,IA,1
+Compsci,Part 1A Library Induction,24-10-2024,Thu,14:00,15:00,IA,1
+Compsci,Foundations of Computer Science,25-10-2024,Fri,10:00,11:00,IA,1
+Compsci,Digital Electronics,25-10-2024,Fri,11:00,12:00,IA,1
+Compsci,Foundations of Computer Science,28-10-2024,Mon,10:00,11:00,IA,1
+Compsci,Digital Electronics,28-10-2024,Mon,11:00,12:00,IA,1
+Compsci,Hardware Practical Babbage Group,28-10-2024,Mon,12:30,15:30,IA,1
+Compsci,Databases,29-10-2024,Tue,11:00,12:00,IA,1
+Compsci,Foundations of Computer Science,30-10-2024,Wed,10:00,11:00,IA,1
+Compsci,Digital Electronics,30-10-2024,Wed,11:00,12:00,IA,1
+Compsci,Hardware Practical Turing Group,31-10-2024,Thu,12:30,15:30,IA,1
+Compsci,OCaml Practicals,31-10-2024,Thu,13:00,16:00,IA,1
+Compsci,Foundations of Computer Science,01-11-2024,Fri,10:00,11:00,IA,1
+Compsci,Digital Electronics,01-11-2024,Fri,11:00,12:00,IA,1
+Compsci,Foundations of Computer Science,04-11-2024,Mon,10:00,11:00,IA,1
+Compsci,Digital Electronics,04-11-2024,Mon,11:00,12:00,IA,1
+Compsci,Hardware Practical Wilkes Group,04-11-2024,Mon,12:30,15:30,IA,1
+Compsci,Databases,05-11-2024,Tue,11:00,12:00,IA,1
+Compsci,Foundations of Computer Science,06-11-2024,Wed,10:00,11:00,IA,1
+Compsci,Digital Electronics,06-11-2024,Wed,11:00,12:00,IA,1
+Compsci,Introduction to Graphics,07-11-2024,Thu,11:00,12:00,IA,1
+Compsci,Hardware Practical Conway Group,07-11-2024,Thu,12:30,15:30,IA,1
+Compsci,OCaml Practicals,07-11-2024,Thu,13:00,16:00,IA,1
+Compsci,Discrete Maths,08-11-2024,Fri,10:00,11:00,IA,1
+Compsci,Object-Oriented Programming,08-11-2024,Fri,11:00,12:00,IA,1
+Compsci,Discrete Maths,11-11-2024,Mon,10:00,11:00,IA,1
+Compsci,Object-Oriented Programming,11-11-2024,Mon,11:00,12:00,IA,1
+Compsci,Hardware Practical Torvalds Group,11-11-2024,Mon,12:30,15:30,IA,1
+Compsci,Introduction to Graphics,12-11-2024,Tue,11:00,12:00,IA,1
+Compsci,Databases,12-11-2024,Tue,13:00,14:00,IA,1
+Compsci,Discrete Maths,13-11-2024,Wed,10:00,11:00,IA,1
+Compsci,Object-Oriented Programming,13-11-2024,Wed,11:00,12:00,IA,1
+Compsci,Introduction to Graphics,14-11-2024,Thu,11:00,12:00,IA,1
+Compsci,Lovelace Group,14-11-2024,Thu,12:30,15:30,IA,1
+Compsci,OCaml Practicals,14-11-2024,Thu,13:00,16:00,IA,1
+Compsci,Databases Tick and Help Sessions,14-11-2024,Thu,15:00,16:00,IA,1
+Compsci,Discrete Maths,15-11-2024,Fri,10:00,11:00,IA,1
+Compsci,Object-Oriented Programming,15-11-2024,Fri,11:00,12:00,IA,1
+Compsci,TBC Introduction to Graphics - Ticking help session,15-11-2024,Fri,14:00,16:00,IA,1
+Compsci,Discrete Maths,18-11-2024,Mon,10:00,11:00,IA,1
+Compsci,Object-Oriented Programming,18-11-2024,Mon,11:00,12:00,IA,1
+Compsci,Hardware Practical Babbage Group,18-11-2024,Mon,12:30,15:30,IA,1
+Compsci,Introduction to Graphics,19-11-2024,Tue,11:00,12:00,IA,1
+Compsci,Databases,19-11-2024,Tue,13:00,14:00,IA,1
+Compsci,Discrete Maths,20-11-2024,Wed,10:00,11:00,IA,1
+Compsci,Object-Oriented Programming,20-11-2024,Wed,11:00,12:00,IA,1
+Compsci,Introduction to Graphics,21-11-2024,Thu,11:00,12:00,IA,1
+Compsci,Hardware Practical Turing Group,21-11-2024,Thu,12:30,15:30,IA,1
+Compsci,OCaml Practicals,21-11-2024,Thu,13:00,16:00,IA,1
+Compsci,Discrete Maths,22-11-2024,Fri,10:00,11:00,IA,1
+Compsci,Object-Oriented Programming,22-11-2024,Fri,11:00,12:00,IA,1
+Compsci,TBC Introduction to Graphics - Ticking session,22-11-2024,Fri,15:00,17:00,IA,1
+Compsci,Discrete Maths,25-11-2024,Mon,10:00,11:00,IA,1
+Compsci,Object-Oriented Programming,25-11-2024,Mon,11:00,12:00,IA,1
+Compsci,Hardware Practical Wilkes Group,25-11-2024,Mon,12:30,15:30,IA,1
+Compsci,Introduction to Graphics,26-11-2024,Tue,11:00,12:00,IA,1
+Compsci,Databases,26-11-2024,Tue,13:00,14:00,IA,1
+Compsci,Discrete Maths,27-11-2024,Wed,10:00,11:00,IA,1
+Compsci,Object-Oriented Programming,27-11-2024,Wed,11:00,12:00,IA,1
+Compsci,Introduction to Graphics,28-11-2024,Thu,11:00,12:00,IA,1
+Compsci,Hardware Practical Conway Group,28-11-2024,Thu,12:30,15:30,IA,1
+Compsci,OCaml Practicals,28-11-2024,Thu,13:00,16:00,IA,1
+Compsci,Databases Tick and Help Sessions,28-11-2024,Thu,15:00,16:00,IA,1
+Compsci,Scientific Computing Practical Course Briefing,28-11-2024,Thu,16:00,17:00,IA,1
+Compsci,Discrete Maths,29-11-2024,Fri,10:00,11:00,IA,1
+Compsci,Object-Oriented Programming,29-11-2024,Fri,11:00,12:00,IA,1
+Compsci,Discrete Maths,02-12-2024,Mon,10:00,11:00,IA,1
+Compsci,Object-Oriented Programming,02-12-2024,Mon,11:00,12:00,IA,1
+Compsci,Hardware Practical Torvalds Group,02-12-2024,Mon,12:30,15:30,IA,1
+Compsci,Introduction to Graphics,03-12-2024,Tue,11:00,12:00,IA,1
+Compsci,Databases,03-12-2024,Tue,13:00,14:00,IA,1
+Compsci,Discrete Maths,04-12-2024,Wed,10:00,11:00,IA,1
+Compsci,Object-Oriented Programming,04-12-2024,Wed,11:00,12:00,IA,1
+Compsci,Lovelace Group,23-01-2025,Thu,12:00,16:00,IA,1
+Compsci,Scientific Computing,23-01-2025,Thu,13:00,13:30,IA,1
+Compsci,Scientific Computing Help Session,23-01-2025,Thu,13:30,15:00,IA,1
+Compsci,Algorithms 1,24-01-2025,Fri,10:00,11:00,IA,1
+Compsci,Discrete Maths,24-01-2025,Fri,11:00,12:00,IA,1
+Compsci,Machine Learning and Real-world Data,24-01-2025,Fri,14:00,15:00,IA,1
+Compsci,Algorithms 1,27-01-2025,Mon,10:00,11:00,IA,1
+Compsci,Discrete Maths,27-01-2025,Mon,11:00,12:00,IA,1
+Compsci,Hardware Practical Babbage Group,28-01-2025,Tue,10:00,14:00,IA,1
+Compsci,Algorithms 1,29-01-2025,Wed,10:00,11:00,IA,1
+Compsci,Discrete Maths,29-01-2025,Wed,11:00,12:00,IA,1
+Compsci,Scientific Computing Help Session,29-01-2025,Wed,13:30,15:00,IA,1
+Compsci,Hardware Practical Turing Group,30-01-2025,Thu,12:00,16:00,IA,1
+Compsci,Algorithms 1,31-01-2025,Fri,10:00,11:00,IA,1
+Compsci,Discrete Maths,31-01-2025,Fri,11:00,12:00,IA,1
+Compsci,Scientific Computing Help Session,31-01-2025,Fri,12:00,13:30,IA,1
+Compsci,Machine Learning and Real-world Data,31-01-2025,Fri,14:00,15:00,IA,1
+Compsci,Algorithms 1,03-02-2025,Mon,10:00,11:00,IA,1
+Compsci,Discrete Maths,03-02-2025,Mon,11:00,12:00,IA,1
+Compsci,Hardware Practical Wilkes Group,04-02-2025,Tue,10:00,14:00,IA,1
+Compsci,Algorithms 1,05-02-2025,Wed,10:00,11:00,IA,1
+Compsci,Discrete Maths,05-02-2025,Wed,11:00,12:00,IA,1
+Compsci,Hardware Practical Conway Group,06-02-2025,Thu,12:00,16:00,IA,1
+Compsci,Algorithms 1,07-02-2025,Fri,10:00,11:00,IA,1
+Compsci,Discrete Maths,07-02-2025,Fri,11:00,12:00,IA,1
+Compsci,Machine Learning and Real-world Data,07-02-2025,Fri,14:00,15:00,IA,1
+Compsci,Algorithms 1,10-02-2025,Mon,10:00,11:00,IA,1
+Compsci,Discrete Maths,10-02-2025,Mon,11:00,12:00,IA,1
+Compsci,Hardware Practical Torvalds Group,11-02-2025,Tue,10:00,14:00,IA,1
+Compsci,Algorithms 1,12-02-2025,Wed,10:00,11:00,IA,1
+Compsci,Discrete Maths,12-02-2025,Wed,11:00,12:00,IA,1
+Compsci,Lovelace Group,13-02-2025,Thu,12:00,16:00,IA,1
+Compsci,Algorithms 1,14-02-2025,Fri,10:00,11:00,IA,1
+Compsci,Discrete Maths,14-02-2025,Fri,11:00,12:00,IA,1
+Compsci,Machine Learning and Real-world Data,14-02-2025,Fri,14:00,15:00,IA,1
+Compsci,Algorithms 1,17-02-2025,Mon,10:00,11:00,IA,1
+Compsci,Discrete Maths,17-02-2025,Mon,11:00,12:00,IA,1
+Compsci,Hardware Practical Babbage Group,18-02-2025,Tue,10:00,14:00,IA,1
+Compsci,Algorithms 1,19-02-2025,Wed,10:00,11:00,IA,1
+Compsci,Discrete Maths,19-02-2025,Wed,11:00,12:00,IA,1
+Compsci,Hardware Practical Turing Group,20-02-2025,Thu,12:00,16:00,IA,1
+Compsci,Algorithms 2,21-02-2025,Fri,10:00,11:00,IA,1
+Compsci,Operating Systems,21-02-2025,Fri,11:00,12:00,IA,1
+Compsci,Machine Learning and Real-world Data,21-02-2025,Fri,14:00,15:00,IA,1
+Compsci,Algorithms 2,24-02-2025,Mon,10:00,11:00,IA,1
+Compsci,Operating Systems,24-02-2025,Mon,11:00,12:00,IA,1
+Compsci,Hardware Practical Wilkes Group,25-02-2025,Tue,10:00,14:00,IA,1
+Compsci,Algorithms 2,26-02-2025,Wed,10:00,11:00,IA,1
+Compsci,Operating Systems,26-02-2025,Wed,11:00,12:00,IA,1
+Compsci,Hardware Practical Conway Group,27-02-2025,Thu,12:00,16:00,IA,1
+Compsci,Algorithms 2,28-02-2025,Fri,10:00,11:00,IA,1
+Compsci,Operating Systems,28-02-2025,Fri,11:00,12:00,IA,1
+Compsci,Machine Learning and Real-world Data,28-02-2025,Fri,14:00,15:00,IA,1
+Compsci,Algorithms 2,03-03-2025,Mon,10:00,11:00,IA,1
+Compsci,Operating Systems,03-03-2025,Mon,11:00,12:00,IA,1
+Compsci,Hardware Practical Torvalds Group,04-03-2025,Tue,10:00,14:00,IA,1
+Compsci,Algorithms 2,05-03-2025,Wed,10:00,11:00,IA,1
+Compsci,Operating Systems,05-03-2025,Wed,11:00,12:00,IA,1
+Compsci,Algorithms 2,07-03-2025,Fri,10:00,11:00,IA,1
+Compsci,Operating Systems,07-03-2025,Fri,11:00,12:00,IA,1
+Compsci,Machine Learning and Real-world Data,07-03-2025,Fri,14:00,15:00,IA,1
+Compsci,Algorithms 2,10-03-2025,Mon,10:00,11:00,IA,1
+Compsci,Operating Systems,10-03-2025,Mon,11:00,12:00,IA,1
+Compsci,Algorithms 2,12-03-2025,Wed,10:00,11:00,IA,1
+Compsci,Operating Systems,12-03-2025,Wed,11:00,12:00,IA,1
+Compsci,Algorithms 2,14-03-2025,Fri,10:00,11:00,IA,1
+Compsci,Operating Systems,14-03-2025,Fri,11:00,12:00,IA,1
+Compsci,Machine Learning and Real-world Data,14-03-2025,Fri,14:00,15:00,IA,1
+Compsci,Algorithms 2,17-03-2025,Mon,10:00,11:00,IA,1
+Compsci,Operating Systems,17-03-2025,Mon,11:00,12:00,IA,1
+Compsci,Algorithms 2,19-03-2025,Wed,10:00,11:00,IA,1
+Compsci,Operating Systems,19-03-2025,Wed,11:00,12:00,IA,1
+Compsci,Interaction Design,01-05-2025,Thu,11:00,12:00,IA,1
+Compsci,Interaction Design Practicals,01-05-2025,Thu,14:00,16:00,IA,1
+Compsci,Introduction to Probability,02-05-2025,Fri,10:00,11:00,IA,1
+Compsci,Software and Security Engineering,02-05-2025,Fri,11:00,12:00,IA,1
+Compsci,Introduction to Probability,05-05-2025,Mon,10:00,11:00,IA,1
+Compsci,Software and Security Engineering,05-05-2025,Mon,11:00,12:00,IA,1
+Compsci,Interaction Design,06-05-2025,Tue,11:00,12:00,IA,1
+Compsci,Interaction Design Practicals,06-05-2025,Tue,14:00,16:00,IA,1
+Compsci,Introduction to Probability,07-05-2025,Wed,10:00,11:00,IA,1
+Compsci,Software and Security Engineering,07-05-2025,Wed,11:00,12:00,IA,1
+Compsci,Interaction Design,08-05-2025,Thu,11:00,12:00,IA,1
+Compsci,Interaction Design Practicals,08-05-2025,Thu,14:00,16:00,IA,1
+Compsci,Introduction to Probability,09-05-2025,Fri,10:00,11:00,IA,1
+Compsci,Software and Security Engineering,09-05-2025,Fri,11:00,12:00,IA,1
+Compsci,Introduction to Probability,12-05-2025,Mon,10:00,11:00,IA,1
+Compsci,Software and Security Engineering,12-05-2025,Mon,11:00,12:00,IA,1
+Compsci,Interaction Design,13-05-2025,Tue,11:00,12:00,IA,1
+Compsci,Interaction Design Practicals,13-05-2025,Tue,14:00,16:00,IA,1
+Compsci,Introduction to Probability,14-05-2025,Wed,10:00,11:00,IA,1
+Compsci,Software and Security Engineering,14-05-2025,Wed,11:00,12:00,IA,1
+Compsci,Interaction Design,15-05-2025,Thu,11:00,12:00,IA,1
+Compsci,Interaction Design Practicals,15-05-2025,Thu,14:00,16:00,IA,1
+Compsci,Introduction to Probability,16-05-2025,Fri,10:00,11:00,IA,1
+Compsci,Software and Security Engineering,16-05-2025,Fri,11:00,12:00,IA,1
+Compsci,Introduction to Probability,19-05-2025,Mon,10:00,11:00,IA,1
+Compsci,Software and Security Engineering,19-05-2025,Mon,11:00,12:00,IA,1
+Compsci,Interaction Design,20-05-2025,Tue,11:00,12:00,IA,1
+Compsci,Interaction Design Practicals,20-05-2025,Tue,14:00,16:00,IA,1
+Compsci,Introduction to Probability,21-05-2025,Wed,10:00,11:00,IA,1
+Compsci,Software and Security Engineering,21-05-2025,Wed,11:00,12:00,IA,1
+Compsci,Part IA Examination lecture,21-05-2025,Wed,12:00,13:00,IA,1
+Compsci,Interaction Design,22-05-2025,Thu,11:00,12:00,IA,1
+Compsci,Interaction Design Practicals,22-05-2025,Thu,14:00,16:00,IA,1
+Compsci,Introduction to Probability,23-05-2025,Fri,10:00,11:00,IA,1
+Compsci,Software and Security Engineering,23-05-2025,Fri,11:00,12:00,IA,1
+Compsci,Introduction to Probability,26-05-2025,Mon,10:00,11:00,IA,1
+Compsci,No Lecture Interaction Design,27-05-2025,Tue,11:00,12:00,IA,1
+Compsci,Interaction Design Practicals Ticking Session,27-05-2025,Tue,14:00,16:00,IA,1
+Compsci,Introduction to Probability,28-05-2025,Wed,10:00,11:00,IA,1
+Compsci,Software and Security Engineering,28-05-2025,Wed,11:00,12:00,IA,1
+Compsci,Interaction Design Student Group Presentations,29-05-2025,Thu,11:00,12:00,IA,1

@@ -1,0 +1,389 @@
+course,module,date,week_day,start_time,end_time,part,year
+Compsci,LaTeX and Julia,10-10-2024,Thu,9:00,10:00,II,3
+Compsci,Category Theory (Part II Module),10-10-2024,Thu,9:00,11:00,II,3
+Compsci,Principles of Communications,10-10-2024,Thu,11:00,12:00,II,3
+Compsci,Natural Language Processing (Part II Module),11-10-2024,Fri,10:00,11:00,II,3
+Compsci,Types,11-10-2024,Fri,11:00,12:00,II,3
+Compsci,Digital Signal Processing (Part II Module),11-10-2024,Fri,14:00,15:00,II,3
+Compsci,Natural Language Processing (Part II Module),14-10-2024,Mon,10:00,11:00,II,3
+Compsci,Types,14-10-2024,Mon,11:00,12:00,II,3
+Compsci,Category Theory Practicals (Part II Module),14-10-2024,Mon,14:00,15:00,II,3
+Compsci,Digital Signal Processing (Part II Module),14-10-2024,Mon,14:00,15:00,II,3
+Compsci,LaTeX and Julia,15-10-2024,Tue,9:00,10:00,II,3
+Compsci,Principles of Communications,15-10-2024,Tue,11:00,12:00,II,3
+Compsci,Affective Artificial Intelligence (Part II Module),15-10-2024,Tue,13:00,15:00,II,3
+Compsci,Human-centred AI (Part II Module),15-10-2024,Tue,15:00,17:00,II,3
+Compsci,Natural Language Processing (Part II Module),16-10-2024,Wed,10:00,11:00,II,3
+Compsci,Types,16-10-2024,Wed,11:00,12:00,II,3
+Compsci,Digital Signal Processing (Part II Module),16-10-2024,Wed,14:00,15:00,II,3
+Compsci,Machine Vision Perception (Part II Module),16-10-2024,Wed,15:00,17:00,II,3
+Compsci,Category Theory (Part II Module),17-10-2024,Thu,9:00,11:00,II,3
+Compsci,Principles of Communications,17-10-2024,Thu,11:00,12:00,II,3
+Compsci,Natural Language Processing (Part II Module),18-10-2024,Fri,10:00,11:00,II,3
+Compsci,Types,18-10-2024,Fri,11:00,12:00,II,3
+Compsci,Digital Signal Processing (Part II Module),18-10-2024,Fri,14:00,15:00,II,3
+Compsci,Natural Language Processing (Part II Module),21-10-2024,Mon,10:00,11:00,II,3
+Compsci,Types,21-10-2024,Mon,11:00,12:00,II,3
+Compsci,Category Theory Practicals (Part II Module),21-10-2024,Mon,14:00,15:00,II,3
+Compsci,Digital Signal Processing (Part II Module),21-10-2024,Mon,14:00,15:00,II,3
+Compsci,Principles of Communications,22-10-2024,Tue,11:00,12:00,II,3
+Compsci,Bioinformatics,22-10-2024,Tue,12:00,13:00,II,3
+Compsci,Affective Artificial Intelligence (Part II Module),22-10-2024,Tue,13:00,15:00,II,3
+Compsci,Human-centred AI (Part II Module),22-10-2024,Tue,15:00,17:00,II,3
+Compsci,Natural Language Processing (Part II Module),23-10-2024,Wed,10:00,11:00,II,3
+Compsci,Types,23-10-2024,Wed,11:00,12:00,II,3
+Compsci,Digital Signal Processing (Part II Module),23-10-2024,Wed,14:00,15:00,II,3
+Compsci,Natural Language Processing Practicals (Part II Module),23-10-2024,Wed,15:00,17:00,II,3
+Compsci,Machine Vision Perception (Part II Module),23-10-2024,Wed,15:00,17:00,II,3
+Compsci,Category Theory (Part II Module),24-10-2024,Thu,9:00,11:00,II,3
+Compsci,Principles of Communications,24-10-2024,Thu,11:00,12:00,II,3
+Compsci,Bioinformatics,24-10-2024,Thu,12:00,13:00,II,3
+Compsci,Natural Language Processing (Part II Module),25-10-2024,Fri,10:00,11:00,II,3
+Compsci,Types,25-10-2024,Fri,11:00,12:00,II,3
+Compsci,Digital Signal Processing (Part II Module),25-10-2024,Fri,14:00,15:00,II,3
+Compsci,Natural Language Processing (Part II Module),28-10-2024,Mon,10:00,11:00,II,3
+Compsci,Types,28-10-2024,Mon,11:00,12:00,II,3
+Compsci,Category Theory Practicals (Part II Module),28-10-2024,Mon,14:00,15:00,II,3
+Compsci,Digital Signal Processing (Part II Module),28-10-2024,Mon,14:00,15:00,II,3
+Compsci,Principles of Communications,29-10-2024,Tue,11:00,12:00,II,3
+Compsci,Bioinformatics,29-10-2024,Tue,12:00,13:00,II,3
+Compsci,Affective Artificial Intelligence (Part II Module),29-10-2024,Tue,13:00,15:00,II,3
+Compsci,Human-centred AI (Part II Module),29-10-2024,Tue,15:00,17:00,II,3
+Compsci,Denotational Semantics,30-10-2024,Wed,9:00,10:00,II,3
+Compsci,Natural Language Processing (Part II Module),30-10-2024,Wed,10:00,11:00,II,3
+Compsci,Types,30-10-2024,Wed,11:00,12:00,II,3
+Compsci,Digital Signal Processing (Part II Module),30-10-2024,Wed,14:00,15:00,II,3
+Compsci,Natural Language Processing Practicals (Part II Module),30-10-2024,Wed,15:00,17:00,II,3
+Compsci,Machine Vision Perception (Part II Module),30-10-2024,Wed,15:00,17:00,II,3
+Compsci,Machine Vision Perception Practicals (Part II Module),30-10-2024,Wed,17:00,18:00,II,3
+Compsci,Category Theory (Part II Module),31-10-2024,Thu,9:00,11:00,II,3
+Compsci,Principles of Communications,31-10-2024,Thu,11:00,12:00,II,3
+Compsci,Bioinformatics,31-10-2024,Thu,12:00,13:00,II,3
+Compsci,Denotational Semantics,01-11-2024,Fri,9:00,10:00,II,3
+Compsci,Natural Language Processing (Part II Module),01-11-2024,Fri,10:00,11:00,II,3
+Compsci,Advanced Data Science,01-11-2024,Fri,10:00,11:00,II,3
+Compsci,Types,01-11-2024,Fri,11:00,12:00,II,3
+Compsci,Digital Signal Processing (Part II Module),01-11-2024,Fri,14:00,15:00,II,3
+Compsci,Literature Searching with the Librarians,01-11-2024,Fri,15:00,16:00,II,3
+Compsci,Natural Language Processing (Part II Module),04-11-2024,Mon,10:00,11:00,II,3
+Compsci,Advanced Data Science,04-11-2024,Mon,10:00,11:00,II,3
+Compsci,Types,04-11-2024,Mon,11:00,12:00,II,3
+Compsci,Category Theory Practicals (Part II Module),04-11-2024,Mon,14:00,15:00,II,3
+Compsci,Digital Signal Processing (Part II Module),04-11-2024,Mon,14:00,15:00,II,3
+Compsci,Principles of Communications,05-11-2024,Tue,11:00,12:00,II,3
+Compsci,Bioinformatics,05-11-2024,Tue,12:00,13:00,II,3
+Compsci,Affective Artificial Intelligence (Part II Module),05-11-2024,Tue,13:00,15:00,II,3
+Compsci,Advanced Data Science Practicals (Part II Module),05-11-2024,Tue,15:00,16:00,II,3
+Compsci,Human-centred AI (Part II Module),05-11-2024,Tue,15:00,17:00,II,3
+Compsci,Denotational Semantics,06-11-2024,Wed,9:00,10:00,II,3
+Compsci,Natural Language Processing (Part II Module),06-11-2024,Wed,10:00,11:00,II,3
+Compsci,Advanced Data Science,06-11-2024,Wed,10:00,11:00,II,3
+Compsci,Types,06-11-2024,Wed,11:00,12:00,II,3
+Compsci,Digital Signal Processing (Part II Module),06-11-2024,Wed,14:00,15:00,II,3
+Compsci,Machine Vision Perception (Part II Module),06-11-2024,Wed,15:00,17:00,II,3
+Compsci,Machine Vision Perception Practicals (Part II Module),06-11-2024,Wed,17:00,18:00,II,3
+Compsci,Category Theory (Part II Module),07-11-2024,Thu,9:00,11:00,II,3
+Compsci,Principles of Communications,07-11-2024,Thu,11:00,12:00,II,3
+Compsci,Bioinformatics,07-11-2024,Thu,12:00,13:00,II,3
+Compsci,Advanced Data Science Practicals (Part II Module),07-11-2024,Thu,15:00,16:00,II,3
+Compsci,Denotational Semantics,08-11-2024,Fri,9:00,10:00,II,3
+Compsci,Advanced Data Science,08-11-2024,Fri,10:00,11:00,II,3
+Compsci,Information Theory,08-11-2024,Fri,13:00,14:00,II,3
+Compsci,Digital Signal Processing (Part II Module),08-11-2024,Fri,14:00,15:00,II,3
+Compsci,Advanced Data Science,11-11-2024,Mon,10:00,11:00,II,3
+Compsci,Business Studies,11-11-2024,Mon,11:00,12:00,II,3
+Compsci,Information Theory,11-11-2024,Mon,13:00,14:00,II,3
+Compsci,Category Theory Practicals (Part II Module),11-11-2024,Mon,14:00,15:00,II,3
+Compsci,Digital Signal Processing (Part II Module),11-11-2024,Mon,14:00,15:00,II,3
+Compsci,Principles of Communications,12-11-2024,Tue,11:00,12:00,II,3
+Compsci,Bioinformatics,12-11-2024,Tue,12:00,13:00,II,3
+Compsci,Affective Artificial Intelligence (Part II Module),12-11-2024,Tue,13:00,15:00,II,3
+Compsci,Advanced Data Science Practicals (Part II Module),12-11-2024,Tue,15:00,16:00,II,3
+Compsci,Human-centred AI (Part II Module),12-11-2024,Tue,15:00,17:00,II,3
+Compsci,Denotational Semantics,13-11-2024,Wed,9:00,10:00,II,3
+Compsci,Advanced Data Science,13-11-2024,Wed,10:00,11:00,II,3
+Compsci,Business Studies,13-11-2024,Wed,11:00,12:00,II,3
+Compsci,Information Theory,13-11-2024,Wed,13:00,14:00,II,3
+Compsci,Digital Signal Processing (Part II Module),13-11-2024,Wed,14:00,15:00,II,3
+Compsci,Natural Language Processing Practicals (Part II Module),13-11-2024,Wed,15:00,17:00,II,3
+Compsci,Machine Vision Perception (Part II Module),13-11-2024,Wed,15:00,18:00,II,3
+Compsci,Category Theory (Part II Module),14-11-2024,Thu,9:00,11:00,II,3
+Compsci,Principles of Communications,14-11-2024,Thu,11:00,12:00,II,3
+Compsci,Bioinformatics,14-11-2024,Thu,12:00,13:00,II,3
+Compsci,Denotational Semantics,15-11-2024,Fri,9:00,10:00,II,3
+Compsci,Advanced Data Science,15-11-2024,Fri,10:00,11:00,II,3
+Compsci,Information Theory,15-11-2024,Fri,13:00,14:00,II,3
+Compsci,Digital Signal Processing (Part II Module),15-11-2024,Fri,14:00,15:00,II,3
+Compsci,Advanced Data Science,18-11-2024,Mon,10:00,11:00,II,3
+Compsci,Business Studies,18-11-2024,Mon,11:00,12:00,II,3
+Compsci,Information Theory,18-11-2024,Mon,13:00,14:00,II,3
+Compsci,Category Theory Practicals (Part II Module),18-11-2024,Mon,14:00,15:00,II,3
+Compsci,Cancelled: PhD how to apply information Q&A,18-11-2024,Mon,14:00,15:00,II,3
+Compsci,Digital Signal Processing Q&A (Part II Module),18-11-2024,Mon,14:00,15:00,II,3
+Compsci,Principles of Communications,19-11-2024,Tue,11:00,12:00,II,3
+Compsci,Bioinformatics,19-11-2024,Tue,12:00,13:00,II,3
+Compsci,Affective Artificial Intelligence (Part II Module),19-11-2024,Tue,13:00,15:00,II,3
+Compsci,Advanced Data Science Practicals (Part II Module),19-11-2024,Tue,15:00,16:00,II,3
+Compsci,Human-centred AI (Part II Module),19-11-2024,Tue,15:00,17:00,II,3
+Compsci,Denotational Semantics,20-11-2024,Wed,9:00,10:00,II,3
+Compsci,Advanced Data Science,20-11-2024,Wed,10:00,11:00,II,3
+Compsci,Business Studies,20-11-2024,Wed,11:00,12:00,II,3
+Compsci,Information Theory,20-11-2024,Wed,13:00,14:00,II,3
+Compsci,Machine Vision Perception (Part II Module),20-11-2024,Wed,15:00,18:00,II,3
+Compsci,Category Theory (Part II Module),21-11-2024,Thu,9:00,11:00,II,3
+Compsci,Principles of Communications,21-11-2024,Thu,11:00,12:00,II,3
+Compsci,Bioinformatics,21-11-2024,Thu,12:00,13:00,II,3
+Compsci,Advanced Data Science Practicals (Part II Module),21-11-2024,Thu,15:00,16:00,II,3
+Compsci,Denotational Semantics,22-11-2024,Fri,9:00,10:00,II,3
+Compsci,Advanced Data Science,22-11-2024,Fri,10:00,11:00,II,3
+Compsci,Information Theory,22-11-2024,Fri,13:00,14:00,II,3
+Compsci,Digital Signal Processing (Part II Module),22-11-2024,Fri,14:00,15:00,II,3
+Compsci,Business Studies,25-11-2024,Mon,11:00,12:00,II,3
+Compsci,Information Theory,25-11-2024,Mon,13:00,14:00,II,3
+Compsci,Category Theory Practicals (Part II Module),25-11-2024,Mon,14:00,15:00,II,3
+Compsci,Principles of Communications,26-11-2024,Tue,11:00,12:00,II,3
+Compsci,Bioinformatics,26-11-2024,Tue,12:00,13:00,II,3
+Compsci,Affective Artificial Intelligence (Part II Module),26-11-2024,Tue,13:00,15:00,II,3
+Compsci,Human-centred AI (Part II Module),26-11-2024,Tue,15:00,17:00,II,3
+Compsci,Denotational Semantics,27-11-2024,Wed,9:00,10:00,II,3
+Compsci,Business Studies,27-11-2024,Wed,11:00,12:00,II,3
+Compsci,Information Theory,27-11-2024,Wed,13:00,14:00,II,3
+Compsci,Category Theory (Part II Module),28-11-2024,Thu,9:00,11:00,II,3
+Compsci,Principles of Communications,28-11-2024,Thu,11:00,12:00,II,3
+Compsci,Bioinformatics,28-11-2024,Thu,12:00,13:00,II,3
+Compsci,Denotational Semantics,29-11-2024,Fri,9:00,10:00,II,3
+Compsci,Information Theory,29-11-2024,Fri,13:00,14:00,II,3
+Compsci,Business Studies,02-12-2024,Mon,11:00,12:00,II,3
+Compsci,Information Theory,02-12-2024,Mon,13:00,14:00,II,3
+Compsci,Category Theory Practicals (Part II Module),02-12-2024,Mon,14:00,16:00,II,3
+Compsci,Principles of Communications,03-12-2024,Tue,11:00,12:00,II,3
+Compsci,Affective Artificial Intelligence (Part II Module),03-12-2024,Tue,13:00,15:00,II,3
+Compsci,Advanced Data Science Practicals (Part II Module),03-12-2024,Tue,15:00,16:00,II,3
+Compsci,Human-centred AI (Part II Module),03-12-2024,Tue,15:00,17:00,II,3
+Compsci,Business Studies,04-12-2024,Wed,11:00,12:00,II,3
+Compsci,Information Theory,04-12-2024,Wed,13:00,14:00,II,3
+Compsci,Quantum Computing,23-01-2025,Thu,9:00,10:00,II,3
+Compsci,Computer Systems Modelling (Part II Module),23-01-2025,Thu,10:00,11:00,II,3
+Compsci,Machine Learning and Bayesian Inference,23-01-2025,Thu,11:00,12:00,II,3
+Compsci,Mobile Health (Part II Module),23-01-2025,Thu,14:00,15:00,II,3
+Compsci,Extended Reality (Part II Module),23-01-2025,Thu,14:00,15:00,II,3
+Compsci,Optimising Compilers,24-01-2025,Fri,10:00,11:00,II,3
+Compsci,Cryptography,24-01-2025,Fri,11:00,12:00,II,3
+Compsci,Advanced Computer Architecture,24-01-2025,Fri,12:00,13:00,II,3
+Compsci,Cloud Computing (Part II Module),24-01-2025,Fri,13:00,14:00,II,3
+Compsci,Multicore Semantics and Programming (Part II Module),24-01-2025,Fri,14:00,16:00,II,3
+Compsci,Optimising Compilers,27-01-2025,Mon,10:00,11:00,II,3
+Compsci,Cryptography,27-01-2025,Mon,11:00,12:00,II,3
+Compsci,Advanced Computer Architecture,27-01-2025,Mon,12:00,13:00,II,3
+Compsci,Cloud Computing (Part II Module),27-01-2025,Mon,13:00,14:00,II,3
+Compsci,CANCELLED Part II Presentation Skills with the Librarians,27-01-2025,Mon,14:00,15:00,II,3
+Compsci,Computing Education,27-01-2025,Mon,14:00,16:00,II,3
+Compsci,Quantum Computing,28-01-2025,Tue,9:00,10:00,II,3
+Compsci,Computer Systems Modelling (Part II Module),28-01-2025,Tue,10:00,11:00,II,3
+Compsci,Machine Learning and Bayesian Inference,28-01-2025,Tue,11:00,12:00,II,3
+Compsci,Mobile Health (Part II Module),28-01-2025,Tue,14:00,15:00,II,3
+Compsci,Extended Reality (Part II Module),28-01-2025,Tue,14:00,15:00,II,3
+Compsci,Deep Neural Networks (Part II Module),28-01-2025,Tue,14:00,15:00,II,3
+Compsci,Federated Learning (Part II Module),28-01-2025,Tue,16:00,17:00,II,3
+Compsci,Optimising Compilers,29-01-2025,Wed,10:00,11:00,II,3
+Compsci,Cryptography,29-01-2025,Wed,11:00,12:00,II,3
+Compsci,Advanced Computer Architecture,29-01-2025,Wed,12:00,13:00,II,3
+Compsci,Cloud Computing (Part II Module),29-01-2025,Wed,13:00,14:00,II,3
+Compsci,Quantum Computing,30-01-2025,Thu,9:00,10:00,II,3
+Compsci,Computer Systems Modelling (Part II Module),30-01-2025,Thu,10:00,11:00,II,3
+Compsci,Machine Learning and Bayesian Inference,30-01-2025,Thu,11:00,12:00,II,3
+Compsci,Mobile Health (Part II Module),30-01-2025,Thu,14:00,15:00,II,3
+Compsci,Extended Reality (Part II Module),30-01-2025,Thu,14:00,15:00,II,3
+Compsci,Deep Neural Networks (Part II Module),30-01-2025,Thu,14:00,15:00,II,3
+Compsci,Federated Learning (Part II Module),30-01-2025,Thu,16:00,17:00,II,3
+Compsci,Optimising Compilers,31-01-2025,Fri,10:00,11:00,II,3
+Compsci,Cryptography,31-01-2025,Fri,11:00,12:00,II,3
+Compsci,Advanced Computer Architecture,31-01-2025,Fri,12:00,13:00,II,3
+Compsci,Cloud Computing (Part II Module),31-01-2025,Fri,13:00,14:00,II,3
+Compsci,Multicore Semantics and Programming (Part II Module),31-01-2025,Fri,14:00,16:00,II,3
+Compsci,Optimising Compilers,03-02-2025,Mon,10:00,11:00,II,3
+Compsci,Cryptography,03-02-2025,Mon,11:00,12:00,II,3
+Compsci,Advanced Computer Architecture,03-02-2025,Mon,12:00,13:00,II,3
+Compsci,Cloud Computing (Part II Module),03-02-2025,Mon,13:00,14:00,II,3
+Compsci,Quantum Computing,04-02-2025,Tue,9:00,10:00,II,3
+Compsci,Computer Systems Modelling (Part II Module),04-02-2025,Tue,10:00,11:00,II,3
+Compsci,Machine Learning and Bayesian Inference,04-02-2025,Tue,11:00,12:00,II,3
+Compsci,Mobile Health (Part II Module),04-02-2025,Tue,14:00,15:00,II,3
+Compsci,Extended Reality (Part II Module),04-02-2025,Tue,14:00,15:00,II,3
+Compsci,Deep Neural Networks (Part II Module),04-02-2025,Tue,14:00,15:00,II,3
+Compsci,Federated Learning Practicals (Part II Module),04-02-2025,Tue,15:00,16:00,II,3
+Compsci,Federated Learning (Part II Module),04-02-2025,Tue,16:00,17:00,II,3
+Compsci,Optimising Compilers,05-02-2025,Wed,10:00,11:00,II,3
+Compsci,Cryptography,05-02-2025,Wed,11:00,12:00,II,3
+Compsci,Advanced Computer Architecture,05-02-2025,Wed,12:00,13:00,II,3
+Compsci,Cloud Computing (Part II Module),05-02-2025,Wed,13:00,14:00,II,3
+Compsci,Quantum Computing,06-02-2025,Thu,9:00,10:00,II,3
+Compsci,Computer Systems Modelling (Part II Module),06-02-2025,Thu,10:00,11:00,II,3
+Compsci,Machine Learning and Bayesian Inference,06-02-2025,Thu,11:00,12:00,II,3
+Compsci,Mobile Health (Part II Module),06-02-2025,Thu,14:00,15:00,II,3
+Compsci,Extended Reality (Part II Module),06-02-2025,Thu,14:00,15:00,II,3
+Compsci,Deep Neural Networks (Part II Module),06-02-2025,Thu,14:00,15:00,II,3
+Compsci,Federated Learning (Part II Module),06-02-2025,Thu,16:00,17:00,II,3
+Compsci,Optimising Compilers,07-02-2025,Fri,10:00,11:00,II,3
+Compsci,Cryptography,07-02-2025,Fri,11:00,12:00,II,3
+Compsci,Advanced Computer Architecture,07-02-2025,Fri,12:00,13:00,II,3
+Compsci,Cloud Computing (Part II Module),07-02-2025,Fri,13:00,14:00,II,3
+Compsci,Multicore Semantics and Programming (Part II Module),07-02-2025,Fri,14:00,16:00,II,3
+Compsci,Randomised Algorithms,10-02-2025,Mon,9:00,10:00,II,3
+Compsci,Optimising Compilers,10-02-2025,Mon,10:00,11:00,II,3
+Compsci,Cryptography,10-02-2025,Mon,11:00,12:00,II,3
+Compsci,Advanced Computer Architecture,10-02-2025,Mon,12:00,13:00,II,3
+Compsci,Cloud Computing (Part II Module),10-02-2025,Mon,13:00,14:00,II,3
+Compsci,Quantum Computing,11-02-2025,Tue,9:00,10:00,II,3
+Compsci,Computer Systems Modelling (Part II Module),11-02-2025,Tue,10:00,11:00,II,3
+Compsci,Machine Learning and Bayesian Inference,11-02-2025,Tue,11:00,12:00,II,3
+Compsci,Mobile Health (Part II Module),11-02-2025,Tue,14:00,15:00,II,3
+Compsci,Extended Reality (Part II Module),11-02-2025,Tue,14:00,15:00,II,3
+Compsci,Deep Neural Networks (Part II Module),11-02-2025,Tue,14:00,15:00,II,3
+Compsci,Federated Learning Practicals (Part II Module),11-02-2025,Tue,15:00,16:00,II,3
+Compsci,Federated Learning (Part II Module),11-02-2025,Tue,16:00,17:00,II,3
+Compsci,Randomised Algorithms,12-02-2025,Wed,9:00,10:00,II,3
+Compsci,Optimising Compilers,12-02-2025,Wed,10:00,11:00,II,3
+Compsci,Cryptography,12-02-2025,Wed,11:00,12:00,II,3
+Compsci,Advanced Computer Architecture,12-02-2025,Wed,12:00,13:00,II,3
+Compsci,Cloud Computing (Part II Module),12-02-2025,Wed,13:00,14:00,II,3
+Compsci,Quantum Computing,13-02-2025,Thu,9:00,10:00,II,3
+Compsci,Computer Systems Modelling (Part II Module),13-02-2025,Thu,10:00,11:00,II,3
+Compsci,Machine Learning and Bayesian Inference,13-02-2025,Thu,11:00,12:00,II,3
+Compsci,Mobile Health (Part II Module),13-02-2025,Thu,14:00,15:00,II,3
+Compsci,Extended Reality (Part II Module),13-02-2025,Thu,14:00,15:00,II,3
+Compsci,Deep Neural Networks (Part II Module),13-02-2025,Thu,14:00,15:00,II,3
+Compsci,Mobile Health Practicals (Part II Module),13-02-2025,Thu,15:00,17:00,II,3
+Compsci,Federated Learning (Part II Module),13-02-2025,Thu,16:00,17:00,II,3
+Compsci,Randomised Algorithms,14-02-2025,Fri,9:00,10:00,II,3
+Compsci,Optimising Compilers,14-02-2025,Fri,10:00,11:00,II,3
+Compsci,Cryptography,14-02-2025,Fri,11:00,12:00,II,3
+Compsci,Advanced Computer Architecture,14-02-2025,Fri,12:00,13:00,II,3
+Compsci,Cloud Computing (Part II Module),14-02-2025,Fri,13:00,14:00,II,3
+Compsci,Multicore Semantics and Programming (Part II Module),14-02-2025,Fri,14:00,16:00,II,3
+Compsci,Randomised Algorithms,17-02-2025,Mon,9:00,10:00,II,3
+Compsci,Optimising Compilers,17-02-2025,Mon,10:00,11:00,II,3
+Compsci,Cryptography,17-02-2025,Mon,11:00,12:00,II,3
+Compsci,Advanced Computer Architecture,17-02-2025,Mon,12:00,13:00,II,3
+Compsci,Cloud Computing (Part II Module),17-02-2025,Mon,13:00,14:00,II,3
+Compsci,Computing Education,17-02-2025,Mon,14:00,16:00,II,3
+Compsci,Quantum Computing,18-02-2025,Tue,9:00,10:00,II,3
+Compsci,Computer Systems Modelling (Part II Module),18-02-2025,Tue,10:00,11:00,II,3
+Compsci,Machine Learning and Bayesian Inference,18-02-2025,Tue,11:00,12:00,II,3
+Compsci,Mobile Health (Part II Module),18-02-2025,Tue,14:00,15:00,II,3
+Compsci,Extended Reality (Part II Module),18-02-2025,Tue,14:00,15:00,II,3
+Compsci,Deep Neural Networks (Part II Module),18-02-2025,Tue,14:00,15:00,II,3
+Compsci,Federated Learning Practicals (Part II Module),18-02-2025,Tue,15:00,16:00,II,3
+Compsci,Federated Learning (Part II Module),18-02-2025,Tue,16:00,17:00,II,3
+Compsci,Randomised Algorithms,19-02-2025,Wed,9:00,10:00,II,3
+Compsci,Optimising Compilers,19-02-2025,Wed,10:00,11:00,II,3
+Compsci,Cryptography,19-02-2025,Wed,11:00,12:00,II,3
+Compsci,Advanced Computer Architecture,19-02-2025,Wed,12:00,13:00,II,3
+Compsci,Cloud Computing (Part II Module),19-02-2025,Wed,13:00,14:00,II,3
+Compsci,Quantum Computing,20-02-2025,Thu,9:00,10:00,II,3
+Compsci,Computer Systems Modelling (Part II Module),20-02-2025,Thu,10:00,11:00,II,3
+Compsci,Machine Learning and Bayesian Inference,20-02-2025,Thu,11:00,12:00,II,3
+Compsci,Mobile Health (Part II Module),20-02-2025,Thu,14:00,15:00,II,3
+Compsci,Extended Reality (Part II Module),20-02-2025,Thu,14:00,15:00,II,3
+Compsci,Deep Neural Networks (Part II Module),20-02-2025,Thu,14:00,15:00,II,3
+Compsci,Federated Learning (Part II Module),20-02-2025,Thu,16:00,17:00,II,3
+Compsci,Randomised Algorithms,21-02-2025,Fri,9:00,10:00,II,3
+Compsci,Optimising Compilers,21-02-2025,Fri,10:00,11:00,II,3
+Compsci,Cryptography,21-02-2025,Fri,11:00,12:00,II,3
+Compsci,Advanced Computer Architecture,21-02-2025,Fri,12:00,13:00,II,3
+Compsci,Cloud Computing (Part II Module),21-02-2025,Fri,13:00,14:00,II,3
+Compsci,Multicore Semantics and Programming (Part II Module),21-02-2025,Fri,14:00,16:00,II,3
+Compsci,Randomised Algorithms,24-02-2025,Mon,9:00,10:00,II,3
+Compsci,Optimising Compilers,24-02-2025,Mon,10:00,11:00,II,3
+Compsci,Cryptography,24-02-2025,Mon,11:00,12:00,II,3
+Compsci,Advanced Computer Architecture,24-02-2025,Mon,12:00,13:00,II,3
+Compsci,Cloud Computing (Part II Module),24-02-2025,Mon,13:00,14:00,II,3
+Compsci,Quantum Computing,25-02-2025,Tue,9:00,10:00,II,3
+Compsci,Computer Systems Modelling (Part II Module),25-02-2025,Tue,10:00,11:00,II,3
+Compsci,Machine Learning and Bayesian Inference,25-02-2025,Tue,11:00,12:00,II,3
+Compsci,Mobile Health (Part II Module),25-02-2025,Tue,14:00,15:00,II,3
+Compsci,Extended Reality (Part II Module),25-02-2025,Tue,14:00,15:00,II,3
+Compsci,Deep Neural Networks (Part II Module),25-02-2025,Tue,14:00,15:00,II,3
+Compsci,Federated Learning Practicals (Part II Module),25-02-2025,Tue,15:00,16:00,II,3
+Compsci,Federated Learning (Part II Module),25-02-2025,Tue,16:00,17:00,II,3
+Compsci,Randomised Algorithms,26-02-2025,Wed,9:00,10:00,II,3
+Compsci,Optimising Compilers,26-02-2025,Wed,10:00,11:00,II,3
+Compsci,Cryptography,26-02-2025,Wed,11:00,12:00,II,3
+Compsci,Advanced Computer Architecture,26-02-2025,Wed,12:00,13:00,II,3
+Compsci,Quantum Computing,27-02-2025,Thu,9:00,10:00,II,3
+Compsci,Computer Systems Modelling (In person test),27-02-2025,Thu,10:00,11:00,II,3
+Compsci,Machine Learning and Bayesian Inference,27-02-2025,Thu,11:00,12:00,II,3
+Compsci,Mobile Health (Part II Module),27-02-2025,Thu,14:00,15:00,II,3
+Compsci,Extended Reality (Part II Module),27-02-2025,Thu,14:00,15:00,II,3
+Compsci,Deep Neural Networks (Part II Module),27-02-2025,Thu,14:00,15:00,II,3
+Compsci,Mobile Health Practicals (Part II Module),27-02-2025,Thu,15:00,17:00,II,3
+Compsci,Federated Learning (Part II Module),27-02-2025,Thu,16:00,17:00,II,3
+Compsci,Randomised Algorithms,28-02-2025,Fri,9:00,10:00,II,3
+Compsci,Optimising Compilers,28-02-2025,Fri,10:00,11:00,II,3
+Compsci,Cryptography,28-02-2025,Fri,11:00,12:00,II,3
+Compsci,Advanced Computer Architecture,28-02-2025,Fri,12:00,13:00,II,3
+Compsci,Multicore Semantics and Programming (Part II Module),28-02-2025,Fri,14:00,16:00,II,3
+Compsci,Randomised Algorithms,03-03-2025,Mon,9:00,10:00,II,3
+Compsci,E-Commerce,03-03-2025,Mon,11:00,12:00,II,3
+Compsci,Quantum Computing,04-03-2025,Tue,9:00,10:00,II,3
+Compsci,Computer Systems Modelling (Part II Module),04-03-2025,Tue,10:00,11:00,II,3
+Compsci,Machine Learning and Bayesian Inference,04-03-2025,Tue,11:00,12:00,II,3
+Compsci,Mobile Health (Part II Module),04-03-2025,Tue,14:00,15:00,II,3
+Compsci,Extended Reality (Part II Module),04-03-2025,Tue,14:00,15:00,II,3
+Compsci,Deep Neural Networks (Part II Module),04-03-2025,Tue,14:00,15:00,II,3
+Compsci,Federated Learning (Part II Module),04-03-2025,Tue,16:00,17:00,II,3
+Compsci,Randomised Algorithms,05-03-2025,Wed,9:00,10:00,II,3
+Compsci,E-Commerce,05-03-2025,Wed,11:00,12:00,II,3
+Compsci,Quantum Computing,06-03-2025,Thu,9:00,10:00,II,3
+Compsci,Computer Systems Modelling (Part II Module),06-03-2025,Thu,10:00,11:00,II,3
+Compsci,Machine Learning and Bayesian Inference,06-03-2025,Thu,11:00,12:00,II,3
+Compsci,Mobile Health (Part II Module),06-03-2025,Thu,14:00,15:00,II,3
+Compsci,Extended Reality (Part II Module),06-03-2025,Thu,14:00,15:00,II,3
+Compsci,Deep Neural Networks (Part II Module),06-03-2025,Thu,14:00,15:00,II,3
+Compsci,Federated Learning (Part II Module),06-03-2025,Thu,16:00,17:00,II,3
+Compsci,Randomised Algorithms,07-03-2025,Fri,9:00,10:00,II,3
+Compsci,E-Commerce,07-03-2025,Fri,11:00,12:00,II,3
+Compsci,Multicore Semantics and Programming (Part II Module),07-03-2025,Fri,14:00,16:00,II,3
+Compsci,E-Commerce,10-03-2025,Mon,11:00,12:00,II,3
+Compsci,Quantum Computing,11-03-2025,Tue,9:00,10:00,II,3
+Compsci,Computer Systems Modelling (Part II Module),11-03-2025,Tue,10:00,11:00,II,3
+Compsci,Machine Learning and Bayesian Inference,11-03-2025,Tue,11:00,12:00,II,3
+Compsci,Mobile Health (Part II Module),11-03-2025,Tue,14:00,15:00,II,3
+Compsci,Extended Reality (Part II Module),11-03-2025,Tue,14:00,15:00,II,3
+Compsci,Deep Neural Networks (Part II Module),11-03-2025,Tue,14:00,15:00,II,3
+Compsci,E-Commerce,12-03-2025,Wed,11:00,12:00,II,3
+Compsci,Quantum Computing,13-03-2025,Thu,9:00,10:00,II,3
+Compsci,Computer Systems Modelling (Part II Module),13-03-2025,Thu,10:00,11:00,II,3
+Compsci,Machine Learning and Bayesian Inference,13-03-2025,Thu,11:00,12:00,II,3
+Compsci,Part II Project - How to write a dissertation,13-03-2025,Thu,12:00,13:00,II,3
+Compsci,Extended Reality (Part II Module),13-03-2025,Thu,14:00,15:00,II,3
+Compsci,Deep Neural Networks (Part II Module),13-03-2025,Thu,14:00,15:00,II,3
+Compsci,E-Commerce,14-03-2025,Fri,11:00,12:00,II,3
+Compsci,Multicore Semantics and Programming (Part II Module),14-03-2025,Fri,14:00,16:00,II,3
+Compsci,E-Commerce,17-03-2025,Mon,11:00,12:00,II,3
+Compsci,Computing Education,17-03-2025,Mon,14:00,16:00,II,3
+Compsci,Quantum Computing,18-03-2025,Tue,9:00,10:00,II,3
+Compsci,Computer Systems Modelling (Part II Module),18-03-2025,Tue,10:00,11:00,II,3
+Compsci,Machine Learning and Bayesian Inference,18-03-2025,Tue,11:00,12:00,II,3
+Compsci,Extended Reality (Part II Module),18-03-2025,Tue,14:00,15:00,II,3
+Compsci,E-Commerce,19-03-2025,Wed,11:00,12:00,II,3
+Compsci,Hoare Logic and Model Checking,02-05-2025,Fri,10:00,11:00,II,3
+Compsci,Hoare Logic and Model Checking,05-05-2025,Mon,10:00,11:00,II,3
+Compsci,Hoare Logic and Model Checking,07-05-2025,Wed,10:00,11:00,II,3
+Compsci,Business Studies Seminars,07-05-2025,Wed,11:00,12:00,II,3
+Compsci,Hoare Logic and Model Checking,09-05-2025,Fri,10:00,11:00,II,3
+Compsci,Business Studies Seminars,09-05-2025,Fri,11:00,12:00,II,3
+Compsci,Hoare Logic and Model Checking,12-05-2025,Mon,10:00,11:00,II,3
+Compsci,Business Studies Seminars,12-05-2025,Mon,11:00,12:00,II,3
+Compsci,Hoare Logic and Model Checking,14-05-2025,Wed,10:00,11:00,II,3
+Compsci,Hoare Logic and Model Checking,16-05-2025,Fri,10:00,11:00,II,3
+Compsci,Hoare Logic and Model Checking,19-05-2025,Mon,10:00,11:00,II,3
+Compsci,Business Studies Seminars,19-05-2025,Mon,11:00,12:00,II,3
+Compsci,Hoare Logic and Model Checking,21-05-2025,Wed,10:00,11:00,II,3
+Compsci,Business Studies Seminars,21-05-2025,Wed,11:00,12:00,II,3
+Compsci,Hoare Logic and Model Checking,23-05-2025,Fri,10:00,11:00,II,3
+Compsci,Business Studies Seminars,23-05-2025,Fri,11:00,12:00,II,3
+Compsci,Hoare Logic and Model Checking,26-05-2025,Mon,10:00,11:00,II,3
+Compsci,Business Studies Seminars,27-05-2025,Tue,11:00,12:00,II,3
+Compsci,Hoare Logic and Model Checking,28-05-2025,Wed,10:00,11:00,II,3
+Compsci,Business Studies Seminars,28-05-2025,Wed,11:00,12:00,II,3
